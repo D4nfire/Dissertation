@@ -1,0 +1,91 @@
+http://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-6-233
+ 	
+BACKGROUND
+
+Uses results from mircoarray experiments
+fold-changes (e.g. 2 fold up regulation)
+up-regulation is green, no change is yellow and down-regulation is red.
+
+USEFULL REFERENCES
+
+Ref 1 	- PageRank algorithm
+Ref 3 		- Noise in Microarray experiments
+Ref 4-5 	- GO annotations
+Ref 6-8		- Protien-protien interactions
+Ref 11 		- Gene Ontology annotations
+Ref 17-18 	- ROC
+
+THE ALGORITHM
+
+They note that other measures can be used other than Gene expression changes, e.g.
+P-vakes which will show genes which are highly changed have a large input value.
+They only consider the use of expression changes in this paper. They use an expression
+vector. Containing the value for its expression change in the experiment under consideration.
+
+param d [0..1] range, where 0 shows results based solely on the absolute value of the
+expression change for that gene and 1 shows ranking based on connectivity. Values between
+0 and 1 interpolate between the two extremes.
+
+SYNTHETIC NETWORKS
+
+They use synthetic newtworks which closely resemble the experiment results. They have pre-
+define/determined ranking, e.g. genes in set A should be ranked higher than those in set B
+because set A was determined to be "changed genes" and set B was "unchanged genes". This is 
+the result based purely on fold-change. Re-ordering by GeneRank can be shown because of this.
+If all the genes from set A are ranked highest on the list then d=0 and the algorithm is
+equivenlant to ranking on pure fold-change.
+
+The d value is set at 0.05 intervals [0.05-0.95] (for each value results are averaged over 
+5 runs of the experiment) The higher the d value in this case the better the results, more 
+accuracy. The improvement by the algorithm over expression change ranking is greater when 
+the difference between the expected degree of both sets is greater. (LOOK UP AUC AND DEGREE)
+
+They experimented with set sizes, |A| = 50,100,200,500 while |B| was always 1000. Set A had 
+5-50% of genes defined as "differentially expressed". Results show set size of 100 was best 
+for A. Produced the best results. (Largest improvement over expression change ranking).
+Results show this method can produce better results than ranking based purely on diffential
+expression.
+
+0.75 <= d <= 0.85 produced optimal results, beyond 0.85 and the quality of results decreses,
+therefore some expression change impormation is needed to make the best interpretation. It 
+appears that although optimal results arise when there is some expression considered in the
+ranking, a major contributory factor to the success of the algorithm is the high relative 
+degree of the genes that are differentially expressed.
+
+GO NETWORKS	
+
+simliar method to above, interval values of d. Values 0.05-0.5 were best when the top 300 
+down-regulated genes were in set A. As 0.05-0.5 all increased the AUC for all cases, 0.5 
+was seen as the appropriate value. The increase in AUC is different accross the 3 Gene 
+Ontology components.
+reulated genes
+
+FINAL TESTING
+
+Real experimental data was used. An experiment was carried out to assess how well the algorithm 
+is able to increase the relative ranking of a gene based on its connections to other highly 
+changed genes.
+
+CONCLUSION
+
+GeneRank, allows connectivity and expression data to be combined to produce a more robust and 
+informed summary of an experiment, compared to the standard procedure of basing the importance 
+of a gene on its measured expression change.
+We note that GeneRank results are not designed to replace the actual expression measurements, 
+but should be used alongside the results with additional biological knowledge, to draw attention 
+to unusual structures within the data. For example, a gene which is not viewed as important from 
+the microarray results alone but is highly ranked in the GeneRank results, should be given further 
+biological consideration.
+GeneRank will further improve as more high-quality biological network information becomes avaliable.
+
+METHOD
+
+lots of maths
+
+LOOK UP	
+
+Synthetic networks
+AUC
+Gene Ontology
+
+further look at observations of results

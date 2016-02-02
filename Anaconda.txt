@@ -1,0 +1,1 @@
+C:\Users\danfire\Anaconda3\Lib\idlelib > idle (windows batch file)
