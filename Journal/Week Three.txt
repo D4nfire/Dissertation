@@ -1,0 +1,12 @@
+Week three was sepnt getting to grips with the data, this included looking at the data types and 
+extensions avaliable.
+
+The majority of week three was spent researching more papers, reading papers and creating a list
+of terms and refferences too look into. On papers which were read I highlighted parts which could
+be re-read to give a general understanding and jog my memory. These parts could be included in and
+indtroduction.
+
+I also spent some time watching and going along with python tutorials on youtube getting a better
+understanding and grip on the language. This will be encessary to do the algorithm part of the
+project. Further reading along with this exploration of python has led to a better understanding 
+of what the goals and achievements of GR is and how it was produced.

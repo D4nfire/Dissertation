@@ -1,1 +1,18 @@
-http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4305247/
+NAME														LINK									NOTES		
+	
+Microarray enriched gene rank	(READ)							http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4305247/             			MicroArray enriched GeneRank
+DNA microarrays: Vital statistics	(READ)						http://www.nature.com/nature/journal/v424/n6949/full/424610a.html       		Noise in MicroArray experiments
+Making sense of microarray data to classify cancer	(READ)				http://www.nature.com/tpj/journal/v3/n6/full/6500209a.html				GO annotations
+Graph-based iterative Group Analysis enhances microarray interpretation		(READ)	http://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-5-100		GO annotations
+Discovering regulatory and signalling circuits in molecular interaction networks.	http://www.ncbi.nlm.nih.gov/pubmed/12169552?dopt=Abstract				Protien-protien interactions
+Functional modules by relating protein interaction networks and gene expression		http://www.ncbi.nlm.nih.gov/pmc/articles/PMC275479/					Protien-protien interactions
+Protein network inference from multiple genomic data: a supervised approach 		http://bioinformatics.oxfordjournals.org/cgi/pmidlookup?view=long&pmid=15262821		Protien-protien interactions
+Gene Ontology Consortium								http://geneontology.org/								Gene Ontology annotations
+Use of receiver operating characteristic (ROC) analysis to evaluate sequence matching	http://www.sciencedirect.com/science/article/pii/S0097848596800040			ROC
+Google goes cancer: improving outcome prediction for cancer patients by network-based 	http://www.ncbi.nlm.nih.gov/pubmed/22615549						
+ranking of marker genes.
+
+
+Transcription factor
+Genetics
+only looking at expression of a gene doesn't tell all, one gene could code for multiple protiens!

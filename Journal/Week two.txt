@@ -1,0 +1,9 @@
+The second week was spent getting to know the subject area better by reading a couple
+more papers relavent to the topic. I also looked at some small python tutorials to get
+a better grip on the language.
+
+Further to this I wrote the Outline sproject specifcation using a couple of papers
+in the reffereance section.
+
+I also had a look at some potential expression data and found parts of the algorithms
+which will be required to manipulate the data.

@@ -1,0 +1,15 @@
+The first week was mainly spent getting to grips with the background to the project.
+I read the GeneRank paper along with the ARACNE paper and looked around at a few more
+related to the topic. This was done to get a better understanding of what the prject
+entailed as well as helping me decide which paper to base my project on.
+
+I decided to base my project around the GeneRank algorithm as it seemed more interesting
+to me and I could see possible uses of it within biology. It is also possible to fully
+implement the algorithm in Python with pre-existing tools and libraries. I wanted to use
+Python as an opportunity to learn a new programming language, in this case a script based
+language. 
+
+The rest of the week was spent sorting file management, setting up a private github repository
+and potential backups. I also looked into some python tutorials, downloaded annaconda and other
+tool kits and tried them out. This was done to get a basic understanding of Python, how it is
+used and how to use it.

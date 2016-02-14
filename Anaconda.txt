@@ -1,1 +1,10 @@
 C:\Users\danfire\Anaconda3\Lib\idlelib > idle (windows batch file)
+
+To run Python a better way -> cmd -> type Python
+
+To save txt docs as python, running in idle, save as "(the name).py"
+
+To run python code written in for instance Notepad++ -> cd to the directory with the file in
+then type python "(name of the file).py"
+
+The cd for the dissertation is C:\ThirdYear\Dissertation\Python_Code
