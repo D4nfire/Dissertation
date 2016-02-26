@@ -1,5 +1,5 @@
-print("Hello World")
-myName = input("What is your name? ")
+print("Hello World \n")
+myName = input("What is your name? \n")
 print("Hello " + myName)
 
 if((myName == 'dan')|(myName == 'Dan')):
