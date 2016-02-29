@@ -17,12 +17,18 @@ function r = geneRank(W,ex,d)
 %            by Julie L. Morrison, Rainer Breitling, 
 %            Desmond J. Higham and David R. Gilbert, 
 %            submitted for publication.
-
-ex = abs(ex);
-norm_ex = ex/max(ex);
-w = sparse(W);
-degrees = sum(W);
-ind = find(degrees == 0);
+		
+			# = MY NOTES
+ex = abs(ex);   # Y = abs(X) returns the absolute value of each element in array X. 
+		# in this case makes all values positive
+norm_ex = ex/max(ex);	# M = max(A) returns the largest elements of A.
+w = sparse(W);	# S = sparse(A) converts a full matrix into sparse form by squeezing out 
+		# any zero elements. If a matrix contains many zeros, converting the matrix
+		# to sparse storage saves memory.
+degrees = sum(W);	# S = sum(A) returns the sum of the elements of A along the first 
+			# array dimension whose size does not equal 1.
+ind = find(degrees == 0);	# k = find(X) returns a vector containing the linear indices 
+				# of each nonzero element in array X.
 degrees(ind) = 1;
 D1 = sparse(diag(1./degrees));
 A = eye(size(w)) - d*(w'*D1);

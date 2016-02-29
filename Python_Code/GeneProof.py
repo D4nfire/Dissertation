@@ -1,9 +1,6 @@
 import networkx as nx
-import scipy as sp
-#import ExpressionData 		#ATM this will run the script as is, before doing this one
 
 # https://networkx.github.io/documentation/latest/reference/classes.graph.html
-# https://networkx.github.io/documentation/latest/reference/generated/networkx.linalg.graphmatrix.adjacency_matrix.html
 
 #Parsing data from the gene annotation file to extract a list of
 #genes with their GO 
@@ -48,15 +45,26 @@ with open('C:\ThirdYear\Dissertation\Other helpful documents\Gene_ontology_annot
 				goList = []	# reset the GO terms list to null 
 			else:  
 				goList.append(go)
-				
+
+connectedList = []
 while (j < len(geneList)):	
 	if (i != j):
 		#print("This part works") # proof that the idea works
 		#print(geneList[i])
 		#print(geneList[j])
-		if(bool(set(geneList[i]) & set(geneList[j]))):			
-			G.add_edge(geneList[i-1],geneList[j-1])
-			#print(geneList[i-1] + ", " + geneList[j-1])		#Proof it works
+		if(bool(set(geneList[i]) & set(geneList[j]))):
+			if(geneList[i-1] not in connectedList):
+				#print("hello")
+				connectedList.append(geneList[i-1])
+				G.add_edge(geneList[i-1],geneList[j-1])
+			elif(geneList[j-1] not in connectedList): 
+				#print("goodbye")
+				connectedList.append(geneList[j-1])
+				G.add_edge(geneList[i-1],geneList[j-1])
+			else:
+				print("yolo")			
+				G.add_edge(geneList[i-1],geneList[j-1])
+				#print(geneList[i-1] + ", " + geneList[j-1])
 			
 			#print("success")  proof that this part works
 			i = i + 2
@@ -64,11 +72,8 @@ while (j < len(geneList)):
 	i = i + 2
 	j = j + 2
 	
-nx.write_graphml(G, "testGraph.xml")	 # Writes the graph to a file
-# which can be imported to cytoscape to visualise the graph.
-A = nx.adjacency_matrix(G) 	# Creates an adjacency matrix of the graph above.
-#print (A)		#proof it works
+nx.write_graphml(G, "testGraph.xml")	
 #print(G.edges())      #proof that the gene connections work
 	
-#print(geneList)	 #Shows the list creates properly with all genes	
+#print(geneList)	 Shows the list creates properly with all genes	
 #print("done") # to show me it is finished loading NOW REDUNDANT

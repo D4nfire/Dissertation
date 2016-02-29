@@ -1,0 +1,12 @@
+Week four was spent on the python implementation of the algorithm.
+Data was parsed from the gene annotations file as well as a gene expression file
+It was then manipulated to get out the required items, for the gene annotations file
+this consisted of connected genes via GO ID and putting them into a graph. This was
+displayed using CytoScape. The adjacency matrix for the graph was also created for later
+use. The graph and adjacency matrix was made using Netwrokx
+For the gene expression file, the expression data along with the genes "systematic name"
+was extracted. The expression data for each gene was averaged, as I expect this is what
+will be required later on, however the range of this data may be required instead. The
+systematic name provided is not the same as the general name given by the gene annotations
+file so a file called "multipleNameTypes" was created using YeastMine which includes all
+variations of gene identification. 
