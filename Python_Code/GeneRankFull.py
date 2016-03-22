@@ -4,8 +4,10 @@ import networkx as nx
 import scipy as sp
 #import ExpressionData 		#ATM this will run the script as is, before doing this one
 
+# http://docs.scipy.org/doc/scipy/reference/generated/scipy.io.loadmat.html # to read matlab file
 # https://networkx.github.io/documentation/latest/reference/classes.graph.html
 # https://networkx.github.io/documentation/latest/reference/generated/networkx.linalg.graphmatrix.adjacency_matrix.html
+# http://pythoncentral.io/how-to-sort-a-list-tuple-or-object-with-sorted-in-python/
 
 #Parsing data from the gene annotation file to extract a list of
 #genes with their GO 
@@ -114,32 +116,33 @@ while (i < num):
 # making the list have the form of gene, ex, r, sumOf,
 # gene, ex, r, sumOf, etc...
 sumOfConnection = 0 # saves time later
-num2 = numGenes*3
+num2 = numGenes*4
 temp_r = 0
 i = 0
 sumOfInitialGenes = 0
 while (i < num2): # Ranking.py has the alternative temp_r method
 	temp_r = gene_ex_r[i+1]/sumOfEx # GeneRankLoad.py has the other alternative 
-	gene_ex_r.insert(i+2 , temp_r)
+	gene_ex_r.insert(i+2 , temp_r) # This will form the initial ranking, the 1-norm value for later use
+	gene_ex_r.insert(i+3 , temp_r) # This will be the actual ranking
 	sumOfInitialGenes = sumOfInitialGenes + temp_r
 	temp_r = 0		# resets the value to 0, ready for the next gene
-	i = i + 3
-# print (sumOfInitialGenes) # Gives roughly 1.000000000024 as an answer
-#print (gene_ex_r) 	# gene, expression value, rank, etc...
+	i = i + 4
+#print (sumOfInitialGenes) # Gives roughly 1.000000000024 as an answer
+#print (gene_ex_r) 	# gene, expression value, normalised ex value, rank, etc...
 #print("done") # to show me this part is finished
 
-num2 = numGenes*4
+num2 = numGenes*5
 i = 0
 while (i < num2):
-	gene_ex_r.insert(i+3 , sumOfConnection)
-	i = i + 4
+	gene_ex_r.insert(i+4 , sumOfConnection)
+	i = i + 5
 
-#print (gene_ex_r) 	# gene, expression value, rank, sumOf, etc...
+#print (gene_ex_r) 	# gene, expression value, normalised ex value, rank, sumOf, etc...
 #print("done") # to show me this part is finished
 
 # Run num3 iterations, updating every genes rank
 # per iteration
-num3 = 400
+num3 = 2000
 num4 = len(gene_ex_r)
 d = 0.5
 connectionValue = 0
@@ -157,21 +160,35 @@ while (i < num3):
 			# temp_connection is the wij rj[n-1] / degi part, for this gene
 			temp_connection = (hasEdge * (gene_ex_r[i+1])) / (G.degree(gene_ex_r[i]))
 			# sumOfConnection is the current sum of the above part, for i iterations
-			sumOfConnection = (gene_ex_r[j+3]) + temp_connection
-			gene_ex_r[j+3] = sumOfConnection  # update the above sum value for this gene
-			connectionValue = (1-d)*(gene_ex_r[i+1]) # this forms the (1-d)exj part 
+			sumOfConnection = (gene_ex_r[j+4]) + temp_connection
+			gene_ex_r[j+4] = sumOfConnection  # update the above sum value for this gene
+			connectionValue = (1-d)*(gene_ex_r[i+2]) # this forms the (1-d)exj part   # this takes the normalised ex value
 			rank = connectionValue + (d * gene_ex_r[j+3]) 		# this is the ranking of gene j after								
-			gene_ex_r[j+2] = rank	# update the ranking		# i iterations
+			gene_ex_r[j+3] = rank	# update the ranking		# i iterations
 			connectionValue = 0  # Resets the value as a precaution
-		j = j + 4
-	i = i + 4
+		j = j + 5
+	i = i + 5
 	j = 0
-#print (gene_ex_r) 	# gene, expression value, rank, sumOf, etc...
-
-num5 = numGenes*4
-i = 0	
+#print (gene_ex_r) 	# gene, expression value, normalised ex value, rank, sumOf, etc...
+	
+num5 = numGenes*5	
+rankedList = []
+rankPerGeneList = []
+i = 0
 while (i < num5):
-	#s = gene_ex_r[i] + " is ranked " + gene_ex_r[i+2] # print error
-	#print (s)
-	print(gene_ex_r[i] , " is ranked " , gene_ex_r[i+2])
-	i = i + 4
+		rankPerGeneList.append(gene_ex_r[i])
+		rankPerGeneList.append(gene_ex_r[i+3])
+		rankedList.append(rankPerGeneList)
+		rankPerGeneList = []
+		i = i + 5
+		
+def getKey(item):
+	return item[1]
+rankedList = sorted(rankedList, key = getKey, reverse = True)
+
+num6 = len(rankedList)
+i = 0
+while (i < num6):
+	print(rankedList[i][0] , " is ranked: " , i+1, " with a ranking value of: ", rankedList[i][1])
+	i = i + 1
+

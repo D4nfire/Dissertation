@@ -74,7 +74,7 @@ print("done") # to show me this part is finished
 
 # Run num3 iterations, updating every genes rank
 # per iteration
-num3 = 2000
+num3 = 400
 num4 = len(gene_ex_r)
 d = 0.5
 connectionValue = (1 - d)
@@ -100,8 +100,8 @@ while (i < num3):
 #print (gene_ex_r) 	# gene, expression value, rank, sumOf, etc...	
 
 # Print the ranking value for each gene
+#num5 = numGenes*4
 #i = 0	
-#while (i < num2):
-	#print(gene_ex_r[i] + " is ranked " + gene_ex_r[i+3])
-	#i = i + 1
-	
+#while (i < num5):
+	#print(gene_ex_r[i] , " is ranked " , gene_ex_r[i+2])
+	#i = i + 4
