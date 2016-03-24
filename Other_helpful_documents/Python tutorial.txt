@@ -1,0 +1,7 @@
+http://www.tutorialspoint.com/python/python_strings.htm   - overall tutorial
+
+http://www.diveintopython.net/   	- another general one
+
+http://www.python-course.eu/graphs_python.php  	- graph tutorial
+
+http://igraph.org/python/doc/tutorial/tutorial.html  	- Igraph tutorial

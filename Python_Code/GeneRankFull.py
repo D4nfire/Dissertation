@@ -23,7 +23,7 @@ j = 1
 k = 1
 
 G = nx.Graph()
-with open('C:\ThirdYear\Dissertation\Other helpful documents\Gene_ontology_annotations.txt') as infile:
+with open('C:\ThirdYear\Dissertation\Other_helpful_documents\Gene_ontology_annotations.txt') as infile:
 	for line in infile:
 		if (line.startswith('SGD')):
 			tempList = line.split("	")
