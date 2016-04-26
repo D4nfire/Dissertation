@@ -1,0 +1,199 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <graph edgedefault="undirected">
+    <node id="Zfp626" />
+    <node id="Dyrk1b" />
+    <node id="Map3k10" />
+    <node id="Timm50" />
+    <node id="Ttc9b" />
+    <node id="Rasgrp4" />
+    <node id="Sertad3" />
+    <node id="Akt2" />
+    <node id="Zfp59" />
+    <node id="Kcnk6" />
+    <node id="Pak4" />
+    <node id="Sertad1" />
+    <node id="Spint2" />
+    <node id="Fbxo17" />
+    <node id="Gmfg" />
+    <node id="Lgals7" />
+    <node id="2310022A10Rik" />
+    <node id="Spred3" />
+    <node id="Ppp1r14a" />
+    <node id="Map4k1" />
+    <node id="Yif1b" />
+    <node id="Sipa1l3" />
+    <node id="Eid2" />
+    <node id="Mrps12" />
+    <node id="Sirt2" />
+    <node id="Ech1" />
+    <node id="Rinl" />
+    <node id="Fbl" />
+    <node id="Lrfn1" />
+    <node id="Psmc4" />
+    <node id="Paf1" />
+    <node id="Med29" />
+    <node id="Actn4" />
+    <node id="Pld3" />
+    <node id="Eif3k" />
+    <node id="Shkbp1" />
+    <node id="1700049G17Rik" />
+    <node id="Papl" />
+    <node id="Sptbn4" />
+    <node id="Capn12" />
+    <node id="Hnrnpl" />
+    <node id="Sars2" />
+    <node id="Fbxo27" />
+    <node id="Samd4b" />
+    <node id="Plekhg2" />
+    <node id="Lgals4" />
+    <node id="Zfp60" />
+    <node id="Numbl" />
+    <node id="Zfp36" />
+    <node id="Dll3" />
+    <node id="Nfkbib" />
+    <node id="Rps16" />
+    <node id="C030039L03Rik" />
+    <node id="Psmd8" />
+    <node id="Dpf1" />
+    <node id="Supt5" />
+    <edge source="Zfp626" target="Akt2" />
+    <edge source="Zfp626" target="Dyrk1b" />
+    <edge source="Zfp626" target="Map3k10" />
+    <edge source="Zfp626" target="Map4k1" />
+    <edge source="Zfp626" target="Paf1" />
+    <edge source="Zfp626" target="Capn12" />
+    <edge source="Dyrk1b" target="Zfp60" />
+    <edge source="Dyrk1b" target="Lgals7" />
+    <edge source="Dyrk1b" target="Zfp59" />
+    <edge source="Dyrk1b" target="Akt2" />
+    <edge source="Dyrk1b" target="Nfkbib" />
+    <edge source="Dyrk1b" target="1700049G17Rik" />
+    <edge source="Dyrk1b" target="C030039L03Rik" />
+    <edge source="Dyrk1b" target="Lrfn1" />
+    <edge source="Dyrk1b" target="Sptbn4" />
+    <edge source="Dyrk1b" target="Sirt2" />
+    <edge source="Map3k10" target="Zfp60" />
+    <edge source="Map3k10" target="Akt2" />
+    <edge source="Map3k10" target="Zfp59" />
+    <edge source="Map3k10" target="Map4k1" />
+    <edge source="Map3k10" target="Nfkbib" />
+    <edge source="Map3k10" target="1700049G17Rik" />
+    <edge source="Map3k10" target="C030039L03Rik" />
+    <edge source="Map3k10" target="Lrfn1" />
+    <edge source="Map3k10" target="Pak4" />
+    <edge source="Timm50" target="Akt2" />
+    <edge source="Timm50" target="Lgals7" />
+    <edge source="Timm50" target="Fbl" />
+    <edge source="Timm50" target="Yif1b" />
+    <edge source="Timm50" target="Paf1" />
+    <edge source="Timm50" target="Supt5" />
+    <edge source="Ttc9b" target="1700049G17Rik" />
+    <edge source="Ttc9b" target="Eid2" />
+    <edge source="Ttc9b" target="Samd4b" />
+    <edge source="Ttc9b" target="Lrfn1" />
+    <edge source="Ttc9b" target="2310022A10Rik" />
+    <edge source="Rasgrp4" target="Spred3" />
+    <edge source="Rasgrp4" target="Spint2" />
+    <edge source="Sertad3" target="Sertad1" />
+    <edge source="Akt2" target="Map4k1" />
+    <edge source="Akt2" target="Supt5" />
+    <edge source="Akt2" target="Zfp60" />
+    <edge source="Akt2" target="Zfp59" />
+    <edge source="Akt2" target="Sirt2" />
+    <edge source="Akt2" target="Nfkbib" />
+    <edge source="Akt2" target="1700049G17Rik" />
+    <edge source="Akt2" target="C030039L03Rik" />
+    <edge source="Akt2" target="Papl" />
+    <edge source="Akt2" target="Pak4" />
+    <edge source="Zfp59" target="Map4k1" />
+    <edge source="Zfp59" target="Paf1" />
+    <edge source="Zfp59" target="Capn12" />
+    <edge source="Kcnk6" target="Gmfg" />
+    <edge source="Pak4" target="Lrfn1" />
+    <edge source="Pak4" target="Plekhg2" />
+    <edge source="Sertad1" target="Zfp36" />
+    <edge source="Sertad1" target="Sirt2" />
+    <edge source="Spint2" target="Ppp1r14a" />
+    <edge source="Spint2" target="Map4k1" />
+    <edge source="Fbxo17" target="Nfkbib" />
+    <edge source="Fbxo17" target="Fbxo27" />
+    <edge source="Gmfg" target="Plekhg2" />
+    <edge source="Gmfg" target="Rinl" />
+    <edge source="Gmfg" target="Samd4b" />
+    <edge source="Gmfg" target="Lgals4" />
+    <edge source="Gmfg" target="Supt5" />
+    <edge source="2310022A10Rik" target="Lrfn1" />
+    <edge source="2310022A10Rik" target="Pld3" />
+    <edge source="2310022A10Rik" target="1700049G17Rik" />
+    <edge source="2310022A10Rik" target="Eid2" />
+    <edge source="2310022A10Rik" target="Samd4b" />
+    <edge source="Spred3" target="Actn4" />
+    <edge source="Spred3" target="Sptbn4" />
+    <edge source="Map4k1" target="Rinl" />
+    <edge source="Map4k1" target="Zfp60" />
+    <edge source="Map4k1" target="1700049G17Rik" />
+    <edge source="Map4k1" target="Lrfn1" />
+    <edge source="Map4k1" target="C030039L03Rik" />
+    <edge source="Sipa1l3" target="Psmd8" />
+    <edge source="Eid2" target="Sirt2" />
+    <edge source="Mrps12" target="Fbl" />
+    <edge source="Mrps12" target="Sars2" />
+    <edge source="Mrps12" target="Eif3k" />
+    <edge source="Mrps12" target="Rps16" />
+    <edge source="Mrps12" target="Psmd8" />
+    <edge source="Mrps12" target="Supt5" />
+    <edge source="Sirt2" target="Paf1" />
+    <edge source="Sirt2" target="Zfp36" />
+    <edge source="Sirt2" target="Fbl" />
+    <edge source="Sirt2" target="Numbl" />
+    <edge source="Sirt2" target="Lgals4" />
+    <edge source="Sirt2" target="Nfkbib" />
+    <edge source="Sirt2" target="Med29" />
+    <edge source="Sirt2" target="Supt5" />
+    <edge source="Ech1" target="Lgals4" />
+    <edge source="Fbl" target="Samd4b" />
+    <edge source="Fbl" target="Supt5" />
+    <edge source="Lrfn1" target="Nfkbib" />
+    <edge source="Lrfn1" target="1700049G17Rik" />
+    <edge source="Lrfn1" target="Supt5" />
+    <edge source="Psmc4" target="Nfkbib" />
+    <edge source="Psmc4" target="Psmd8" />
+    <edge source="Psmc4" target="Paf1" />
+    <edge source="Paf1" target="Zfp60" />
+    <edge source="Paf1" target="1700049G17Rik" />
+    <edge source="Paf1" target="Supt5" />
+    <edge source="Paf1" target="C030039L03Rik" />
+    <edge source="Actn4" target="Numbl" />
+    <edge source="Actn4" target="Sars2" />
+    <edge source="Actn4" target="Shkbp1" />
+    <edge source="Actn4" target="Plekhg2" />
+    <edge source="Actn4" target="Sptbn4" />
+    <edge source="Actn4" target="Capn12" />
+    <edge source="Eif3k" target="Rps16" />
+    <edge source="Eif3k" target="Psmd8" />
+    <edge source="Shkbp1" target="Lgals4" />
+    <edge source="Shkbp1" target="Sptbn4" />
+    <edge source="1700049G17Rik" target="Samd4b" />
+    <edge source="1700049G17Rik" target="Capn12" />
+    <edge source="Sptbn4" target="Sars2" />
+    <edge source="Sptbn4" target="Dpf1" />
+    <edge source="Sptbn4" target="Lgals4" />
+    <edge source="Sptbn4" target="Supt5" />
+    <edge source="Capn12" target="Zfp60" />
+    <edge source="Capn12" target="C030039L03Rik" />
+    <edge source="Hnrnpl" target="Rps16" />
+    <edge source="Hnrnpl" target="Zfp36" />
+    <edge source="Sars2" target="Rps16" />
+    <edge source="Sars2" target="Supt5" />
+    <edge source="Fbxo27" target="Nfkbib" />
+    <edge source="Samd4b" target="Numbl" />
+    <edge source="Plekhg2" target="Supt5" />
+    <edge source="Lgals4" target="Nfkbib" />
+    <edge source="Zfp60" target="Zfp36" />
+    <edge source="Numbl" target="Dll3" />
+    <edge source="Nfkbib" target="Psmd8" />
+    <edge source="Rps16" target="Psmd8" />
+    <edge source="Rps16" target="Supt5" />
+  </graph>
+</graphml>

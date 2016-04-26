@@ -1,0 +1,167 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <graph edgedefault="undirected">
+    <node id="Oprd1" />
+    <node id="Mrps15" />
+    <node id="Tinagl1" />
+    <node id="Nr0b2" />
+    <node id="Yars" />
+    <node id="Thrap3" />
+    <node id="Dnajc8" />
+    <node id="Pef1" />
+    <node id="Rbbp4" />
+    <node id="Csf3r" />
+    <node id="Srsf4" />
+    <node id="Sfpq" />
+    <node id="Hdac1" />
+    <node id="Atpif1" />
+    <node id="Hmgb4" />
+    <node id="Psmb2" />
+    <node id="Fgr" />
+    <node id="Arid1a" />
+    <node id="Hpca" />
+    <node id="Rcc1" />
+    <node id="Tekt2" />
+    <node id="Ythdf2" />
+    <node id="Eya3" />
+    <node id="Adprhl2" />
+    <node id="S100pbp" />
+    <node id="Stk40" />
+    <node id="Kpna6" />
+    <node id="Zfp362" />
+    <node id="Rspo1" />
+    <node id="Rnf19b" />
+    <node id="Phc2" />
+    <node id="Ak2" />
+    <node id="Cd52" />
+    <node id="Laptm5" />
+    <node id="Mecr" />
+    <node id="Gja4" />
+    <node id="Rpa2" />
+    <node id="Snrnp40" />
+    <node id="Gnl2" />
+    <node id="Wasf2" />
+    <node id="Trappc3" />
+    <node id="Wdtc1" />
+    <node id="Lck" />
+    <node id="Rps6ka1" />
+    <node id="Map3k6" />
+    <node id="Ptpru" />
+    <node id="Snip1" />
+    <node id="Map7d1" />
+    <node id="Gjb3" />
+    <node id="Zmym4" />
+    <node id="Ncdn" />
+    <node id="Gjb5" />
+    <node id="Ptafr" />
+    <node id="Khdrbs1" />
+    <node id="Stx12" />
+    <node id="Slc9a1" />
+    <node id="Gjb4" />
+    <node id="Epb4.1" />
+    <node id="Nudc" />
+    <node id="Tmem222" />
+    <node id="Ptp4a2" />
+    <node id="Bsdc1" />
+    <edge source="Oprd1" target="Ptpru" />
+    <edge source="Oprd1" target="Ptafr" />
+    <edge source="Mrps15" target="Nudc" />
+    <edge source="Mrps15" target="Gnl2" />
+    <edge source="Mrps15" target="Psmb2" />
+    <edge source="Mrps15" target="Yars" />
+    <edge source="Tinagl1" target="Ncdn" />
+    <edge source="Tinagl1" target="Khdrbs1" />
+    <edge source="Tinagl1" target="Hpca" />
+    <edge source="Nr0b2" target="Rnf19b" />
+    <edge source="Nr0b2" target="Fgr" />
+    <edge source="Yars" target="Slc9a1" />
+    <edge source="Yars" target="Gnl2" />
+    <edge source="Yars" target="Psmb2" />
+    <edge source="Yars" target="Kpna6" />
+    <edge source="Thrap3" target="Srsf4" />
+    <edge source="Thrap3" target="Arid1a" />
+    <edge source="Thrap3" target="Sfpq" />
+    <edge source="Dnajc8" target="Srsf4" />
+    <edge source="Dnajc8" target="Snrnp40" />
+    <edge source="Pef1" target="Map3k6" />
+    <edge source="Pef1" target="Snip1" />
+    <edge source="Pef1" target="Tmem222" />
+    <edge source="Pef1" target="Bsdc1" />
+    <edge source="Pef1" target="Adprhl2" />
+    <edge source="Rbbp4" target="Rpa2" />
+    <edge source="Rbbp4" target="Phc2" />
+    <edge source="Rbbp4" target="Ythdf2" />
+    <edge source="Rbbp4" target="S100pbp" />
+    <edge source="Rbbp4" target="Srsf4" />
+    <edge source="Rbbp4" target="Lck" />
+    <edge source="Rbbp4" target="Kpna6" />
+    <edge source="Csf3r" target="Cd52" />
+    <edge source="Srsf4" target="Stk40" />
+    <edge source="Srsf4" target="Snrnp40" />
+    <edge source="Srsf4" target="Khdrbs1" />
+    <edge source="Srsf4" target="Zmym4" />
+    <edge source="Srsf4" target="Rcc1" />
+    <edge source="Srsf4" target="Wdtc1" />
+    <edge source="Srsf4" target="Gnl2" />
+    <edge source="Srsf4" target="Kpna6" />
+    <edge source="Sfpq" target="Nudc" />
+    <edge source="Sfpq" target="Psmb2" />
+    <edge source="Sfpq" target="Khdrbs1" />
+    <edge source="Hdac1" target="Gnl2" />
+    <edge source="Hdac1" target="Kpna6" />
+    <edge source="Atpif1" target="Wdtc1" />
+    <edge source="Hmgb4" target="Map3k6" />
+    <edge source="Psmb2" target="Ptp4a2" />
+    <edge source="Psmb2" target="Snip1" />
+    <edge source="Psmb2" target="Mecr" />
+    <edge source="Psmb2" target="Rcc1" />
+    <edge source="Psmb2" target="Nudc" />
+    <edge source="Arid1a" target="Zfp362" />
+    <edge source="Arid1a" target="Ncdn" />
+    <edge source="Hpca" target="Slc9a1" />
+    <edge source="Hpca" target="Eya3" />
+    <edge source="Hpca" target="Map3k6" />
+    <edge source="Rcc1" target="Zfp362" />
+    <edge source="Rcc1" target="Snip1" />
+    <edge source="Rcc1" target="Stk40" />
+    <edge source="Rcc1" target="Kpna6" />
+    <edge source="Tekt2" target="Trappc3" />
+    <edge source="Ythdf2" target="Ptp4a2" />
+    <edge source="Ythdf2" target="Gnl2" />
+    <edge source="Ythdf2" target="Nudc" />
+    <edge source="Ythdf2" target="Lck" />
+    <edge source="Ythdf2" target="Khdrbs1" />
+    <edge source="Adprhl2" target="Wdtc1" />
+    <edge source="Adprhl2" target="Phc2" />
+    <edge source="S100pbp" target="Ptp4a2" />
+    <edge source="Stk40" target="Zfp362" />
+    <edge source="Stk40" target="Rps6ka1" />
+    <edge source="Kpna6" target="Wdtc1" />
+    <edge source="Zfp362" target="Map3k6" />
+    <edge source="Zfp362" target="Lck" />
+    <edge source="Rspo1" target="Stx12" />
+    <edge source="Rnf19b" target="Ak2" />
+    <edge source="Phc2" target="Map7d1" />
+    <edge source="Ak2" target="Wdtc1" />
+    <edge source="Ak2" target="Mecr" />
+    <edge source="Cd52" target="Laptm5" />
+    <edge source="Gja4" target="Gjb5" />
+    <edge source="Gja4" target="Gjb3" />
+    <edge source="Gja4" target="Gjb4" />
+    <edge source="Rpa2" target="Snrnp40" />
+    <edge source="Rpa2" target="Nudc" />
+    <edge source="Snrnp40" target="Nudc" />
+    <edge source="Snrnp40" target="Khdrbs1" />
+    <edge source="Wasf2" target="Stx12" />
+    <edge source="Trappc3" target="Stx12" />
+    <edge source="Rps6ka1" target="Map3k6" />
+    <edge source="Map3k6" target="Ptpru" />
+    <edge source="Ptpru" target="Ptafr" />
+    <edge source="Snip1" target="Nudc" />
+    <edge source="Gjb3" target="Gjb5" />
+    <edge source="Gjb3" target="Gjb4" />
+    <edge source="Gjb5" target="Gjb4" />
+    <edge source="Khdrbs1" target="Ptp4a2" />
+    <edge source="Slc9a1" target="Epb4.1" />
+  </graph>
+</graphml>

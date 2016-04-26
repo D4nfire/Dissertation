@@ -1,0 +1,153 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <graph edgedefault="undirected">
+    <node id="Psrc1" />
+    <node id="Gstm1" />
+    <node id="Sars" />
+    <node id="Psma5" />
+    <node id="Kcna3" />
+    <node id="Chil4" />
+    <node id="Stxbp3a" />
+    <node id="Dram2" />
+    <node id="Celsr2" />
+    <node id="Gpsm2" />
+    <node id="Gstm3" />
+    <node id="Capza1" />
+    <node id="Amigo1" />
+    <node id="Slc25a24" />
+    <node id="Dennd2d" />
+    <node id="Gstm7" />
+    <node id="Rbm15" />
+    <node id="Ovgp1" />
+    <node id="Eps8l3" />
+    <node id="Slc6a17" />
+    <node id="Kcnc4" />
+    <node id="Mov10" />
+    <node id="Sypl2" />
+    <node id="Chil3" />
+    <node id="Gstm4" />
+    <node id="Atp5f1" />
+    <node id="Chia1" />
+    <node id="Gstm6" />
+    <node id="Cd53" />
+    <node id="St7l" />
+    <node id="Alx3" />
+    <node id="Rap1a" />
+    <node id="Gnat2" />
+    <node id="Gstm2" />
+    <node id="Sort1" />
+    <node id="Ahcyl1" />
+    <node id="Kcna2" />
+    <node id="Prpf38b" />
+    <node id="Cept1" />
+    <node id="Taf13" />
+    <node id="Lamtor5" />
+    <node id="Wdr77" />
+    <node id="Ampd2" />
+    <node id="Wnt2b" />
+    <node id="Gnai3" />
+    <node id="Ubl4b" />
+    <node id="Ddx20" />
+    <node id="Kcnd3" />
+    <edge source="Psrc1" target="Celsr2" />
+    <edge source="Psrc1" target="Sort1" />
+    <edge source="Psrc1" target="Gpsm2" />
+    <edge source="Gstm1" target="Gstm6" />
+    <edge source="Gstm1" target="Gstm2" />
+    <edge source="Gstm1" target="Gstm4" />
+    <edge source="Gstm1" target="Dennd2d" />
+    <edge source="Gstm1" target="Gstm7" />
+    <edge source="Gstm1" target="Gstm3" />
+    <edge source="Sars" target="Ubl4b" />
+    <edge source="Sars" target="Stxbp3a" />
+    <edge source="Sars" target="Ahcyl1" />
+    <edge source="Psma5" target="Lamtor5" />
+    <edge source="Psma5" target="Atp5f1" />
+    <edge source="Psma5" target="Wdr77" />
+    <edge source="Psma5" target="Ddx20" />
+    <edge source="Kcna3" target="Kcna2" />
+    <edge source="Kcna3" target="Kcnd3" />
+    <edge source="Kcna3" target="Kcnc4" />
+    <edge source="Chil4" target="Chil3" />
+    <edge source="Stxbp3a" target="Ubl4b" />
+    <edge source="Stxbp3a" target="Wdr77" />
+    <edge source="Dram2" target="Gnai3" />
+    <edge source="Dram2" target="Cept1" />
+    <edge source="Dram2" target="Taf13" />
+    <edge source="Dram2" target="St7l" />
+    <edge source="Dram2" target="Lamtor5" />
+    <edge source="Dram2" target="Rap1a" />
+    <edge source="Celsr2" target="Sort1" />
+    <edge source="Celsr2" target="Wnt2b" />
+    <edge source="Gpsm2" target="Slc25a24" />
+    <edge source="Gpsm2" target="Gnai3" />
+    <edge source="Gpsm2" target="Gnat2" />
+    <edge source="Gstm3" target="Gstm6" />
+    <edge source="Gstm3" target="Gstm2" />
+    <edge source="Gstm3" target="Sort1" />
+    <edge source="Gstm3" target="Gstm4" />
+    <edge source="Gstm3" target="Gstm7" />
+    <edge source="Gstm3" target="Eps8l3" />
+    <edge source="Gstm3" target="Prpf38b" />
+    <edge source="Capza1" target="Ubl4b" />
+    <edge source="Capza1" target="Wnt2b" />
+    <edge source="Amigo1" target="Gnai3" />
+    <edge source="Slc25a24" target="Gnai3" />
+    <edge source="Dennd2d" target="Sort1" />
+    <edge source="Dennd2d" target="St7l" />
+    <edge source="Gstm7" target="Gstm6" />
+    <edge source="Gstm7" target="Gstm4" />
+    <edge source="Gstm7" target="Gstm2" />
+    <edge source="Rbm15" target="Alx3" />
+    <edge source="Rbm15" target="Mov10" />
+    <edge source="Ovgp1" target="Kcna2" />
+    <edge source="Ovgp1" target="Cd53" />
+    <edge source="Ovgp1" target="Rap1a" />
+    <edge source="Ovgp1" target="Wdr77" />
+    <edge source="Slc6a17" target="Alx3" />
+    <edge source="Slc6a17" target="Sort1" />
+    <edge source="Slc6a17" target="Ubl4b" />
+    <edge source="Kcnc4" target="Kcna2" />
+    <edge source="Kcnc4" target="Kcnd3" />
+    <edge source="Mov10" target="Ubl4b" />
+    <edge source="Mov10" target="Rap1a" />
+    <edge source="Mov10" target="Ddx20" />
+    <edge source="Sypl2" target="Ampd2" />
+    <edge source="Gstm4" target="Gstm6" />
+    <edge source="Gstm4" target="Gstm2" />
+    <edge source="Gstm4" target="Sort1" />
+    <edge source="Atp5f1" target="Lamtor5" />
+    <edge source="Atp5f1" target="Taf13" />
+    <edge source="Chia1" target="Kcna2" />
+    <edge source="Gstm6" target="Gstm2" />
+    <edge source="Gstm6" target="Prpf38b" />
+    <edge source="Cd53" target="Kcna2" />
+    <edge source="St7l" target="Wnt2b" />
+    <edge source="Alx3" target="Ubl4b" />
+    <edge source="Rap1a" target="Cept1" />
+    <edge source="Rap1a" target="Taf13" />
+    <edge source="Rap1a" target="Gnai3" />
+    <edge source="Rap1a" target="Ubl4b" />
+    <edge source="Rap1a" target="Lamtor5" />
+    <edge source="Rap1a" target="Gnat2" />
+    <edge source="Gnat2" target="Sort1" />
+    <edge source="Gnat2" target="Gnai3" />
+    <edge source="Gnat2" target="Ampd2" />
+    <edge source="Gnat2" target="Ubl4b" />
+    <edge source="Gstm2" target="Sort1" />
+    <edge source="Sort1" target="Kcnd3" />
+    <edge source="Ahcyl1" target="Ampd2" />
+    <edge source="Ahcyl1" target="Ubl4b" />
+    <edge source="Ahcyl1" target="Wdr77" />
+    <edge source="Kcna2" target="Kcnd3" />
+    <edge source="Cept1" target="Ubl4b" />
+    <edge source="Cept1" target="Gnai3" />
+    <edge source="Taf13" target="Lamtor5" />
+    <edge source="Taf13" target="Gnai3" />
+    <edge source="Wdr77" target="Ddx20" />
+    <edge source="Ampd2" target="Ubl4b" />
+    <edge source="Ampd2" target="Gnai3" />
+    <edge source="Gnai3" target="Ubl4b" />
+    <edge source="Ubl4b" target="Ddx20" />
+  </graph>
+</graphml>

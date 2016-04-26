@@ -1,0 +1,1 @@
+Give the full file path: Give the name of the ko gene: What do you want to call the graph file? include .xml What do you want to call the output file? ['Abca1', 53, 49, 44, 37, 27, 23, 21, 18, 18, 17, 16, 15, 15, 15, 14, 14, 13, 12, 10, 7, 1]

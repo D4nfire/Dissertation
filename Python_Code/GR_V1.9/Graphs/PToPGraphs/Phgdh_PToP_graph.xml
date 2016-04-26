@@ -1,0 +1,154 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <graph edgedefault="undirected">
+    <node id="Sf3b4" />
+    <node id="Gpr89" />
+    <node id="Hmgcs2" />
+    <node id="Rbm8a" />
+    <node id="Lix1l" />
+    <node id="Prkab2" />
+    <node id="Ankrd34a" />
+    <node id="Hfe2" />
+    <node id="Hist2h3c2" />
+    <node id="Polr3c" />
+    <node id="Rnf115" />
+    <node id="Bcl9" />
+    <node id="Wars2" />
+    <node id="Ankrd35" />
+    <node id="Gja8" />
+    <node id="Tbx15" />
+    <node id="Hist2h2bb" />
+    <node id="Pias3" />
+    <node id="Hist2h2aa2///Hist2h2ac///Hist2h2aa1///Hist2h3c1" />
+    <node id="Zfp697" />
+    <node id="Hsd3b5" />
+    <node id="Chd1l" />
+    <node id="Acp6" />
+    <node id="Pex11b" />
+    <node id="Hsd3b6///Hsd3b3///Hsd3b2" />
+    <node id="Gdap2" />
+    <node id="Hsd3b1" />
+    <node id="Phgdh" />
+    <node id="Wdr3" />
+    <node id="Polr3gl" />
+    <node id="Pde4dip" />
+    <node id="Itga10" />
+    <node id="Hsd3b2" />
+    <node id="Hsd3b3" />
+    <node id="Hist2h2be" />
+    <node id="Spag17" />
+    <node id="Hist2h2aa2///Hist2h2aa1" />
+    <node id="Txnip" />
+    <node id="Sec22b" />
+    <node id="Nudt17" />
+    <node id="Hao2" />
+    <node id="Hsd3b4" />
+    <node id="Notch2" />
+    <edge source="Sf3b4" target="Phgdh" />
+    <edge source="Sf3b4" target="Rbm8a" />
+    <edge source="Sf3b4" target="Txnip" />
+    <edge source="Gpr89" target="Nudt17" />
+    <edge source="Gpr89" target="Acp6" />
+    <edge source="Gpr89" target="Polr3gl" />
+    <edge source="Hmgcs2" target="Hsd3b5" />
+    <edge source="Hmgcs2" target="Hsd3b2" />
+    <edge source="Hmgcs2" target="Spag17" />
+    <edge source="Hmgcs2" target="Hsd3b6///Hsd3b3///Hsd3b2" />
+    <edge source="Hmgcs2" target="Gdap2" />
+    <edge source="Hmgcs2" target="Hsd3b1" />
+    <edge source="Hmgcs2" target="Hsd3b3" />
+    <edge source="Hmgcs2" target="Wdr3" />
+    <edge source="Hmgcs2" target="Hao2" />
+    <edge source="Hmgcs2" target="Hsd3b4" />
+    <edge source="Hmgcs2" target="Zfp697" />
+    <edge source="Rbm8a" target="Itga10" />
+    <edge source="Rbm8a" target="Txnip" />
+    <edge source="Lix1l" target="Ankrd34a" />
+    <edge source="Lix1l" target="Pex11b" />
+    <edge source="Lix1l" target="Polr3gl" />
+    <edge source="Lix1l" target="Ankrd35" />
+    <edge source="Lix1l" target="Nudt17" />
+    <edge source="Lix1l" target="Polr3c" />
+    <edge source="Prkab2" target="Sec22b" />
+    <edge source="Ankrd34a" target="Chd1l" />
+    <edge source="Ankrd34a" target="Acp6" />
+    <edge source="Ankrd34a" target="Polr3gl" />
+    <edge source="Ankrd34a" target="Gja8" />
+    <edge source="Ankrd34a" target="Nudt17" />
+    <edge source="Hfe2" target="Pde4dip" />
+    <edge source="Hist2h3c2" target="Chd1l" />
+    <edge source="Hist2h3c2" target="Pias3" />
+    <edge source="Hist2h3c2" target="Hist2h2be" />
+    <edge source="Hist2h3c2" target="Hist2h2aa2///Hist2h2aa1" />
+    <edge source="Hist2h3c2" target="Hist2h2bb" />
+    <edge source="Hist2h3c2" target="Hist2h2aa2///Hist2h2ac///Hist2h2aa1///Hist2h3c1" />
+    <edge source="Polr3c" target="Pex11b" />
+    <edge source="Polr3c" target="Hist2h2be" />
+    <edge source="Polr3c" target="Polr3gl" />
+    <edge source="Polr3c" target="Nudt17" />
+    <edge source="Polr3c" target="Hist2h2bb" />
+    <edge source="Polr3c" target="Wdr3" />
+    <edge source="Polr3c" target="Ankrd35" />
+    <edge source="Rnf115" target="Wdr3" />
+    <edge source="Bcl9" target="Chd1l" />
+    <edge source="Bcl9" target="Acp6" />
+    <edge source="Wars2" target="Hsd3b5" />
+    <edge source="Wars2" target="Pex11b" />
+    <edge source="Wars2" target="Hsd3b6///Hsd3b3///Hsd3b2" />
+    <edge source="Wars2" target="Hsd3b1" />
+    <edge source="Wars2" target="Hsd3b3" />
+    <edge source="Wars2" target="Ankrd35" />
+    <edge source="Wars2" target="Hsd3b2" />
+    <edge source="Wars2" target="Spag17" />
+    <edge source="Wars2" target="Tbx15" />
+    <edge source="Wars2" target="Hao2" />
+    <edge source="Wars2" target="Hsd3b4" />
+    <edge source="Wars2" target="Notch2" />
+    <edge source="Ankrd35" target="Pex11b" />
+    <edge source="Ankrd35" target="Polr3gl" />
+    <edge source="Ankrd35" target="Nudt17" />
+    <edge source="Gja8" target="Acp6" />
+    <edge source="Gja8" target="Chd1l" />
+    <edge source="Tbx15" target="Hsd3b6///Hsd3b3///Hsd3b2" />
+    <edge source="Tbx15" target="Spag17" />
+    <edge source="Tbx15" target="Gdap2" />
+    <edge source="Tbx15" target="Hsd3b3" />
+    <edge source="Tbx15" target="Wdr3" />
+    <edge source="Tbx15" target="Hao2" />
+    <edge source="Tbx15" target="Notch2" />
+    <edge source="Hist2h2bb" target="Chd1l" />
+    <edge source="Hist2h2bb" target="Hist2h2be" />
+    <edge source="Hist2h2bb" target="Hist2h2aa2///Hist2h2aa1" />
+    <edge source="Hist2h2bb" target="Hist2h2aa2///Hist2h2ac///Hist2h2aa1///Hist2h3c1" />
+    <edge source="Pias3" target="Chd1l" />
+    <edge source="Hist2h2aa2///Hist2h2ac///Hist2h2aa1///Hist2h3c1" target="Chd1l" />
+    <edge source="Hist2h2aa2///Hist2h2ac///Hist2h2aa1///Hist2h3c1" target="Hist2h2be" />
+    <edge source="Zfp697" target="Phgdh" />
+    <edge source="Zfp697" target="Notch2" />
+    <edge source="Hsd3b5" target="Hsd3b2" />
+    <edge source="Hsd3b5" target="Hsd3b3" />
+    <edge source="Hsd3b5" target="Hao2" />
+    <edge source="Chd1l" target="Acp6" />
+    <edge source="Chd1l" target="Gdap2" />
+    <edge source="Chd1l" target="Phgdh" />
+    <edge source="Chd1l" target="Hist2h2be" />
+    <edge source="Chd1l" target="Hist2h2aa2///Hist2h2aa1" />
+    <edge source="Acp6" target="Phgdh" />
+    <edge source="Pex11b" target="Polr3gl" />
+    <edge source="Pex11b" target="Nudt17" />
+    <edge source="Hsd3b6///Hsd3b3///Hsd3b2" target="Spag17" />
+    <edge source="Hsd3b6///Hsd3b3///Hsd3b2" target="Hao2" />
+    <edge source="Gdap2" target="Spag17" />
+    <edge source="Gdap2" target="Wdr3" />
+    <edge source="Hsd3b1" target="Hao2" />
+    <edge source="Wdr3" target="Spag17" />
+    <edge source="Polr3gl" target="Nudt17" />
+    <edge source="Hsd3b2" target="Spag17" />
+    <edge source="Hsd3b2" target="Hsd3b3" />
+    <edge source="Hsd3b2" target="Hao2" />
+    <edge source="Hsd3b3" target="Spag17" />
+    <edge source="Hsd3b3" target="Hao2" />
+    <edge source="Hist2h2be" target="Hist2h2aa2///Hist2h2aa1" />
+    <edge source="Spag17" target="Hao2" />
+  </graph>
+</graphml>

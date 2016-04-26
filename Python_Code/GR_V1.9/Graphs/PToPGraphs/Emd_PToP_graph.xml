@@ -1,0 +1,188 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <graph edgedefault="undirected">
+    <node id="Nsdhl" />
+    <node id="Fundc2" />
+    <node id="Xlr5b///Xlr5a///Xlr5c" />
+    <node id="Plxnb3" />
+    <node id="Naa10" />
+    <node id="Xlr3b///Xlr3c///Xlr3a" />
+    <node id="Renbp" />
+    <node id="Dnase1l1" />
+    <node id="Slc6a8" />
+    <node id="Rpl10" />
+    <node id="Gabra3" />
+    <node id="Ikbkg" />
+    <node id="Mpp1" />
+    <node id="Atp6ap1" />
+    <node id="Abcd1" />
+    <node id="Slc10a3" />
+    <node id="Arhgap4" />
+    <node id="Zfp185" />
+    <node id="Vma21" />
+    <node id="Pls3" />
+    <node id="Idh3g" />
+    <node id="Gabrq" />
+    <node id="Irak1" />
+    <node id="Cnga2" />
+    <node id="Flna" />
+    <node id="Dusp9" />
+    <node id="G6pdx" />
+    <node id="Ubl4" />
+    <node id="Hcfc1" />
+    <node id="Cetn2" />
+    <node id="Fam50a" />
+    <node id="Ssr4" />
+    <node id="Avpr2" />
+    <node id="Opn1mw" />
+    <node id="Plxna3" />
+    <node id="Haus7" />
+    <node id="Bcap31" />
+    <node id="Trex2" />
+    <node id="Emd" />
+    <node id="G6pdx///G6pd2" />
+    <node id="Mecp2" />
+    <node id="Zfp92" />
+    <node id="Tktl1" />
+    <node id="Zfp275" />
+    <node id="Lage3" />
+    <node id="Srpk3" />
+    <node id="Bgn" />
+    <node id="F8" />
+    <node id="Vbp1" />
+    <node id="Gdi1" />
+    <node id="Pnck" />
+    <node id="Gabre" />
+    <node id="Hmgb3" />
+    <node id="Gpr50" />
+    <node id="Brcc3" />
+    <node id="F8a" />
+    <edge source="Nsdhl" target="Gabra3" />
+    <edge source="Nsdhl" target="Tktl1" />
+    <edge source="Nsdhl" target="Zfp92" />
+    <edge source="Nsdhl" target="Zfp275" />
+    <edge source="Nsdhl" target="Xlr3b///Xlr3c///Xlr3a" />
+    <edge source="Nsdhl" target="Ubl4" />
+    <edge source="Nsdhl" target="Slc10a3" />
+    <edge source="Nsdhl" target="F8a" />
+    <edge source="Fundc2" target="F8" />
+    <edge source="Fundc2" target="Vbp1" />
+    <edge source="Fundc2" target="Brcc3" />
+    <edge source="Xlr5b///Xlr5a///Xlr5c" target="Zfp185" />
+    <edge source="Xlr5b///Xlr5a///Xlr5c" target="Ssr4" />
+    <edge source="Plxnb3" target="Plxna3" />
+    <edge source="Naa10" target="Ubl4" />
+    <edge source="Naa10" target="Vbp1" />
+    <edge source="Naa10" target="Brcc3" />
+    <edge source="Xlr3b///Xlr3c///Xlr3a" target="Gabra3" />
+    <edge source="Xlr3b///Xlr3c///Xlr3a" target="Zfp92" />
+    <edge source="Xlr3b///Xlr3c///Xlr3a" target="Zfp275" />
+    <edge source="Xlr3b///Xlr3c///Xlr3a" target="Zfp185" />
+    <edge source="Xlr3b///Xlr3c///Xlr3a" target="Bgn" />
+    <edge source="Xlr3b///Xlr3c///Xlr3a" target="F8a" />
+    <edge source="Renbp" target="Mecp2" />
+    <edge source="Renbp" target="Arhgap4" />
+    <edge source="Renbp" target="Avpr2" />
+    <edge source="Dnase1l1" target="Trex2" />
+    <edge source="Slc6a8" target="Mecp2" />
+    <edge source="Slc6a8" target="Atp6ap1" />
+    <edge source="Slc6a8" target="Idh3g" />
+    <edge source="Rpl10" target="Fam50a" />
+    <edge source="Rpl10" target="Ubl4" />
+    <edge source="Gabra3" target="F8" />
+    <edge source="Gabra3" target="Zfp92" />
+    <edge source="Gabra3" target="Zfp275" />
+    <edge source="Gabra3" target="Idh3g" />
+    <edge source="Gabra3" target="Ubl4" />
+    <edge source="Gabra3" target="Gabrq" />
+    <edge source="Gabra3" target="F8a" />
+    <edge source="Ikbkg" target="Irak1" />
+    <edge source="Ikbkg" target="Ubl4" />
+    <edge source="Mpp1" target="F8" />
+    <edge source="Mpp1" target="G6pdx///G6pd2" />
+    <edge source="Atp6ap1" target="Fam50a" />
+    <edge source="Atp6ap1" target="Cnga2" />
+    <edge source="Atp6ap1" target="Pnck" />
+    <edge source="Atp6ap1" target="Bcap31" />
+    <edge source="Atp6ap1" target="Vma21" />
+    <edge source="Abcd1" target="Bcap31" />
+    <edge source="Slc10a3" target="Zfp275" />
+    <edge source="Slc10a3" target="Bcap31" />
+    <edge source="Slc10a3" target="Ubl4" />
+    <edge source="Slc10a3" target="Opn1mw" />
+    <edge source="Slc10a3" target="Idh3g" />
+    <edge source="Arhgap4" target="Avpr2" />
+    <edge source="Arhgap4" target="Gdi1" />
+    <edge source="Arhgap4" target="Idh3g" />
+    <edge source="Zfp185" target="Irak1" />
+    <edge source="Zfp185" target="Emd" />
+    <edge source="Zfp185" target="Zfp275" />
+    <edge source="Zfp185" target="F8a" />
+    <edge source="Zfp185" target="Ssr4" />
+    <edge source="Zfp185" target="Gdi1" />
+    <edge source="Zfp185" target="Flna" />
+    <edge source="Vma21" target="Emd" />
+    <edge source="Pls3" target="Bcap31" />
+    <edge source="Pls3" target="Ubl4" />
+    <edge source="Pls3" target="Vbp1" />
+    <edge source="Pls3" target="Haus7" />
+    <edge source="Pls3" target="Flna" />
+    <edge source="Idh3g" target="Fam50a" />
+    <edge source="Idh3g" target="Bcap31" />
+    <edge source="Idh3g" target="Ubl4" />
+    <edge source="Idh3g" target="Gabrq" />
+    <edge source="Gabrq" target="Gabre" />
+    <edge source="Cnga2" target="Avpr2" />
+    <edge source="Dusp9" target="Gpr50" />
+    <edge source="G6pdx" target="Fam50a" />
+    <edge source="G6pdx" target="Ubl4" />
+    <edge source="G6pdx" target="G6pdx///G6pd2" />
+    <edge source="G6pdx" target="Tktl1" />
+    <edge source="Ubl4" target="Hcfc1" />
+    <edge source="Ubl4" target="Fam50a" />
+    <edge source="Ubl4" target="Ssr4" />
+    <edge source="Ubl4" target="Bgn" />
+    <edge source="Ubl4" target="Bcap31" />
+    <edge source="Ubl4" target="Emd" />
+    <edge source="Ubl4" target="G6pdx///G6pd2" />
+    <edge source="Ubl4" target="Zfp92" />
+    <edge source="Ubl4" target="Cetn2" />
+    <edge source="Ubl4" target="Tktl1" />
+    <edge source="Ubl4" target="Zfp275" />
+    <edge source="Ubl4" target="Lage3" />
+    <edge source="Ubl4" target="F8" />
+    <edge source="Ubl4" target="Vbp1" />
+    <edge source="Ubl4" target="Brcc3" />
+    <edge source="Ubl4" target="Pnck" />
+    <edge source="Ubl4" target="Gabre" />
+    <edge source="Ubl4" target="Gdi1" />
+    <edge source="Ubl4" target="Plxna3" />
+    <edge source="Hcfc1" target="Haus7" />
+    <edge source="Hcfc1" target="Brcc3" />
+    <edge source="Cetn2" target="Trex2" />
+    <edge source="Fam50a" target="Bcap31" />
+    <edge source="Fam50a" target="G6pdx///G6pd2" />
+    <edge source="Ssr4" target="Lage3" />
+    <edge source="Ssr4" target="Bcap31" />
+    <edge source="Ssr4" target="Emd" />
+    <edge source="Avpr2" target="F8" />
+    <edge source="Avpr2" target="Opn1mw" />
+    <edge source="Opn1mw" target="Pnck" />
+    <edge source="Haus7" target="Trex2" />
+    <edge source="Trex2" target="Bgn" />
+    <edge source="G6pdx///G6pd2" target="Tktl1" />
+    <edge source="Zfp92" target="Pnck" />
+    <edge source="Zfp92" target="Zfp275" />
+    <edge source="Zfp92" target="Bgn" />
+    <edge source="Tktl1" target="Gdi1" />
+    <edge source="Zfp275" target="F8" />
+    <edge source="Zfp275" target="Pnck" />
+    <edge source="Zfp275" target="Bgn" />
+    <edge source="Zfp275" target="F8a" />
+    <edge source="Srpk3" target="Hmgb3" />
+    <edge source="F8" target="Gabre" />
+    <edge source="F8" target="Brcc3" />
+    <edge source="F8" target="F8a" />
+    <edge source="Vbp1" target="Brcc3" />
+  </graph>
+</graphml>

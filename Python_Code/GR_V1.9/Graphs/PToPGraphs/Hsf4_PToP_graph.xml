@@ -1,0 +1,111 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <graph edgedefault="undirected">
+    <node id="Hsd11b2" />
+    <node id="Cdh16" />
+    <node id="Lcat" />
+    <node id="Car7" />
+    <node id="Cmtm3" />
+    <node id="Cmtm2a" />
+    <node id="Pdp2" />
+    <node id="Ces2d-ps///Ces2c" />
+    <node id="Tradd" />
+    <node id="Cmtm2b" />
+    <node id="Rrad" />
+    <node id="Slc7a6" />
+    <node id="Pla2g15" />
+    <node id="Pskh1" />
+    <node id="Enkd1" />
+    <node id="Slc9a5" />
+    <node id="Ces2a" />
+    <node id="Ces2b" />
+    <node id="Tmem208" />
+    <node id="Prmt7" />
+    <node id="Fam65a" />
+    <node id="Ces2f" />
+    <node id="Cbfb" />
+    <node id="Pard6a" />
+    <node id="Fam96b" />
+    <node id="Ces3a///Ces3b" />
+    <node id="Psmb10" />
+    <node id="Dus2" />
+    <node id="Elmo3" />
+    <node id="Ces2g" />
+    <node id="Ctrl" />
+    <node id="Tppp3" />
+    <node id="Atp6v0d1" />
+    <node id="Ctcf" />
+    <node id="Esrp2" />
+    <node id="Zdhhc1" />
+    <node id="Plekhg4" />
+    <node id="Tsnaxip1" />
+    <node id="Ces2e" />
+    <node id="Ces4a" />
+    <node id="Slc12a4" />
+    <node id="Ddx28" />
+    <node id="Dync1li2" />
+    <node id="Nol3" />
+    <node id="Hsf4" />
+    <edge source="Hsd11b2" target="Atp6v0d1" />
+    <edge source="Hsd11b2" target="Dync1li2" />
+    <edge source="Hsd11b2" target="Slc9a5" />
+    <edge source="Cdh16" target="Tsnaxip1" />
+    <edge source="Lcat" target="Psmb10" />
+    <edge source="Lcat" target="Pskh1" />
+    <edge source="Lcat" target="Slc12a4" />
+    <edge source="Lcat" target="Pla2g15" />
+    <edge source="Car7" target="Slc12a4" />
+    <edge source="Car7" target="Hsf4" />
+    <edge source="Car7" target="Slc9a5" />
+    <edge source="Cmtm3" target="Cmtm2b" />
+    <edge source="Cmtm3" target="Cmtm2a" />
+    <edge source="Cmtm2a" target="Cmtm2b" />
+    <edge source="Pdp2" target="Rrad" />
+    <edge source="Pdp2" target="Slc7a6" />
+    <edge source="Ces2d-ps///Ces2c" target="Ces4a" />
+    <edge source="Ces2d-ps///Ces2c" target="Ces3a///Ces3b" />
+    <edge source="Tradd" target="Enkd1" />
+    <edge source="Rrad" target="Pard6a" />
+    <edge source="Rrad" target="Ctcf" />
+    <edge source="Rrad" target="Zdhhc1" />
+    <edge source="Rrad" target="Nol3" />
+    <edge source="Rrad" target="Cbfb" />
+    <edge source="Slc7a6" target="Slc12a4" />
+    <edge source="Pla2g15" target="Psmb10" />
+    <edge source="Pla2g15" target="Pskh1" />
+    <edge source="Pskh1" target="Slc12a4" />
+    <edge source="Pskh1" target="Hsf4" />
+    <edge source="Pskh1" target="Ctcf" />
+    <edge source="Pskh1" target="Psmb10" />
+    <edge source="Pskh1" target="Cbfb" />
+    <edge source="Pskh1" target="Ddx28" />
+    <edge source="Enkd1" target="Prmt7" />
+    <edge source="Slc9a5" target="Slc12a4" />
+    <edge source="Slc9a5" target="Dync1li2" />
+    <edge source="Ces2a" target="Ces4a" />
+    <edge source="Ces2a" target="Ces2e" />
+    <edge source="Ces2b" target="Ces4a" />
+    <edge source="Tmem208" target="Psmb10" />
+    <edge source="Tmem208" target="Fam96b" />
+    <edge source="Prmt7" target="Atp6v0d1" />
+    <edge source="Prmt7" target="Ddx28" />
+    <edge source="Prmt7" target="Ctcf" />
+    <edge source="Fam65a" target="Atp6v0d1" />
+    <edge source="Ces2f" target="Ces4a" />
+    <edge source="Cbfb" target="Ces4a" />
+    <edge source="Cbfb" target="Hsf4" />
+    <edge source="Pard6a" target="Psmb10" />
+    <edge source="Ces3a///Ces3b" target="Ces2g" />
+    <edge source="Ces3a///Ces3b" target="Ces4a" />
+    <edge source="Ces3a///Ces3b" target="Ces2e" />
+    <edge source="Psmb10" target="Slc12a4" />
+    <edge source="Psmb10" target="Ctrl" />
+    <edge source="Dus2" target="Ddx28" />
+    <edge source="Elmo3" target="Esrp2" />
+    <edge source="Elmo3" target="Plekhg4" />
+    <edge source="Ces2g" target="Ces4a" />
+    <edge source="Tppp3" target="Atp6v0d1" />
+    <edge source="Ctcf" target="Hsf4" />
+    <edge source="Ces2e" target="Ces4a" />
+  </graph>
+</graphml>

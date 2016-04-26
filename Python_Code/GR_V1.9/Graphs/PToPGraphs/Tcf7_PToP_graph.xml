@@ -1,0 +1,214 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <graph edgedefault="undirected">
+    <node id="Pdlim4" />
+    <node id="Hnrnpab" />
+    <node id="Mapk9" />
+    <node id="Cdc42se2" />
+    <node id="Vdac1" />
+    <node id="Zfp62" />
+    <node id="Glra1" />
+    <node id="Slc22a21" />
+    <node id="Hint1" />
+    <node id="Irgm1" />
+    <node id="Anxa6" />
+    <node id="Gnb2l1" />
+    <node id="Gdf9" />
+    <node id="Kif3a" />
+    <node id="Gm2a" />
+    <node id="Il13" />
+    <node id="Flt4" />
+    <node id="Il5" />
+    <node id="Zcchc10" />
+    <node id="Irgm2" />
+    <node id="Zfp2" />
+    <node id="Igtp" />
+    <node id="Hnrnph1" />
+    <node id="Slc22a4" />
+    <node id="Slc22a5" />
+    <node id="Gria1" />
+    <node id="Sowaha" />
+    <node id="Ppp2ca" />
+    <node id="Cyfip2" />
+    <node id="G3bp1" />
+    <node id="Csf2" />
+    <node id="Rufy1" />
+    <node id="Larp1" />
+    <node id="Skp1a" />
+    <node id="Zfp354a" />
+    <node id="Sar1b" />
+    <node id="Uqcrq" />
+    <node id="Clk4" />
+    <node id="Tgtp2///Tgtp1" />
+    <node id="Hspa4" />
+    <node id="Canx" />
+    <node id="Sqstm1" />
+    <node id="Sparc" />
+    <node id="Il4" />
+    <node id="Irf1" />
+    <node id="Gemin5" />
+    <node id="Atox1" />
+    <node id="Prop1" />
+    <node id="P4ha2" />
+    <node id="Tcf7" />
+    <node id="Ube2b" />
+    <node id="Nhp2" />
+    <node id="Itk" />
+    <node id="Aff4" />
+    <node id="Ifi47" />
+    <node id="Trim41" />
+    <node id="Rad50" />
+    <node id="Gpx3" />
+    <node id="Gfpt2" />
+    <node id="Il3" />
+    <edge source="Pdlim4" target="Slc22a4" />
+    <edge source="Pdlim4" target="Glra1" />
+    <edge source="Pdlim4" target="Slc22a21" />
+    <edge source="Pdlim4" target="Sqstm1" />
+    <edge source="Pdlim4" target="Slc22a5" />
+    <edge source="Pdlim4" target="P4ha2" />
+    <edge source="Pdlim4" target="Itk" />
+    <edge source="Pdlim4" target="Hnrnph1" />
+    <edge source="Hnrnpab" target="Atox1" />
+    <edge source="Hnrnpab" target="P4ha2" />
+    <edge source="Hnrnpab" target="Clk4" />
+    <edge source="Hnrnpab" target="Itk" />
+    <edge source="Hnrnpab" target="Hspa4" />
+    <edge source="Hnrnpab" target="Gria1" />
+    <edge source="Hnrnpab" target="Rad50" />
+    <edge source="Hnrnpab" target="Hnrnph1" />
+    <edge source="Hnrnpab" target="Larp1" />
+    <edge source="Hnrnpab" target="G3bp1" />
+    <edge source="Hnrnpab" target="Gnb2l1" />
+    <edge source="Hnrnpab" target="Ppp2ca" />
+    <edge source="Mapk9" target="Zfp62" />
+    <edge source="Mapk9" target="Gria1" />
+    <edge source="Mapk9" target="Zfp354a" />
+    <edge source="Mapk9" target="Ppp2ca" />
+    <edge source="Mapk9" target="Zfp2" />
+    <edge source="Cdc42se2" target="Ppp2ca" />
+    <edge source="Vdac1" target="Canx" />
+    <edge source="Vdac1" target="Atox1" />
+    <edge source="Vdac1" target="Ppp2ca" />
+    <edge source="Vdac1" target="Sqstm1" />
+    <edge source="Vdac1" target="Zfp354a" />
+    <edge source="Vdac1" target="Kif3a" />
+    <edge source="Vdac1" target="Sar1b" />
+    <edge source="Zfp62" target="Prop1" />
+    <edge source="Zfp62" target="Sowaha" />
+    <edge source="Zfp62" target="Il13" />
+    <edge source="Zfp62" target="Itk" />
+    <edge source="Zfp62" target="Gdf9" />
+    <edge source="Zfp62" target="Ppp2ca" />
+    <edge source="Glra1" target="Flt4" />
+    <edge source="Glra1" target="Tcf7" />
+    <edge source="Glra1" target="Larp1" />
+    <edge source="Glra1" target="Anxa6" />
+    <edge source="Slc22a21" target="Slc22a5" />
+    <edge source="Slc22a21" target="P4ha2" />
+    <edge source="Hint1" target="Atox1" />
+    <edge source="Hint1" target="Sar1b" />
+    <edge source="Hint1" target="Uqcrq" />
+    <edge source="Hint1" target="Sqstm1" />
+    <edge source="Hint1" target="Gnb2l1" />
+    <edge source="Hint1" target="Hspa4" />
+    <edge source="Irgm1" target="Tgtp2///Tgtp1" />
+    <edge source="Irgm1" target="Ifi47" />
+    <edge source="Irgm1" target="Irgm2" />
+    <edge source="Irgm1" target="Igtp" />
+    <edge source="Anxa6" target="Gnb2l1" />
+    <edge source="Anxa6" target="Gpx3" />
+    <edge source="Anxa6" target="Sparc" />
+    <edge source="Gnb2l1" target="Skp1a" />
+    <edge source="Gnb2l1" target="Gria1" />
+    <edge source="Gnb2l1" target="G3bp1" />
+    <edge source="Gnb2l1" target="Itk" />
+    <edge source="Gnb2l1" target="Hspa4" />
+    <edge source="Gnb2l1" target="Hnrnph1" />
+    <edge source="Gnb2l1" target="Trim41" />
+    <edge source="Gnb2l1" target="Sar1b" />
+    <edge source="Gdf9" target="Zfp354a" />
+    <edge source="Gdf9" target="Zfp2" />
+    <edge source="Gdf9" target="Tcf7" />
+    <edge source="Kif3a" target="Il5" />
+    <edge source="Kif3a" target="Ube2b" />
+    <edge source="Gm2a" target="Canx" />
+    <edge source="Gm2a" target="Itk" />
+    <edge source="Gm2a" target="Hspa4" />
+    <edge source="Il13" target="Skp1a" />
+    <edge source="Il13" target="Irf1" />
+    <edge source="Il13" target="Ube2b" />
+    <edge source="Il13" target="Hspa4" />
+    <edge source="Il13" target="Rad50" />
+    <edge source="Flt4" target="Sparc" />
+    <edge source="Zcchc10" target="Hnrnph1" />
+    <edge source="Irgm2" target="Tgtp2///Tgtp1" />
+    <edge source="Irgm2" target="Ifi47" />
+    <edge source="Irgm2" target="Igtp" />
+    <edge source="Zfp2" target="Ppp2ca" />
+    <edge source="Zfp2" target="Ube2b" />
+    <edge source="Zfp2" target="Itk" />
+    <edge source="Zfp2" target="Prop1" />
+    <edge source="Igtp" target="Tgtp2///Tgtp1" />
+    <edge source="Igtp" target="Ifi47" />
+    <edge source="Igtp" target="Sqstm1" />
+    <edge source="Hnrnph1" target="G3bp1" />
+    <edge source="Hnrnph1" target="Ppp2ca" />
+    <edge source="Hnrnph1" target="Clk4" />
+    <edge source="Hnrnph1" target="Aff4" />
+    <edge source="Slc22a4" target="Gpx3" />
+    <edge source="Slc22a5" target="P4ha2" />
+    <edge source="Gria1" target="Ppp2ca" />
+    <edge source="Ppp2ca" target="Skp1a" />
+    <edge source="Ppp2ca" target="Hspa4" />
+    <edge source="Ppp2ca" target="Sar1b" />
+    <edge source="Ppp2ca" target="Ube2b" />
+    <edge source="Ppp2ca" target="Clk4" />
+    <edge source="Ppp2ca" target="Itk" />
+    <edge source="Ppp2ca" target="Zfp354a" />
+    <edge source="Ppp2ca" target="Rad50" />
+    <edge source="Ppp2ca" target="Gfpt2" />
+    <edge source="Cyfip2" target="G3bp1" />
+    <edge source="Cyfip2" target="Larp1" />
+    <edge source="G3bp1" target="Gemin5" />
+    <edge source="G3bp1" target="Larp1" />
+    <edge source="G3bp1" target="Hspa4" />
+    <edge source="G3bp1" target="Rad50" />
+    <edge source="Csf2" target="Ube2b" />
+    <edge source="Rufy1" target="Itk" />
+    <edge source="Rufy1" target="Trim41" />
+    <edge source="Larp1" target="Gemin5" />
+    <edge source="Larp1" target="Hspa4" />
+    <edge source="Skp1a" target="Canx" />
+    <edge source="Skp1a" target="Sar1b" />
+    <edge source="Skp1a" target="Tcf7" />
+    <edge source="Skp1a" target="Ube2b" />
+    <edge source="Skp1a" target="Hspa4" />
+    <edge source="Skp1a" target="Itk" />
+    <edge source="Skp1a" target="Rad50" />
+    <edge source="Zfp354a" target="Prop1" />
+    <edge source="Zfp354a" target="Itk" />
+    <edge source="Sar1b" target="Canx" />
+    <edge source="Clk4" target="Itk" />
+    <edge source="Clk4" target="Ube2b" />
+    <edge source="Tgtp2///Tgtp1" target="Ifi47" />
+    <edge source="Hspa4" target="Itk" />
+    <edge source="Hspa4" target="Rad50" />
+    <edge source="Hspa4" target="Canx" />
+    <edge source="Hspa4" target="Gpx3" />
+    <edge source="Hspa4" target="Gfpt2" />
+    <edge source="Hspa4" target="Sqstm1" />
+    <edge source="Sparc" target="Gpx3" />
+    <edge source="Sparc" target="P4ha2" />
+    <edge source="Il4" target="Itk" />
+    <edge source="Irf1" target="Ifi47" />
+    <edge source="Gemin5" target="Nhp2" />
+    <edge source="Gemin5" target="Gfpt2" />
+    <edge source="Prop1" target="Tcf7" />
+    <edge source="Tcf7" target="Itk" />
+    <edge source="Ube2b" target="Rad50" />
+    <edge source="Ube2b" target="Trim41" />
+    <edge source="Itk" target="Ifi47" />
+    <edge source="Aff4" target="Il3" />
+  </graph>
+</graphml>

@@ -1,0 +1,93 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <graph edgedefault="undirected">
+    <node id="Ago4" />
+    <node id="Ago3" />
+    <node id="Oxct2a" />
+    <node id="Ftl2///Ftl1" />
+    <node id="Yrdc" />
+    <node id="Pou3f1" />
+    <node id="Epha10" />
+    <node id="Rhbdl2" />
+    <node id="Thrap3" />
+    <node id="Bmp8a" />
+    <node id="Clspn" />
+    <node id="Ago1" />
+    <node id="Sh3d21" />
+    <node id="Pabpc4" />
+    <node id="Macf1" />
+    <node id="Trappc3" />
+    <node id="Grik3" />
+    <node id="Sf3a3" />
+    <node id="Tekt2" />
+    <node id="Psmb2" />
+    <node id="Rspo1" />
+    <node id="Mrps15" />
+    <node id="Lsm10" />
+    <node id="Snip1" />
+    <node id="Maneal" />
+    <node id="Utp11l" />
+    <node id="Heyl" />
+    <node id="Inpp5b" />
+    <node id="Zmym4" />
+    <node id="Mtf1" />
+    <node id="Gnl2" />
+    <node id="Rragc" />
+    <node id="Akirin1" />
+    <node id="Stk40" />
+    <node id="Ndufs5" />
+    <node id="Cdca8" />
+    <edge source="Ago4" target="Ago3" />
+    <edge source="Ago4" target="Ago1" />
+    <edge source="Ago4" target="Pabpc4" />
+    <edge source="Ago4" target="Trappc3" />
+    <edge source="Ago3" target="Ago1" />
+    <edge source="Ago3" target="Pabpc4" />
+    <edge source="Ago3" target="Trappc3" />
+    <edge source="Oxct2a" target="Ftl2///Ftl1" />
+    <edge source="Oxct2a" target="Bmp8a" />
+    <edge source="Ftl2///Ftl1" target="Snip1" />
+    <edge source="Yrdc" target="Cdca8" />
+    <edge source="Pou3f1" target="Rragc" />
+    <edge source="Pou3f1" target="Epha10" />
+    <edge source="Epha10" target="Mtf1" />
+    <edge source="Epha10" target="Bmp8a" />
+    <edge source="Epha10" target="Maneal" />
+    <edge source="Epha10" target="Grik3" />
+    <edge source="Rhbdl2" target="Rspo1" />
+    <edge source="Rhbdl2" target="Macf1" />
+    <edge source="Rhbdl2" target="Bmp8a" />
+    <edge source="Rhbdl2" target="Cdca8" />
+    <edge source="Thrap3" target="Sf3a3" />
+    <edge source="Thrap3" target="Pabpc4" />
+    <edge source="Thrap3" target="Psmb2" />
+    <edge source="Thrap3" target="Zmym4" />
+    <edge source="Bmp8a" target="Heyl" />
+    <edge source="Bmp8a" target="Pabpc4" />
+    <edge source="Bmp8a" target="Inpp5b" />
+    <edge source="Clspn" target="Trappc3" />
+    <edge source="Ago1" target="Pabpc4" />
+    <edge source="Ago1" target="Trappc3" />
+    <edge source="Ago1" target="Tekt2" />
+    <edge source="Sh3d21" target="Inpp5b" />
+    <edge source="Pabpc4" target="Sf3a3" />
+    <edge source="Pabpc4" target="Lsm10" />
+    <edge source="Trappc3" target="Tekt2" />
+    <edge source="Trappc3" target="Cdca8" />
+    <edge source="Sf3a3" target="Lsm10" />
+    <edge source="Sf3a3" target="Utp11l" />
+    <edge source="Sf3a3" target="Stk40" />
+    <edge source="Sf3a3" target="Gnl2" />
+    <edge source="Psmb2" target="Snip1" />
+    <edge source="Psmb2" target="Mrps15" />
+    <edge source="Mrps15" target="Gnl2" />
+    <edge source="Mrps15" target="Ndufs5" />
+    <edge source="Mrps15" target="Utp11l" />
+    <edge source="Lsm10" target="Utp11l" />
+    <edge source="Snip1" target="Ndufs5" />
+    <edge source="Utp11l" target="Gnl2" />
+    <edge source="Mtf1" target="Stk40" />
+    <edge source="Gnl2" target="Cdca8" />
+    <edge source="Rragc" target="Akirin1" />
+  </graph>
+</graphml>

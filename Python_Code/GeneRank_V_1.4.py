@@ -18,7 +18,7 @@ def readFile():
 	goList = []
 	count = 0
 
-	with open('C:\ThirdYear\Dissertation\Other helpful documents\Gene_ontology_annotations.txt') as infile:
+	with open('C:\ThirdYear\Dissertation\Other_helpful_documents\Gene_ontology_annotations.txt') as infile:
 		for line in infile:
 			if (line.startswith('SGD')):
 				tempList = line.split("	")
@@ -53,7 +53,10 @@ def readFile():
 				# If the gene is in the list then simply add the go term
 				# to the goList for that gene
 				else:  
-					goList.append(go)				
+					goList.append(go)
+			# This is done so that the last gene still has it's GO terms added
+			elif (line == '\n'):	
+				geneList.append(goList)
 	return geneList
 
 # add each gene to another list for later use
@@ -91,17 +94,23 @@ def connectGraph(G, geneList):
 					#print("success")  proof that this line is reached
 				j = j + 2
 			j = j + 2
-		i = i + 2
+		i = i + 2 	# THE FINAL GENE HAS NO CONNECTIONS, FIX IT
 		k = k + 2 # file dropped size a fair bit.
 		j = k
 
 	#nx.write_graphml(G, "anotherTestGraph4.xml")	 # Writes the graph to a file
 	
+	#This will print all the genes and the number of links they have in the graph.
+	#i = 0
+	#while (i < len(geneList)):
+	#	print("The degree for gene" , geneList[i] , "is:" , G.degree(geneList[i]))
+	#	i = i + 2
+	
 	# which can be imported to cytoscape to visualise the graph.
 	A = nx.adjacency_matrix(G) 	# Creates an adjacency matrix of the graph above.
 	#print (A)		#proof it works
 	#print(G.edges())      #proof that the gene connections work	
-	#print(geneList)	 #Shows the list creates properly with all genes	
+	#print(geneList)	 #Shows the list creates properly with all genes
 	return G
 	#print("done") # to show me this part is finished	
 				
@@ -175,14 +184,30 @@ def addSumOf(gene_ex_r):
 # Run num3 iterations, updating every genes rank
 # per iteration
 def geneRank(gene_ex_r):
-	num3 = 2000
+	rankComparisonList = []
+	tempRankList = []
+	num3 = len(gene_ex_r)
 	num4 = len(gene_ex_r)
 	d = 0.5
 	connectionValue = 0
 	i = 0 
 	j = 0
+	k = 0
 	rank = 0
-	while (i < num3):
+	count = 0
+	converged = False
+	while ((i < num3) and (converged != True)):
+	#while (converged != True):
+		# if all genes are compared to all others and it still
+		# hasn't converged then start again with the first gene
+		#if (i >= len(gene_ex_r)):
+		#	i = 0
+		#if (count == 0):
+		#	rankComparisonList = []
+		#	count = count + 1
+		#else:
+		#	rankComparisonList.append(tempRankList)
+		#	tempRankList = [] # resets the list
 		while (j < num4):
 			if (i != j):
 				# If the two genes are connected, hasEdge = 1
@@ -190,8 +215,14 @@ def geneRank(gene_ex_r):
 					hasEdge = 1
 				else:
 					hasEdge = 0
-				# temp_connection is the wij rj[n-1] / degi part, for this gene
-				temp_connection = (hasEdge * (gene_ex_r[i+1])) / (G.degree(gene_ex_r[i]))
+				# temp_connection is the wij rj[n-1] / degi part, for this gene 
+				# The if statement is done so that should a gene have no connections
+				# for any reason, the program won't break. The results however may
+				# not be as expected.
+				if (G.degree(gene_ex_r[i]) == 0):
+					temp_connection = (hasEdge * (gene_ex_r[i+1])) / 1 
+				else:
+					temp_connection = (hasEdge * (gene_ex_r[i+1])) / (G.degree(gene_ex_r[i])) 
 				# sumOfConnection is the current sum of the above part, for i iterations
 				sumOfConnection = (gene_ex_r[j+4]) + temp_connection
 				gene_ex_r[j+4] = sumOfConnection  # update the above sum value for this gene
@@ -199,10 +230,18 @@ def geneRank(gene_ex_r):
 				rank = connectionValue + (d * gene_ex_r[j+3]) 		# this is the ranking of gene j after								
 				gene_ex_r[j+3] = rank	# update the ranking		# i iterations
 				connectionValue = 0  # Resets the value as a precaution
+				tempRankList.append(rank)
+				if (count <= 1): 
+					converged = False
+				else:
+					if(bool(set(rankComparisonList[k]) & set(rankComparisonList[k-1]))):
+						converged = True
 			j = j + 5
 		i = i + 5
 		j = 0
+		k = k + 1
 	#print (gene_ex_r) 	# gene, expression value, normalised ex value, rank, sumOf, etc...
+	print ("The algorithm converged:" , converged , "after" , k , "itterations")
 	return gene_ex_r
 
 def sortAndPrintRanking(gene_ex_r):

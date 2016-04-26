@@ -1,0 +1,58 @@
+Ranking and roc information for variable d = 0.95
+
+Rad23b is ranked: 1 with a ranking value of: 0.008690021967421694
+Tmod1 is ranked: 2 with a ranking value of: 0.007436057814634466
+Stx17 is ranked: 3 with a ranking value of: 0.005683996487640871
+Txn1 is ranked: 4 with a ranking value of: 0.005288386760673084
+Actl7a is ranked: 5 with a ranking value of: 0.00524839067061934
+Lpar1 is ranked: 6 with a ranking value of: 0.00478236699739088
+Aldob is ranked: 7 with a ranking value of: 0.004612287033080417
+Nans is ranked: 8 with a ranking value of: 0.0042636522567624496
+Nipsnap3b is ranked: 9 with a ranking value of: 0.004044757844504629
+Slc46a2 is ranked: 10 with a ranking value of: 0.003950318652947745
+Ctnnal1 is ranked: 11 with a ranking value of: 0.003916496838961258
+Ikbkap is ranked: 12 with a ranking value of: 0.003720992271059066
+Invs is ranked: 13 with a ranking value of: 0.003561375106683802
+Fktn is ranked: 14 with a ranking value of: 0.0034450639012967793
+Tdrd7 is ranked: 15 with a ranking value of: 0.0032751828893725046
+Txndc8 is ranked: 16 with a ranking value of: 0.0031554479964280195
+Anp32b is ranked: 17 with a ranking value of: 0.0026571232828276926
+Coro2a is ranked: 18 with a ranking value of: 0.0025000035375056778
+Klf4 is ranked: 19 with a ranking value of: 0.0024989127073908393
+Abca1 is ranked: 20 with a ranking value of: 0.0023132282867804723
+Erp44 is ranked: 21 with a ranking value of: 0.0022985486353385683
+Epb4.1l4b is ranked: 22 with a ranking value of: 0.0022339052342353004
+Tal2 is ranked: 23 with a ranking value of: 0.0021389267068855043
+Ptbp3 is ranked: 24 with a ranking value of: 0.002133969553692658
+Tmem38b is ranked: 25 with a ranking value of: 0.0020820673634033135
+Smc2 is ranked: 26 with a ranking value of: 0.0020022946550256114
+Alg2 is ranked: 27 with a ranking value of: 0.0019625960249721663
+Ugcg is ranked: 28 with a ranking value of: 0.001941681554420531
+Nr4a3 is ranked: 29 with a ranking value of: 0.0019325920272803402
+Ptgr1 is ranked: 30 with a ranking value of: 0.0019239012912959895
+Tmem245 is ranked: 31 with a ranking value of: 0.001790439422698827
+AI314180 is ranked: 32 with a ranking value of: 0.0016966697813138522
+Rnf20 is ranked: 33 with a ranking value of: 0.0016865862186426785
+Tex10 is ranked: 34 with a ranking value of: 0.001663226400853619
+Mup4 is ranked: 35 with a ranking value of: 0.0016237361230082056
+Sec61b is ranked: 36 with a ranking value of: 0.0015420389388730756
+Toporsl is ranked: 37 with a ranking value of: 0.0015160669486431616
+Musk is ranked: 38 with a ranking value of: 0.0014999145227434785
+Baat is ranked: 39 with a ranking value of: 0.0014771025122493953
+Slc44a1 is ranked: 40 with a ranking value of: 0.0014678929601202105
+Hsdl2 is ranked: 41 with a ranking value of: 0.0014592175719922074
+Gng10 is ranked: 42 with a ranking value of: 0.0013555664098130662
+Mrpl50 is ranked: 43 with a ranking value of: 0.0012874606066717777
+Hemgn is ranked: 44 with a ranking value of: 0.0012685363855594548
+Tstd2 is ranked: 45 with a ranking value of: 0.001266140953491649
+Murc is ranked: 46 with a ranking value of: 0.001230273696211739
+Acnat2 is ranked: 47 with a ranking value of: 0.0012231942458287566
+Tmeff1 is ranked: 48 with a ranking value of: 0.0011878720617362018
+Snx30 is ranked: 49 with a ranking value of: 0.001176205983709578
+Zfp189 is ranked: 50 with a ranking value of: 0.0011347456666993283
+Col15a1 is ranked: 51 with a ranking value of: 0.0009960819513437434
+
+The roc score is: 0.5
+
+
+

@@ -1,0 +1,117 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <graph edgedefault="undirected">
+    <node id="Cdc42bpg" />
+    <node id="Snx15" />
+    <node id="Gpha2" />
+    <node id="Prdx5" />
+    <node id="Ppp2r5b" />
+    <node id="Stip1" />
+    <node id="Nudt22" />
+    <node id="Batf2" />
+    <node id="Cox8a" />
+    <node id="Ppp1r14b" />
+    <node id="Men1" />
+    <node id="Vegfb" />
+    <node id="Trmt112" />
+    <node id="Bad" />
+    <node id="Atg2a" />
+    <node id="Macrod1" />
+    <node id="Gpr137" />
+    <node id="Nrxn2" />
+    <node id="2700081O15Rik" />
+    <node id="Sf1" />
+    <node id="Esrra" />
+    <node id="Slc22a19" />
+    <node id="Plcb3" />
+    <node id="Rasgrp2" />
+    <node id="Fkbp2" />
+    <node id="Mark2" />
+    <node id="Naa40" />
+    <node id="Tex40" />
+    <node id="Pygm" />
+    <node id="Pla2g16" />
+    <node id="Dnajc4" />
+    <node id="Rps6ka4" />
+    <node id="Map4k2" />
+    <node id="Otub1" />
+    <node id="Rtn3" />
+    <node id="Sac3d1" />
+    <node id="Fermt3" />
+    <node id="Flrt1" />
+    <node id="Trpt1" />
+    <edge source="Cdc42bpg" target="Vegfb" />
+    <edge source="Snx15" target="Rtn3" />
+    <edge source="Gpha2" target="Ppp2r5b" />
+    <edge source="Prdx5" target="Fkbp2" />
+    <edge source="Prdx5" target="Cox8a" />
+    <edge source="Ppp2r5b" target="Bad" />
+    <edge source="Ppp2r5b" target="Rasgrp2" />
+    <edge source="Ppp2r5b" target="Vegfb" />
+    <edge source="Ppp2r5b" target="Men1" />
+    <edge source="Ppp2r5b" target="Mark2" />
+    <edge source="Ppp2r5b" target="Stip1" />
+    <edge source="Ppp2r5b" target="Rps6ka4" />
+    <edge source="Stip1" target="Fkbp2" />
+    <edge source="Stip1" target="Dnajc4" />
+    <edge source="Nudt22" target="Trpt1" />
+    <edge source="Nudt22" target="Dnajc4" />
+    <edge source="Batf2" target="Rtn3" />
+    <edge source="Batf2" target="Vegfb" />
+    <edge source="Batf2" target="Mark2" />
+    <edge source="Batf2" target="Rps6ka4" />
+    <edge source="Cox8a" target="Trmt112" />
+    <edge source="Cox8a" target="Esrra" />
+    <edge source="Cox8a" target="Fkbp2" />
+    <edge source="Cox8a" target="Pygm" />
+    <edge source="Cox8a" target="Men1" />
+    <edge source="Ppp1r14b" target="Plcb3" />
+    <edge source="Ppp1r14b" target="Sac3d1" />
+    <edge source="Men1" target="Otub1" />
+    <edge source="Men1" target="Plcb3" />
+    <edge source="Men1" target="Fkbp2" />
+    <edge source="Men1" target="Naa40" />
+    <edge source="Men1" target="2700081O15Rik" />
+    <edge source="Men1" target="Pygm" />
+    <edge source="Vegfb" target="Plcb3" />
+    <edge source="Vegfb" target="Rasgrp2" />
+    <edge source="Vegfb" target="Sf1" />
+    <edge source="Vegfb" target="Bad" />
+    <edge source="Vegfb" target="Rps6ka4" />
+    <edge source="Vegfb" target="Fkbp2" />
+    <edge source="Bad" target="Plcb3" />
+    <edge source="Bad" target="Rasgrp2" />
+    <edge source="Bad" target="Mark2" />
+    <edge source="Atg2a" target="Rps6ka4" />
+    <edge source="Macrod1" target="Pygm" />
+    <edge source="Macrod1" target="Flrt1" />
+    <edge source="Macrod1" target="Trpt1" />
+    <edge source="Macrod1" target="Dnajc4" />
+    <edge source="Gpr137" target="Dnajc4" />
+    <edge source="Nrxn2" target="Fermt3" />
+    <edge source="Nrxn2" target="Rasgrp2" />
+    <edge source="Nrxn2" target="Pygm" />
+    <edge source="Sf1" target="Mark2" />
+    <edge source="Sf1" target="Rps6ka4" />
+    <edge source="Slc22a19" target="Dnajc4" />
+    <edge source="Plcb3" target="Fkbp2" />
+    <edge source="Plcb3" target="Pygm" />
+    <edge source="Plcb3" target="Rps6ka4" />
+    <edge source="Rasgrp2" target="Mark2" />
+    <edge source="Rasgrp2" target="Fermt3" />
+    <edge source="Rasgrp2" target="Pygm" />
+    <edge source="Rasgrp2" target="Flrt1" />
+    <edge source="Rasgrp2" target="Rps6ka4" />
+    <edge source="Fkbp2" target="Mark2" />
+    <edge source="Fkbp2" target="Pygm" />
+    <edge source="Fkbp2" target="Flrt1" />
+    <edge source="Mark2" target="Rps6ka4" />
+    <edge source="Tex40" target="Rps6ka4" />
+    <edge source="Pygm" target="Map4k2" />
+    <edge source="Pygm" target="Rtn3" />
+    <edge source="Pygm" target="Pla2g16" />
+    <edge source="Dnajc4" target="Trpt1" />
+    <edge source="Rps6ka4" target="Flrt1" />
+    <edge source="Map4k2" target="Flrt1" />
+  </graph>
+</graphml>

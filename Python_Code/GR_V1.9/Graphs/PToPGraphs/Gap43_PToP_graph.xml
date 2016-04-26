@@ -1,0 +1,96 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <graph edgedefault="undirected">
+    <node id="Parp14" />
+    <node id="Fam162a" />
+    <node id="Atp6v1a" />
+    <node id="Cd200" />
+    <node id="Phldb2" />
+    <node id="Cd200r1" />
+    <node id="Arhgap31" />
+    <node id="Slc15a2" />
+    <node id="Gsk3b" />
+    <node id="Dppa2" />
+    <node id="Slc35a5" />
+    <node id="Sema5b" />
+    <node id="Pdia5" />
+    <node id="Gap43" />
+    <node id="Hgd" />
+    <node id="Tagln3" />
+    <node id="2010005H15Rik" />
+    <node id="Morc1" />
+    <node id="Sidt1" />
+    <node id="Nr1i2" />
+    <node id="Maats1" />
+    <node id="C330027C09Rik" />
+    <node id="Retnla" />
+    <node id="Parp9" />
+    <node id="B4galt4" />
+    <node id="Kpna1" />
+    <node id="Ccdc58" />
+    <node id="Cd96" />
+    <node id="BC027231" />
+    <node id="Qtrtd1" />
+    <node id="Atg3" />
+    <node id="Cd86" />
+    <node id="Spice1" />
+    <node id="Trat1" />
+    <node id="Abhd10" />
+    <node id="Hcls1" />
+    <node id="Ccdc80" />
+    <node id="Rabl3" />
+    <node id="Drd3" />
+    <node id="Lrrc58" />
+    <node id="Eaf2" />
+    <node id="Casr" />
+    <node id="Dppa4" />
+    <node id="Gtpbp8" />
+    <node id="Pvrl3" />
+    <node id="Fstl1" />
+    <edge source="Parp14" target="Sema5b" />
+    <edge source="Parp14" target="Parp9" />
+    <edge source="Fam162a" target="Ccdc58" />
+    <edge source="Fam162a" target="2010005H15Rik" />
+    <edge source="Atp6v1a" target="Sidt1" />
+    <edge source="Atp6v1a" target="Kpna1" />
+    <edge source="Atp6v1a" target="Ccdc58" />
+    <edge source="Atp6v1a" target="Spice1" />
+    <edge source="Atp6v1a" target="Gtpbp8" />
+    <edge source="Cd200" target="Cd200r1" />
+    <edge source="Phldb2" target="Gsk3b" />
+    <edge source="Arhgap31" target="Gsk3b" />
+    <edge source="Slc15a2" target="Nr1i2" />
+    <edge source="Gsk3b" target="Lrrc58" />
+    <edge source="Gsk3b" target="Nr1i2" />
+    <edge source="Gsk3b" target="Cd86" />
+    <edge source="Gsk3b" target="Pdia5" />
+    <edge source="Gsk3b" target="Maats1" />
+    <edge source="Dppa2" target="Trat1" />
+    <edge source="Dppa2" target="C330027C09Rik" />
+    <edge source="Dppa2" target="Morc1" />
+    <edge source="Dppa2" target="Retnla" />
+    <edge source="Dppa2" target="Dppa4" />
+    <edge source="Slc35a5" target="Qtrtd1" />
+    <edge source="Slc35a5" target="B4galt4" />
+    <edge source="Slc35a5" target="Atg3" />
+    <edge source="Gap43" target="Tagln3" />
+    <edge source="Hgd" target="Nr1i2" />
+    <edge source="Tagln3" target="Abhd10" />
+    <edge source="2010005H15Rik" target="Ccdc58" />
+    <edge source="Morc1" target="C330027C09Rik" />
+    <edge source="Morc1" target="Retnla" />
+    <edge source="Morc1" target="Dppa4" />
+    <edge source="Sidt1" target="Spice1" />
+    <edge source="Sidt1" target="Gtpbp8" />
+    <edge source="Nr1i2" target="Casr" />
+    <edge source="C330027C09Rik" target="Retnla" />
+    <edge source="C330027C09Rik" target="Dppa4" />
+    <edge source="Cd96" target="Trat1" />
+    <edge source="Cd96" target="Pvrl3" />
+    <edge source="BC027231" target="Rabl3" />
+    <edge source="Cd86" target="Eaf2" />
+    <edge source="Spice1" target="Gtpbp8" />
+    <edge source="Hcls1" target="Drd3" />
+    <edge source="Ccdc80" target="Fstl1" />
+  </graph>
+</graphml>

@@ -1,0 +1,225 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <graph edgedefault="undirected">
+    <node id="Slfn10-ps" />
+    <node id="Rasl10b" />
+    <node id="Ap2b1" />
+    <node id="Lhx1" />
+    <node id="Ints2" />
+    <node id="Taf15" />
+    <node id="Wfdc17" />
+    <node id="Wfdc21" />
+    <node id="Tada2a" />
+    <node id="Tbx2" />
+    <node id="Unc45b" />
+    <node id="Nle1" />
+    <node id="Hnf1b" />
+    <node id="Slfn1" />
+    <node id="Mrm1" />
+    <node id="Slfn5" />
+    <node id="Car4" />
+    <node id="Ccl5" />
+    <node id="Lig3" />
+    <node id="Tbx4" />
+    <node id="Slfn8" />
+    <node id="Ddx52" />
+    <node id="Wfdc18" />
+    <node id="Usp32" />
+    <node id="Slfn2" />
+    <node id="Ppm1d" />
+    <node id="Appbp2" />
+    <node id="Rffl" />
+    <node id="Znhit3" />
+    <node id="Ccl3" />
+    <node id="1700125H20Rik" />
+    <node id="Slfn4///Slfn3" />
+    <node id="Heatr6" />
+    <node id="Slfn9" />
+    <node id="Dhrs11" />
+    <node id="Slfn3" />
+    <node id="Brip1" />
+    <node id="Ccl9" />
+    <node id="Dusp14" />
+    <node id="Rad51d" />
+    <node id="Ccl6" />
+    <node id="Myo19" />
+    <node id="Bcas3" />
+    <node id="Synrg" />
+    <node id="Ggnbp2" />
+    <node id="Ccl4" />
+    <node id="Aatf" />
+    <edge source="Slfn10-ps" target="Slfn4///Slfn3" />
+    <edge source="Slfn10-ps" target="Slfn9" />
+    <edge source="Slfn10-ps" target="Slfn1" />
+    <edge source="Slfn10-ps" target="Slfn2" />
+    <edge source="Slfn10-ps" target="Slfn8" />
+    <edge source="Slfn10-ps" target="Slfn3" />
+    <edge source="Rasl10b" target="Ppm1d" />
+    <edge source="Rasl10b" target="Dusp14" />
+    <edge source="Rasl10b" target="Rad51d" />
+    <edge source="Rasl10b" target="Rffl" />
+    <edge source="Rasl10b" target="Ap2b1" />
+    <edge source="Rasl10b" target="Myo19" />
+    <edge source="Ap2b1" target="Ppm1d" />
+    <edge source="Lhx1" target="Synrg" />
+    <edge source="Lhx1" target="Dusp14" />
+    <edge source="Lhx1" target="Hnf1b" />
+    <edge source="Lhx1" target="Ddx52" />
+    <edge source="Lhx1" target="Tada2a" />
+    <edge source="Lhx1" target="Tbx2" />
+    <edge source="Lhx1" target="Znhit3" />
+    <edge source="Lhx1" target="Aatf" />
+    <edge source="Ints2" target="Appbp2" />
+    <edge source="Taf15" target="Nle1" />
+    <edge source="Taf15" target="Bcas3" />
+    <edge source="Taf15" target="Ddx52" />
+    <edge source="Taf15" target="Tada2a" />
+    <edge source="Taf15" target="Znhit3" />
+    <edge source="Taf15" target="Aatf" />
+    <edge source="Wfdc17" target="Ccl9" />
+    <edge source="Wfdc17" target="Wfdc21" />
+    <edge source="Wfdc17" target="Ccl4" />
+    <edge source="Wfdc17" target="Wfdc18" />
+    <edge source="Wfdc17" target="Ccl6" />
+    <edge source="Wfdc17" target="Slfn2" />
+    <edge source="Wfdc17" target="Ccl3" />
+    <edge source="Wfdc21" target="Ccl9" />
+    <edge source="Wfdc21" target="Wfdc18" />
+    <edge source="Wfdc21" target="Ccl6" />
+    <edge source="Tada2a" target="Nle1" />
+    <edge source="Tada2a" target="1700125H20Rik" />
+    <edge source="Tada2a" target="Dusp14" />
+    <edge source="Tada2a" target="Hnf1b" />
+    <edge source="Tada2a" target="Mrm1" />
+    <edge source="Tada2a" target="Znhit3" />
+    <edge source="Tada2a" target="Synrg" />
+    <edge source="Tada2a" target="Ggnbp2" />
+    <edge source="Tada2a" target="Ddx52" />
+    <edge source="Tada2a" target="Dhrs11" />
+    <edge source="Tada2a" target="Myo19" />
+    <edge source="Tada2a" target="Aatf" />
+    <edge source="Tbx2" target="Bcas3" />
+    <edge source="Tbx2" target="Ppm1d" />
+    <edge source="Tbx2" target="Appbp2" />
+    <edge source="Tbx2" target="Tbx4" />
+    <edge source="Tbx2" target="Usp32" />
+    <edge source="Unc45b" target="Myo19" />
+    <edge source="Nle1" target="Appbp2" />
+    <edge source="Nle1" target="Myo19" />
+    <edge source="Nle1" target="Ddx52" />
+    <edge source="Nle1" target="1700125H20Rik" />
+    <edge source="Nle1" target="Aatf" />
+    <edge source="Hnf1b" target="Dusp14" />
+    <edge source="Hnf1b" target="Synrg" />
+    <edge source="Hnf1b" target="Znhit3" />
+    <edge source="Slfn1" target="Slfn4///Slfn3" />
+    <edge source="Slfn1" target="Ccl5" />
+    <edge source="Slfn1" target="Slfn9" />
+    <edge source="Slfn1" target="Ccl4" />
+    <edge source="Slfn1" target="Ccl9" />
+    <edge source="Slfn1" target="Slfn2" />
+    <edge source="Slfn1" target="Slfn8" />
+    <edge source="Slfn1" target="Slfn5" />
+    <edge source="Mrm1" target="Synrg" />
+    <edge source="Mrm1" target="Dusp14" />
+    <edge source="Mrm1" target="Rad51d" />
+    <edge source="Mrm1" target="Ggnbp2" />
+    <edge source="Mrm1" target="Ddx52" />
+    <edge source="Mrm1" target="Dhrs11" />
+    <edge source="Mrm1" target="Znhit3" />
+    <edge source="Mrm1" target="Aatf" />
+    <edge source="Mrm1" target="Myo19" />
+    <edge source="Slfn5" target="Slfn4///Slfn3" />
+    <edge source="Slfn5" target="Slfn9" />
+    <edge source="Slfn5" target="Slfn2" />
+    <edge source="Slfn5" target="Slfn8" />
+    <edge source="Slfn5" target="Slfn3" />
+    <edge source="Car4" target="Appbp2" />
+    <edge source="Ccl5" target="Ccl9" />
+    <edge source="Ccl5" target="Ccl4" />
+    <edge source="Ccl5" target="Wfdc18" />
+    <edge source="Ccl5" target="Ccl6" />
+    <edge source="Ccl5" target="Slfn2" />
+    <edge source="Ccl5" target="Ccl3" />
+    <edge source="Lig3" target="1700125H20Rik" />
+    <edge source="Lig3" target="Rad51d" />
+    <edge source="Tbx4" target="Bcas3" />
+    <edge source="Slfn8" target="Slfn4///Slfn3" />
+    <edge source="Slfn8" target="Slfn9" />
+    <edge source="Slfn8" target="Slfn3" />
+    <edge source="Slfn8" target="Slfn2" />
+    <edge source="Ddx52" target="Ppm1d" />
+    <edge source="Ddx52" target="Appbp2" />
+    <edge source="Ddx52" target="Znhit3" />
+    <edge source="Ddx52" target="Myo19" />
+    <edge source="Ddx52" target="Bcas3" />
+    <edge source="Ddx52" target="Synrg" />
+    <edge source="Ddx52" target="Ggnbp2" />
+    <edge source="Ddx52" target="Dusp14" />
+    <edge source="Ddx52" target="Dhrs11" />
+    <edge source="Ddx52" target="Aatf" />
+    <edge source="Wfdc18" target="Ccl9" />
+    <edge source="Wfdc18" target="Ccl6" />
+    <edge source="Usp32" target="Bcas3" />
+    <edge source="Usp32" target="Ppm1d" />
+    <edge source="Usp32" target="Appbp2" />
+    <edge source="Usp32" target="Ggnbp2" />
+    <edge source="Usp32" target="1700125H20Rik" />
+    <edge source="Slfn2" target="Ccl9" />
+    <edge source="Slfn2" target="Ccl6" />
+    <edge source="Slfn2" target="Slfn4///Slfn3" />
+    <edge source="Slfn2" target="Ccl3" />
+    <edge source="Slfn2" target="Slfn9" />
+    <edge source="Slfn2" target="Ccl4" />
+    <edge source="Slfn2" target="Slfn3" />
+    <edge source="Ppm1d" target="Bcas3" />
+    <edge source="Ppm1d" target="Appbp2" />
+    <edge source="Ppm1d" target="Dusp14" />
+    <edge source="Appbp2" target="Dusp14" />
+    <edge source="Appbp2" target="Rad51d" />
+    <edge source="Appbp2" target="Brip1" />
+    <edge source="Appbp2" target="1700125H20Rik" />
+    <edge source="Appbp2" target="Bcas3" />
+    <edge source="Appbp2" target="Synrg" />
+    <edge source="Rffl" target="Synrg" />
+    <edge source="Rffl" target="Rad51d" />
+    <edge source="Znhit3" target="Dusp14" />
+    <edge source="Znhit3" target="Myo19" />
+    <edge source="Znhit3" target="Synrg" />
+    <edge source="Znhit3" target="Ggnbp2" />
+    <edge source="Znhit3" target="Dhrs11" />
+    <edge source="Znhit3" target="Aatf" />
+    <edge source="Ccl3" target="Slfn4///Slfn3" />
+    <edge source="Ccl3" target="Ccl9" />
+    <edge source="Ccl3" target="Ccl4" />
+    <edge source="Ccl3" target="Ccl6" />
+    <edge source="1700125H20Rik" target="Bcas3" />
+    <edge source="1700125H20Rik" target="Brip1" />
+    <edge source="1700125H20Rik" target="Rad51d" />
+    <edge source="Slfn4///Slfn3" target="Slfn9" />
+    <edge source="Slfn4///Slfn3" target="Ccl4" />
+    <edge source="Slfn4///Slfn3" target="Ccl6" />
+    <edge source="Slfn4///Slfn3" target="Slfn3" />
+    <edge source="Heatr6" target="Ccl4" />
+    <edge source="Slfn9" target="Slfn3" />
+    <edge source="Dhrs11" target="Synrg" />
+    <edge source="Dhrs11" target="Dusp14" />
+    <edge source="Dhrs11" target="Ggnbp2" />
+    <edge source="Dhrs11" target="Aatf" />
+    <edge source="Dhrs11" target="Myo19" />
+    <edge source="Slfn3" target="Ccl4" />
+    <edge source="Brip1" target="Rad51d" />
+    <edge source="Ccl9" target="Ccl4" />
+    <edge source="Ccl9" target="Ccl6" />
+    <edge source="Dusp14" target="Myo19" />
+    <edge source="Dusp14" target="Synrg" />
+    <edge source="Dusp14" target="Ggnbp2" />
+    <edge source="Dusp14" target="Aatf" />
+    <edge source="Myo19" target="Synrg" />
+    <edge source="Myo19" target="Ggnbp2" />
+    <edge source="Myo19" target="Aatf" />
+    <edge source="Synrg" target="Ggnbp2" />
+    <edge source="Synrg" target="Aatf" />
+    <edge source="Ggnbp2" target="Aatf" />
+  </graph>
+</graphml>

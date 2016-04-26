@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <graph edgedefault="undirected">
+    <node id="B4galt1" />
+    <node id="Gabrr1" />
+    <node id="Bag1" />
+    <node id="Gabrr2" />
+    <node id="Epha7" />
+    <node id="Map3k7" />
+    <node id="Zfp292" />
+    <node id="Bach2" />
+    <node id="Mdn1" />
+    <node id="3110043O21Rik" />
+    <node id="Rragd" />
+    <node id="Slc35a1" />
+    <node id="Ube2j1" />
+    <node id="Akirin2" />
+    <node id="Cga" />
+    <node id="Casp8ap2" />
+    <node id="Aqp7" />
+    <node id="Pm20d2" />
+    <node id="1700009N14Rik" />
+    <node id="Orc3" />
+    <node id="Chmp5" />
+    <node id="Rars2" />
+    <node id="Rngtt" />
+    <node id="Srsf12" />
+    <node id="D130062J21Rik" />
+    <node id="Mob3b" />
+    <node id="Smim8" />
+    <node id="Lyrm2" />
+    <node id="Cnr1" />
+    <node id="Smu1" />
+    <node id="Ankrd6" />
+    <node id="Lingo2" />
+    <node id="Aco1" />
+    <node id="Topors" />
+    <node id="Aptx" />
+    <node id="Nfx1" />
+    <node id="Ndufb6" />
+    <node id="Dnaja1" />
+    <edge source="B4galt1" target="Slc35a1" />
+    <edge source="Gabrr1" target="Ankrd6" />
+    <edge source="Gabrr1" target="Rragd" />
+    <edge source="Gabrr1" target="Ube2j1" />
+    <edge source="Gabrr1" target="Akirin2" />
+    <edge source="Gabrr1" target="Gabrr2" />
+    <edge source="Gabrr1" target="Cga" />
+    <edge source="Gabrr1" target="Zfp292" />
+    <edge source="Gabrr1" target="Orc3" />
+    <edge source="Gabrr1" target="Pm20d2" />
+    <edge source="Gabrr1" target="Cnr1" />
+    <edge source="Gabrr1" target="Rngtt" />
+    <edge source="Bag1" target="Topors" />
+    <edge source="Bag1" target="Chmp5" />
+    <edge source="Bag1" target="Epha7" />
+    <edge source="Gabrr2" target="Ankrd6" />
+    <edge source="Gabrr2" target="Ube2j1" />
+    <edge source="Gabrr2" target="Akirin2" />
+    <edge source="Gabrr2" target="Rngtt" />
+    <edge source="Gabrr2" target="Rragd" />
+    <edge source="Gabrr2" target="Zfp292" />
+    <edge source="Gabrr2" target="Cga" />
+    <edge source="Gabrr2" target="Smu1" />
+    <edge source="Gabrr2" target="Pm20d2" />
+    <edge source="Gabrr2" target="Orc3" />
+    <edge source="Epha7" target="Casp8ap2" />
+    <edge source="Epha7" target="Srsf12" />
+    <edge source="Epha7" target="Zfp292" />
+    <edge source="Map3k7" target="Casp8ap2" />
+    <edge source="Map3k7" target="Ndufb6" />
+    <edge source="Map3k7" target="Akirin2" />
+    <edge source="Map3k7" target="Zfp292" />
+    <edge source="Zfp292" target="Casp8ap2" />
+    <edge source="Zfp292" target="Rngtt" />
+    <edge source="Zfp292" target="Rragd" />
+    <edge source="Zfp292" target="Chmp5" />
+    <edge source="Zfp292" target="Cga" />
+    <edge source="Zfp292" target="Topors" />
+    <edge source="Zfp292" target="Akirin2" />
+    <edge source="Zfp292" target="Orc3" />
+    <edge source="Bach2" target="D130062J21Rik" />
+    <edge source="Mdn1" target="Casp8ap2" />
+    <edge source="3110043O21Rik" target="Topors" />
+    <edge source="3110043O21Rik" target="Mob3b" />
+    <edge source="Rragd" target="Ankrd6" />
+    <edge source="Rragd" target="Ube2j1" />
+    <edge source="Rragd" target="Akirin2" />
+    <edge source="Rragd" target="Cnr1" />
+    <edge source="Rragd" target="Orc3" />
+    <edge source="Rragd" target="Pm20d2" />
+    <edge source="Rragd" target="1700009N14Rik" />
+    <edge source="Rragd" target="Rngtt" />
+    <edge source="Slc35a1" target="Ndufb6" />
+    <edge source="Slc35a1" target="Rars2" />
+    <edge source="Slc35a1" target="Rngtt" />
+    <edge source="Ube2j1" target="Ankrd6" />
+    <edge source="Ube2j1" target="Chmp5" />
+    <edge source="Ube2j1" target="Smu1" />
+    <edge source="Ube2j1" target="Pm20d2" />
+    <edge source="Ube2j1" target="Dnaja1" />
+    <edge source="Akirin2" target="Rngtt" />
+    <edge source="Akirin2" target="Orc3" />
+    <edge source="Casp8ap2" target="Topors" />
+    <edge source="Casp8ap2" target="Ndufb6" />
+    <edge source="Casp8ap2" target="Orc3" />
+    <edge source="Aqp7" target="Ndufb6" />
+    <edge source="Pm20d2" target="Ankrd6" />
+    <edge source="Pm20d2" target="Rngtt" />
+    <edge source="1700009N14Rik" target="Srsf12" />
+    <edge source="1700009N14Rik" target="Nfx1" />
+    <edge source="1700009N14Rik" target="Dnaja1" />
+    <edge source="1700009N14Rik" target="Orc3" />
+    <edge source="Orc3" target="Cnr1" />
+    <edge source="Orc3" target="Rngtt" />
+    <edge source="Orc3" target="Rars2" />
+    <edge source="Orc3" target="Ndufb6" />
+    <edge source="Chmp5" target="Smu1" />
+    <edge source="Chmp5" target="Ndufb6" />
+    <edge source="Chmp5" target="Dnaja1" />
+    <edge source="Rars2" target="Smu1" />
+    <edge source="Rars2" target="Ndufb6" />
+    <edge source="Rars2" target="Dnaja1" />
+    <edge source="Rngtt" target="Ndufb6" />
+    <edge source="Srsf12" target="Nfx1" />
+    <edge source="Srsf12" target="Lingo2" />
+    <edge source="Smim8" target="Lyrm2" />
+    <edge source="Smu1" target="Aptx" />
+    <edge source="Smu1" target="Ndufb6" />
+    <edge source="Ankrd6" target="Lingo2" />
+    <edge source="Aco1" target="Aptx" />
+    <edge source="Ndufb6" target="Dnaja1" />
+  </graph>
+</graphml>

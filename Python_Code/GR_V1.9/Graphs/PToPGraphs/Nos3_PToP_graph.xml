@@ -1,0 +1,123 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <graph edgedefault="undirected">
+    <node id="Gm10221///Atp5l" />
+    <node id="Slc4a2" />
+    <node id="Kcnh2" />
+    <node id="Xrcc2" />
+    <node id="Shh" />
+    <node id="Nos3" />
+    <node id="Chpf2" />
+    <node id="Ube3c" />
+    <node id="Hadha" />
+    <node id="Reln" />
+    <node id="Hadhb" />
+    <node id="Kmt2e" />
+    <node id="Tmem60" />
+    <node id="Tyms" />
+    <node id="Fgl2" />
+    <node id="Cdk5" />
+    <node id="Asb10" />
+    <node id="Pus7" />
+    <node id="Dnajb6" />
+    <node id="Slc26a5" />
+    <node id="Klhl7" />
+    <node id="Orc5" />
+    <node id="Srpk2" />
+    <node id="Prkag2" />
+    <node id="Phtf2" />
+    <node id="Dpp6" />
+    <node id="En2" />
+    <node id="Abcf2" />
+    <node id="Agap3" />
+    <node id="Psmc2" />
+    <node id="Pmpcb" />
+    <node id="Abcb8" />
+    <node id="Paxip1" />
+    <node id="Smarcd3" />
+    <node id="Kmt2c" />
+    <node id="Tomm7" />
+    <node id="Galnt11" />
+    <node id="Rnf32" />
+    <node id="Mnx1" />
+    <node id="Htr5a" />
+    <node id="Dnajc2" />
+    <node id="Ptpn12" />
+    <edge source="Gm10221///Atp5l" target="Tomm7" />
+    <edge source="Gm10221///Atp5l" target="Pmpcb" />
+    <edge source="Slc4a2" target="Abcf2" />
+    <edge source="Slc4a2" target="Slc26a5" />
+    <edge source="Slc4a2" target="Chpf2" />
+    <edge source="Kcnh2" target="Prkag2" />
+    <edge source="Kcnh2" target="Dpp6" />
+    <edge source="Xrcc2" target="Galnt11" />
+    <edge source="Shh" target="Abcb8" />
+    <edge source="Nos3" target="Srpk2" />
+    <edge source="Nos3" target="Tyms" />
+    <edge source="Nos3" target="Ptpn12" />
+    <edge source="Nos3" target="Asb10" />
+    <edge source="Nos3" target="Prkag2" />
+    <edge source="Nos3" target="Reln" />
+    <edge source="Nos3" target="Cdk5" />
+    <edge source="Nos3" target="Kmt2e" />
+    <edge source="Nos3" target="Orc5" />
+    <edge source="Ube3c" target="Kmt2c" />
+    <edge source="Ube3c" target="Psmc2" />
+    <edge source="Ube3c" target="Dnajc2" />
+    <edge source="Hadha" target="Hadhb" />
+    <edge source="Hadha" target="Dnajb6" />
+    <edge source="Hadha" target="Prkag2" />
+    <edge source="Hadha" target="Abcb8" />
+    <edge source="Hadhb" target="Pmpcb" />
+    <edge source="Hadhb" target="Klhl7" />
+    <edge source="Kmt2e" target="Srpk2" />
+    <edge source="Kmt2e" target="Paxip1" />
+    <edge source="Kmt2e" target="Smarcd3" />
+    <edge source="Kmt2e" target="Kmt2c" />
+    <edge source="Kmt2e" target="Asb10" />
+    <edge source="Kmt2e" target="Rnf32" />
+    <edge source="Kmt2e" target="Orc5" />
+    <edge source="Tmem60" target="Prkag2" />
+    <edge source="Tyms" target="Prkag2" />
+    <edge source="Tyms" target="Cdk5" />
+    <edge source="Tyms" target="Abcb8" />
+    <edge source="Tyms" target="Orc5" />
+    <edge source="Fgl2" target="Paxip1" />
+    <edge source="Cdk5" target="Abcf2" />
+    <edge source="Cdk5" target="Prkag2" />
+    <edge source="Cdk5" target="Dnajb6" />
+    <edge source="Asb10" target="Srpk2" />
+    <edge source="Asb10" target="Kmt2c" />
+    <edge source="Asb10" target="Orc5" />
+    <edge source="Pus7" target="Srpk2" />
+    <edge source="Pus7" target="Dnajc2" />
+    <edge source="Dnajb6" target="Dnajc2" />
+    <edge source="Dnajb6" target="Pmpcb" />
+    <edge source="Dnajb6" target="Klhl7" />
+    <edge source="Slc26a5" target="Srpk2" />
+    <edge source="Klhl7" target="Phtf2" />
+    <edge source="Klhl7" target="Pmpcb" />
+    <edge source="Orc5" target="Srpk2" />
+    <edge source="Orc5" target="Psmc2" />
+    <edge source="Srpk2" target="Kmt2c" />
+    <edge source="Prkag2" target="Abcb8" />
+    <edge source="Phtf2" target="Pmpcb" />
+    <edge source="Dpp6" target="Paxip1" />
+    <edge source="Dpp6" target="Abcb8" />
+    <edge source="Dpp6" target="En2" />
+    <edge source="Dpp6" target="Kmt2c" />
+    <edge source="Dpp6" target="Htr5a" />
+    <edge source="En2" target="Agap3" />
+    <edge source="Abcf2" target="Dnajc2" />
+    <edge source="Abcf2" target="Psmc2" />
+    <edge source="Abcf2" target="Abcb8" />
+    <edge source="Agap3" target="Paxip1" />
+    <edge source="Psmc2" target="Pmpcb" />
+    <edge source="Paxip1" target="Kmt2c" />
+    <edge source="Paxip1" target="Htr5a" />
+    <edge source="Smarcd3" target="Kmt2c" />
+    <edge source="Kmt2c" target="Rnf32" />
+    <edge source="Rnf32" target="Mnx1" />
+    <edge source="Mnx1" target="Dnajc2" />
+  </graph>
+</graphml>

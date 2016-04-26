@@ -1,0 +1,105 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <graph edgedefault="undirected">
+    <node id="Cul7" />
+    <node id="Klhdc3" />
+    <node id="Slc22a7" />
+    <node id="Taf8" />
+    <node id="Bysl" />
+    <node id="Gtpbp2" />
+    <node id="Rrp36" />
+    <node id="Yipf3" />
+    <node id="Guca1a" />
+    <node id="Ttbk1" />
+    <node id="Mea1" />
+    <node id="Abcc10" />
+    <node id="Mrps18a" />
+    <node id="Ubr2" />
+    <node id="Gnmt" />
+    <node id="Mrpl2" />
+    <node id="Cnpy3" />
+    <node id="Polh" />
+    <node id="Polr1c" />
+    <node id="Guca1b" />
+    <node id="Ppp2r5d" />
+    <node id="Klc4" />
+    <node id="Gltscr1l" />
+    <node id="AI661453" />
+    <node id="Dnph1" />
+    <node id="Rpl7l1" />
+    <node id="2310039H08Rik" />
+    <node id="Ptk7" />
+    <node id="Ccnd3" />
+    <node id="Xpo5" />
+    <node id="Mrps10" />
+    <node id="Prph2" />
+    <node id="Med20" />
+    <edge source="Cul7" target="Ppp2r5d" />
+    <edge source="Cul7" target="Klc4" />
+    <edge source="Klhdc3" target="Mea1" />
+    <edge source="Klhdc3" target="Ppp2r5d" />
+    <edge source="Klhdc3" target="Rrp36" />
+    <edge source="Slc22a7" target="Abcc10" />
+    <edge source="Slc22a7" target="Cnpy3" />
+    <edge source="Slc22a7" target="Klc4" />
+    <edge source="Slc22a7" target="Mea1" />
+    <edge source="Slc22a7" target="Ppp2r5d" />
+    <edge source="Taf8" target="Gltscr1l" />
+    <edge source="Bysl" target="Ttbk1" />
+    <edge source="Bysl" target="Rrp36" />
+    <edge source="Bysl" target="Xpo5" />
+    <edge source="Bysl" target="Polr1c" />
+    <edge source="Bysl" target="Rpl7l1" />
+    <edge source="Gtpbp2" target="Ptk7" />
+    <edge source="Rrp36" target="Mea1" />
+    <edge source="Rrp36" target="Rpl7l1" />
+    <edge source="Rrp36" target="Klc4" />
+    <edge source="Rrp36" target="Polr1c" />
+    <edge source="Yipf3" target="Dnph1" />
+    <edge source="Yipf3" target="Ttbk1" />
+    <edge source="Yipf3" target="Klc4" />
+    <edge source="Guca1a" target="Ptk7" />
+    <edge source="Guca1a" target="Prph2" />
+    <edge source="Guca1a" target="Guca1b" />
+    <edge source="Ttbk1" target="Ptk7" />
+    <edge source="Mea1" target="Mrpl2" />
+    <edge source="Mea1" target="Ppp2r5d" />
+    <edge source="Mea1" target="2310039H08Rik" />
+    <edge source="Mea1" target="Mrps18a" />
+    <edge source="Abcc10" target="Ptk7" />
+    <edge source="Abcc10" target="Klc4" />
+    <edge source="Abcc10" target="Mrps10" />
+    <edge source="Abcc10" target="Polr1c" />
+    <edge source="Mrps18a" target="Mrpl2" />
+    <edge source="Mrps18a" target="Mrps10" />
+    <edge source="Mrps18a" target="Rpl7l1" />
+    <edge source="Mrps18a" target="Polr1c" />
+    <edge source="Ubr2" target="Dnph1" />
+    <edge source="Ubr2" target="Xpo5" />
+    <edge source="Gnmt" target="Cnpy3" />
+    <edge source="Mrpl2" target="Rpl7l1" />
+    <edge source="Mrpl2" target="2310039H08Rik" />
+    <edge source="Mrpl2" target="Ppp2r5d" />
+    <edge source="Mrpl2" target="Mrps10" />
+    <edge source="Mrpl2" target="Polr1c" />
+    <edge source="Cnpy3" target="Ppp2r5d" />
+    <edge source="Cnpy3" target="Rpl7l1" />
+    <edge source="Polh" target="Ppp2r5d" />
+    <edge source="Polh" target="Polr1c" />
+    <edge source="Polr1c" target="Rpl7l1" />
+    <edge source="Polr1c" target="Med20" />
+    <edge source="Polr1c" target="Klc4" />
+    <edge source="Polr1c" target="Mrps10" />
+    <edge source="Guca1b" target="Ptk7" />
+    <edge source="Guca1b" target="Prph2" />
+    <edge source="Ppp2r5d" target="Ptk7" />
+    <edge source="Klc4" target="Ptk7" />
+    <edge source="Gltscr1l" target="Mrps10" />
+    <edge source="AI661453" target="Ccnd3" />
+    <edge source="Rpl7l1" target="Mrps10" />
+    <edge source="Rpl7l1" target="Xpo5" />
+    <edge source="Rpl7l1" target="Med20" />
+    <edge source="2310039H08Rik" target="Mrps10" />
+    <edge source="Ptk7" target="Xpo5" />
+  </graph>
+</graphml>

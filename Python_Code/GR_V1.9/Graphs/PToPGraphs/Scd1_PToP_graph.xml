@@ -1,0 +1,208 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <graph edgedefault="undirected">
+    <node id="Sh3pxd2a" />
+    <node id="Npm3" />
+    <node id="Aldh18a1" />
+    <node id="Actr1a" />
+    <node id="Ndufb8" />
+    <node id="Mgea5" />
+    <node id="Ankrd2" />
+    <node id="Ide" />
+    <node id="Abcc2" />
+    <node id="Dpcd" />
+    <node id="Blnk" />
+    <node id="Chuk" />
+    <node id="Btrc" />
+    <node id="Nkx2-3" />
+    <node id="Sfr1" />
+    <node id="Slk" />
+    <node id="Cpn1" />
+    <node id="Dntt" />
+    <node id="Marveld1" />
+    <node id="Mrpl43" />
+    <node id="Cyp2c29" />
+    <node id="Scd1" />
+    <node id="Kif11" />
+    <node id="Fbxl15" />
+    <node id="Frat1" />
+    <node id="Avpi1" />
+    <node id="Hells" />
+    <node id="Cyp2c39" />
+    <node id="Got1" />
+    <node id="Ina" />
+    <node id="Psd" />
+    <node id="Cyp17a1" />
+    <node id="Zdhhc16" />
+    <node id="Tm9sf3" />
+    <node id="Pdlim1" />
+    <node id="Pitx3" />
+    <node id="Mms19" />
+    <node id="Nolc1" />
+    <node id="Pprc1" />
+    <node id="Rbp4" />
+    <node id="Scd2" />
+    <node id="Cwf19l1" />
+    <node id="Fgf8" />
+    <node id="Pax2" />
+    <node id="Cyp2c50///Cyp2c37" />
+    <node id="Cyp2c69///Cyp2c67///Cyp2c68///Cyp2c40" />
+    <node id="Nfkb2" />
+    <node id="Cuedc2" />
+    <node id="Hhex" />
+    <node id="Gsto1" />
+    <node id="Lcor" />
+    <node id="Cyp2c38" />
+    <node id="Cyp2c70" />
+    <node id="Gbf1" />
+    <node id="Elovl3" />
+    <node id="Sfxn2" />
+    <node id="Fbxw4" />
+    <node id="Cyp26a1" />
+    <edge source="Sh3pxd2a" target="Kif11" />
+    <edge source="Sh3pxd2a" target="Actr1a" />
+    <edge source="Sh3pxd2a" target="Chuk" />
+    <edge source="Npm3" target="Mgea5" />
+    <edge source="Npm3" target="Nolc1" />
+    <edge source="Aldh18a1" target="Nfkb2" />
+    <edge source="Aldh18a1" target="Cyp2c38" />
+    <edge source="Aldh18a1" target="Got1" />
+    <edge source="Aldh18a1" target="Elovl3" />
+    <edge source="Aldh18a1" target="Kif11" />
+    <edge source="Aldh18a1" target="Cyp2c50///Cyp2c37" />
+    <edge source="Aldh18a1" target="Hells" />
+    <edge source="Actr1a" target="Fgf8" />
+    <edge source="Actr1a" target="Chuk" />
+    <edge source="Actr1a" target="Kif11" />
+    <edge source="Actr1a" target="Cwf19l1" />
+    <edge source="Actr1a" target="Frat1" />
+    <edge source="Actr1a" target="Hells" />
+    <edge source="Actr1a" target="Btrc" />
+    <edge source="Ndufb8" target="Cuedc2" />
+    <edge source="Ndufb8" target="Mms19" />
+    <edge source="Ndufb8" target="Mrpl43" />
+    <edge source="Ndufb8" target="Gbf1" />
+    <edge source="Ndufb8" target="Fbxl15" />
+    <edge source="Mgea5" target="Kif11" />
+    <edge source="Mgea5" target="Hhex" />
+    <edge source="Ankrd2" target="Ide" />
+    <edge source="Ankrd2" target="Chuk" />
+    <edge source="Ankrd2" target="Pdlim1" />
+    <edge source="Ide" target="Nfkb2" />
+    <edge source="Ide" target="Tm9sf3" />
+    <edge source="Abcc2" target="Cyp2c29" />
+    <edge source="Abcc2" target="Cyp2c38" />
+    <edge source="Abcc2" target="Cyp2c70" />
+    <edge source="Abcc2" target="Cyp2c39" />
+    <edge source="Dpcd" target="Dntt" />
+    <edge source="Dpcd" target="Fbxw4" />
+    <edge source="Dpcd" target="Mrpl43" />
+    <edge source="Dpcd" target="Btrc" />
+    <edge source="Dpcd" target="Avpi1" />
+    <edge source="Blnk" target="Nfkb2" />
+    <edge source="Blnk" target="Dntt" />
+    <edge source="Blnk" target="Pax2" />
+    <edge source="Blnk" target="Elovl3" />
+    <edge source="Chuk" target="Nfkb2" />
+    <edge source="Chuk" target="Fgf8" />
+    <edge source="Chuk" target="Kif11" />
+    <edge source="Chuk" target="Fbxw4" />
+    <edge source="Chuk" target="Frat1" />
+    <edge source="Btrc" target="Kif11" />
+    <edge source="Btrc" target="Dntt" />
+    <edge source="Btrc" target="Fbxw4" />
+    <edge source="Nkx2-3" target="Nfkb2" />
+    <edge source="Sfr1" target="Nfkb2" />
+    <edge source="Sfr1" target="Tm9sf3" />
+    <edge source="Sfr1" target="Slk" />
+    <edge source="Slk" target="Hells" />
+    <edge source="Cpn1" target="Scd1" />
+    <edge source="Cpn1" target="Avpi1" />
+    <edge source="Cpn1" target="Cyp17a1" />
+    <edge source="Cpn1" target="Scd2" />
+    <edge source="Dntt" target="Avpi1" />
+    <edge source="Dntt" target="Cyp17a1" />
+    <edge source="Marveld1" target="Avpi1" />
+    <edge source="Mrpl43" target="Gbf1" />
+    <edge source="Mrpl43" target="Zdhhc16" />
+    <edge source="Mrpl43" target="Fbxl15" />
+    <edge source="Mrpl43" target="Avpi1" />
+    <edge source="Cyp2c29" target="Nfkb2" />
+    <edge source="Cyp2c29" target="Cyp17a1" />
+    <edge source="Cyp2c29" target="Cyp2c50///Cyp2c37" />
+    <edge source="Cyp2c29" target="Cyp2c38" />
+    <edge source="Cyp2c29" target="Cyp2c70" />
+    <edge source="Cyp2c29" target="Scd2" />
+    <edge source="Cyp2c29" target="Scd1" />
+    <edge source="Cyp2c29" target="Cyp26a1" />
+    <edge source="Cyp2c29" target="Gsto1" />
+    <edge source="Cyp2c29" target="Cyp2c39" />
+    <edge source="Cyp2c29" target="Rbp4" />
+    <edge source="Scd1" target="Cyp17a1" />
+    <edge source="Scd1" target="Cyp2c69///Cyp2c67///Cyp2c68///Cyp2c40" />
+    <edge source="Scd1" target="Elovl3" />
+    <edge source="Scd1" target="Scd2" />
+    <edge source="Scd1" target="Cuedc2" />
+    <edge source="Scd1" target="Cyp2c38" />
+    <edge source="Scd1" target="Cyp2c70" />
+    <edge source="Scd1" target="Cyp2c50///Cyp2c37" />
+    <edge source="Scd1" target="Cyp26a1" />
+    <edge source="Scd1" target="Cyp2c39" />
+    <edge source="Kif11" target="Psd" />
+    <edge source="Kif11" target="Hells" />
+    <edge source="Kif11" target="Hhex" />
+    <edge source="Fbxl15" target="Gbf1" />
+    <edge source="Fbxl15" target="Cuedc2" />
+    <edge source="Fbxl15" target="Ina" />
+    <edge source="Frat1" target="Pitx3" />
+    <edge source="Hells" target="Pdlim1" />
+    <edge source="Hells" target="Tm9sf3" />
+    <edge source="Cyp2c39" target="Nfkb2" />
+    <edge source="Cyp2c39" target="Cyp2c38" />
+    <edge source="Cyp2c39" target="Cyp2c70" />
+    <edge source="Cyp2c39" target="Scd2" />
+    <edge source="Cyp2c39" target="Cyp17a1" />
+    <edge source="Cyp2c39" target="Cyp26a1" />
+    <edge source="Cyp2c39" target="Gsto1" />
+    <edge source="Cyp2c39" target="Got1" />
+    <edge source="Ina" target="Fbxw4" />
+    <edge source="Cyp17a1" target="Elovl3" />
+    <edge source="Cyp17a1" target="Cyp2c69///Cyp2c67///Cyp2c68///Cyp2c40" />
+    <edge source="Cyp17a1" target="Cyp2c50///Cyp2c37" />
+    <edge source="Cyp17a1" target="Scd2" />
+    <edge source="Cyp17a1" target="Cyp2c38" />
+    <edge source="Cyp17a1" target="Cyp2c70" />
+    <edge source="Cyp17a1" target="Sfxn2" />
+    <edge source="Cyp17a1" target="Cyp26a1" />
+    <edge source="Tm9sf3" target="Pdlim1" />
+    <edge source="Pdlim1" target="Nfkb2" />
+    <edge source="Pitx3" target="Elovl3" />
+    <edge source="Pitx3" target="Fgf8" />
+    <edge source="Pitx3" target="Pax2" />
+    <edge source="Mms19" target="Gbf1" />
+    <edge source="Nolc1" target="Pprc1" />
+    <edge source="Rbp4" target="Cyp2c70" />
+    <edge source="Scd2" target="Cyp2c69///Cyp2c67///Cyp2c68///Cyp2c40" />
+    <edge source="Scd2" target="Cyp2c50///Cyp2c37" />
+    <edge source="Scd2" target="Cuedc2" />
+    <edge source="Scd2" target="Cyp2c38" />
+    <edge source="Scd2" target="Cyp2c70" />
+    <edge source="Scd2" target="Elovl3" />
+    <edge source="Scd2" target="Cyp26a1" />
+    <edge source="Pax2" target="Cyp26a1" />
+    <edge source="Pax2" target="Hhex" />
+    <edge source="Cyp2c50///Cyp2c37" target="Nfkb2" />
+    <edge source="Cyp2c50///Cyp2c37" target="Cyp2c70" />
+    <edge source="Cyp2c50///Cyp2c37" target="Cyp26a1" />
+    <edge source="Cyp2c69///Cyp2c67///Cyp2c68///Cyp2c40" target="Cyp26a1" />
+    <edge source="Nfkb2" target="Cyp2c38" />
+    <edge source="Nfkb2" target="Cyp2c70" />
+    <edge source="Hhex" target="Cyp26a1" />
+    <edge source="Gsto1" target="Cyp2c38" />
+    <edge source="Gsto1" target="Cyp2c70" />
+    <edge source="Lcor" target="Cyp26a1" />
+    <edge source="Cyp2c38" target="Cyp2c70" />
+    <edge source="Cyp2c38" target="Cyp26a1" />
+    <edge source="Cyp2c70" target="Cyp26a1" />
+  </graph>
+</graphml>

@@ -1,0 +1,101 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <graph edgedefault="undirected">
+    <node id="Pola1" />
+    <node id="Pdk3" />
+    <node id="Gspt2" />
+    <node id="Nlgn3///2900075N08Rik" />
+    <node id="Efnb1" />
+    <node id="Apoo" />
+    <node id="Pja1" />
+    <node id="Med12" />
+    <node id="Msn" />
+    <node id="Heph" />
+    <node id="Stard8" />
+    <node id="Klhl15" />
+    <node id="Dlg3" />
+    <node id="Zc4h2" />
+    <node id="Snx12" />
+    <node id="Il1rapl1" />
+    <node id="P2ry4" />
+    <node id="Pcyt1b" />
+    <node id="Amer1" />
+    <node id="Maged1" />
+    <node id="Ar" />
+    <node id="Igbp1" />
+    <node id="Gdpd2" />
+    <node id="Arr3" />
+    <node id="Eif2s3x" />
+    <node id="Slc7a3" />
+    <node id="Zxda" />
+    <node id="Arhgef9" />
+    <node id="Eda" />
+    <node id="Yipf6" />
+    <node id="Tex11" />
+    <node id="Arx" />
+    <node id="Eda2r" />
+    <node id="Foxo4" />
+    <node id="Las1l" />
+    <node id="Ophn1" />
+    <node id="Kif4" />
+    <node id="Zfx///Zfa-ps" />
+    <edge source="Pola1" target="Il1rapl1" />
+    <edge source="Pola1" target="Eif2s3x" />
+    <edge source="Pola1" target="Zfx///Zfa-ps" />
+    <edge source="Pola1" target="Kif4" />
+    <edge source="Pola1" target="Ar" />
+    <edge source="Pdk3" target="Snx12" />
+    <edge source="Pdk3" target="Heph" />
+    <edge source="Gspt2" target="Snx12" />
+    <edge source="Gspt2" target="Eif2s3x" />
+    <edge source="Gspt2" target="Ar" />
+    <edge source="Nlgn3///2900075N08Rik" target="Zxda" />
+    <edge source="Nlgn3///2900075N08Rik" target="Il1rapl1" />
+    <edge source="Nlgn3///2900075N08Rik" target="Arhgef9" />
+    <edge source="Nlgn3///2900075N08Rik" target="Dlg3" />
+    <edge source="Efnb1" target="Ophn1" />
+    <edge source="Efnb1" target="Stard8" />
+    <edge source="Efnb1" target="Pja1" />
+    <edge source="Apoo" target="Ophn1" />
+    <edge source="Apoo" target="Zfx///Zfa-ps" />
+    <edge source="Pja1" target="Arx" />
+    <edge source="Pja1" target="Maged1" />
+    <edge source="Pja1" target="Dlg3" />
+    <edge source="Pja1" target="Ophn1" />
+    <edge source="Pja1" target="Eif2s3x" />
+    <edge source="Med12" target="Ophn1" />
+    <edge source="Msn" target="Snx12" />
+    <edge source="Msn" target="Dlg3" />
+    <edge source="Stard8" target="Yipf6" />
+    <edge source="Stard8" target="Ophn1" />
+    <edge source="Stard8" target="Arhgef9" />
+    <edge source="Klhl15" target="Amer1" />
+    <edge source="Dlg3" target="Tex11" />
+    <edge source="Dlg3" target="Il1rapl1" />
+    <edge source="Dlg3" target="Slc7a3" />
+    <edge source="Dlg3" target="Snx12" />
+    <edge source="Dlg3" target="Ophn1" />
+    <edge source="Zc4h2" target="Pcyt1b" />
+    <edge source="Snx12" target="Yipf6" />
+    <edge source="Snx12" target="Tex11" />
+    <edge source="Snx12" target="Igbp1" />
+    <edge source="Snx12" target="Slc7a3" />
+    <edge source="Il1rapl1" target="Ophn1" />
+    <edge source="P2ry4" target="Arhgef9" />
+    <edge source="Pcyt1b" target="Gdpd2" />
+    <edge source="Amer1" target="Arhgef9" />
+    <edge source="Maged1" target="Arr3" />
+    <edge source="Ar" target="Eif2s3x" />
+    <edge source="Ar" target="Las1l" />
+    <edge source="Igbp1" target="Slc7a3" />
+    <edge source="Eif2s3x" target="Zfx///Zfa-ps" />
+    <edge source="Slc7a3" target="Foxo4" />
+    <edge source="Slc7a3" target="Tex11" />
+    <edge source="Arhgef9" target="Ophn1" />
+    <edge source="Eda" target="Eda2r" />
+    <edge source="Yipf6" target="Ophn1" />
+    <edge source="Tex11" target="Zfx///Zfa-ps" />
+    <edge source="Arx" target="Ophn1" />
+    <edge source="Ophn1" target="Zfx///Zfa-ps" />
+  </graph>
+</graphml>

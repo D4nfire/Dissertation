@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <graph edgedefault="undirected">
+    <node id="Ppp1r16b" />
+    <node id="Fam83d" />
+    <node id="Rbl1" />
+    <node id="Rprd1b" />
+    <node id="Samhd1" />
+    <node id="Slc32a1" />
+    <node id="Romo1" />
+    <node id="Ralgapb" />
+    <node id="Cnbd2" />
+    <node id="Dhx35" />
+    <node id="Dsn1" />
+    <node id="1110008F13Rik" />
+    <node id="Epb4.1l1" />
+    <node id="Lbp" />
+    <node id="Dlgap4" />
+    <node id="Blcap" />
+    <node id="Myl9" />
+    <node id="Ndrg3" />
+    <node id="Nfs1" />
+    <node id="Nnat" />
+    <node id="Scand1" />
+    <node id="Tgif2" />
+    <node id="Tgm2" />
+    <node id="Soga1" />
+    <node id="Ctnnbl1" />
+    <node id="Ghrh" />
+    <node id="Aar2" />
+    <node id="Phf20" />
+    <node id="Rbm39" />
+    <edge source="Ppp1r16b" target="Cnbd2" />
+    <edge source="Ppp1r16b" target="Rbm39" />
+    <edge source="Ppp1r16b" target="Myl9" />
+    <edge source="Ppp1r16b" target="Ghrh" />
+    <edge source="Ppp1r16b" target="Fam83d" />
+    <edge source="Ppp1r16b" target="Slc32a1" />
+    <edge source="Fam83d" target="Slc32a1" />
+    <edge source="Fam83d" target="Dsn1" />
+    <edge source="Rbl1" target="Scand1" />
+    <edge source="Rbl1" target="Dsn1" />
+    <edge source="Rprd1b" target="Ctnnbl1" />
+    <edge source="Samhd1" target="Lbp" />
+    <edge source="Slc32a1" target="Epb4.1l1" />
+    <edge source="Romo1" target="1110008F13Rik" />
+    <edge source="Romo1" target="Lbp" />
+    <edge source="Ralgapb" target="Nfs1" />
+    <edge source="Ralgapb" target="Myl9" />
+    <edge source="Ralgapb" target="Ndrg3" />
+    <edge source="Cnbd2" target="Scand1" />
+    <edge source="Cnbd2" target="Epb4.1l1" />
+    <edge source="Dhx35" target="Aar2" />
+    <edge source="1110008F13Rik" target="Tgif2" />
+    <edge source="Epb4.1l1" target="Dlgap4" />
+    <edge source="Epb4.1l1" target="Ctnnbl1" />
+    <edge source="Epb4.1l1" target="Myl9" />
+    <edge source="Epb4.1l1" target="Aar2" />
+    <edge source="Epb4.1l1" target="Nnat" />
+    <edge source="Lbp" target="Tgm2" />
+    <edge source="Dlgap4" target="Myl9" />
+    <edge source="Dlgap4" target="Ctnnbl1" />
+    <edge source="Dlgap4" target="Aar2" />
+    <edge source="Blcap" target="Nnat" />
+    <edge source="Myl9" target="Ctnnbl1" />
+    <edge source="Myl9" target="Ndrg3" />
+    <edge source="Myl9" target="Aar2" />
+    <edge source="Myl9" target="Nfs1" />
+    <edge source="Ndrg3" target="Nfs1" />
+    <edge source="Ndrg3" target="Soga1" />
+    <edge source="Ndrg3" target="Phf20" />
+    <edge source="Nfs1" target="Rbm39" />
+    <edge source="Tgif2" target="Ghrh" />
+    <edge source="Ctnnbl1" target="Aar2" />
+    <edge source="Phf20" target="Rbm39" />
+  </graph>
+</graphml>

@@ -1,0 +1,1140 @@
+Ranking and roc information for variable d = 0.0
+
+1426856_at (Hsdl2) is ranked: 1 with a ranking value of: 0.02378334556022463
+1420793_at (Mup4) is ranked: 2 with a ranking value of: 0.023751731253235753
+1423476_at (Slc46a2) is ranked: 3 with a ranking value of: 0.023715431537713102
+1448635_at (Smc2) is ranked: 4 with a ranking value of: 0.023630078018547208
+1425287_at (Zfp189) is ranked: 5 with a ranking value of: 0.023607655425948598
+1430701_a_at (Msantd3) is ranked: 6 with a ranking value of: 0.023573640111955722
+1418199_at (Hemgn) is ranked: 7 with a ranking value of: 0.023569124661274168
+1424142_at (Ikbkap) is ranked: 8 with a ranking value of: 0.023447641801263054
+1456664_x_at (Gm19579///Hnrnpf) is ranked: 9 with a ranking value of: 0.02344624255885425
+1452367_at (Coro2a) is ranked: 10 with a ranking value of: 0.023378247382992646
+1424678_at (Actl7b) is ranked: 11 with a ranking value of: 0.023235228773608656
+1419308_at (Invs) is ranked: 12 with a ranking value of: 0.023181319879431134
+1433645_at (Slc44a1) is ranked: 13 with a ranking value of: 0.02300697177727208
+1455134_at (Tmem245) is ranked: 14 with a ranking value of: 0.023003596957411315
+1417083_at (Sec61b) is ranked: 15 with a ranking value of: 0.023003293079782248
+1425031_at (Fktn) is ranked: 16 with a ranking value of: 0.02283294294766924
+1455628_at (Epb4.1l4b) is ranked: 17 with a ranking value of: 0.022806628320988436
+1420551_at (Murc) is ranked: 18 with a ranking value of: 0.0227876654324426
+1419001_at (Baat) is ranked: 19 with a ranking value of: 0.02252289562382913
+1416119_at (Txn1) is ranked: 20 with a ranking value of: 0.02224376621227578
+1424700_at (Tmem38b) is ranked: 21 with a ranking value of: 0.02222997180915062
+1424083_at (Ptbp3) is ranked: 22 with a ranking value of: 0.02217833535215104
+1424222_s_at (Rad23b) is ranked: 23 with a ranking value of: 0.02183094719712959
+1417395_at (Klf4) is ranked: 24 with a ranking value of: 0.021827320921214276
+1419009_at (Actl7a) is ranked: 25 with a ranking value of: 0.021616202931792977
+1451194_at (Aldob) is ranked: 26 with a ranking value of: 0.02091444905052607
+1417082_at (Anp32b) is ranked: 27 with a ranking value of: 0.020560861221828954
+1417773_at (Nans) is ranked: 28 with a ranking value of: 0.019955118519244582
+1448967_at (Nipsnap3b) is ranked: 29 with a ranking value of: 0.019617781094475307
+1426110_a_at (Lpar1) is ranked: 30 with a ranking value of: 0.01943491003939905
+1439464_s_at (Tex10) is ranked: 31 with a ranking value of: 0.019307927794699205
+1450511_at (Musk) is ranked: 32 with a ranking value of: 0.019179376004564357
+1423246_at (Erp44) is ranked: 33 with a ranking value of: 0.019085582372158863
+1433663_s_at (Ncbp1) is ranked: 34 with a ranking value of: 0.01883433487727685
+1417777_at (Ptgr1) is ranked: 35 with a ranking value of: 0.018349388660274
+1450649_at (Gng10) is ranked: 36 with a ranking value of: 0.018270672432162478
+1450517_at (Tal2) is ranked: 37 with a ranking value of: 0.01786944860242721
+1456002_at (Xpa) is ranked: 38 with a ranking value of: 0.017770622658806794
+1425150_at (Acnat2) is ranked: 39 with a ranking value of: 0.01755160977282804
+1421269_at (Ugcg) is ranked: 40 with a ranking value of: 0.01716878321301716
+1421079_at (Nr4a3) is ranked: 41 with a ranking value of: 0.01713230884519162
+1421059_a_at (Alg2) is ranked: 42 with a ranking value of: 0.016707326473262698
+1448755_at (Col15a1) is ranked: 43 with a ranking value of: 0.016563161667758525
+1426716_at (Tdrd7) is ranked: 44 with a ranking value of: 0.016299401794312832
+1426649_at (Tmeff1) is ranked: 45 with a ranking value of: 0.016054566568471654
+1452361_at (Rnf20) is ranked: 46 with a ranking value of: 0.013329885481478674
+1427924_at (Stx17) is ranked: 47 with a ranking value of: 0.01273123881956823
+1451266_at (Mrpl50) is ranked: 48 with a ranking value of: 0.011790131535844644
+1420893_a_at (Tgfbr1) is ranked: 49 with a ranking value of: 0.01097243196152596
+1450392_at (Abca1) is ranked: 50 with a ranking value of: 0.010338455010738113
+
+The roc score is:0.0
+
+
+
+Ranking and roc information for variable d = 0.05
+
+1448635_at (Smc2) is ranked: 1 with a ranking value of: 0.02420385276709186
+1419308_at (Invs) is ranked: 2 with a ranking value of: 0.02387658224337088
+1416119_at (Txn1) is ranked: 3 with a ranking value of: 0.023830926931927024
+1424142_at (Ikbkap) is ranked: 4 with a ranking value of: 0.02373069654475697
+1420793_at (Mup4) is ranked: 5 with a ranking value of: 0.02354186798056213
+1455134_at (Tmem245) is ranked: 6 with a ranking value of: 0.02320189375028796
+1425031_at (Fktn) is ranked: 7 with a ranking value of: 0.02318119871325937
+1420551_at (Murc) is ranked: 8 with a ranking value of: 0.02317513230560965
+1430701_a_at (Msantd3) is ranked: 9 with a ranking value of: 0.02312403935595733
+1423476_at (Slc46a2) is ranked: 10 with a ranking value of: 0.022971355953144455
+1426856_at (Hsdl2) is ranked: 11 with a ranking value of: 0.022881464005057937
+1456664_x_at (Gm19579///Hnrnpf) is ranked: 12 with a ranking value of: 0.02283371208866934
+1418199_at (Hemgn) is ranked: 13 with a ranking value of: 0.022831824972641673
+1425287_at (Zfp189) is ranked: 14 with a ranking value of: 0.022794486965479515
+1424678_at (Actl7b) is ranked: 15 with a ranking value of: 0.02247690149555206
+1433645_at (Slc44a1) is ranked: 16 with a ranking value of: 0.022362645760503206
+1417083_at (Sec61b) is ranked: 17 with a ranking value of: 0.02223160866727352
+1452367_at (Coro2a) is ranked: 18 with a ranking value of: 0.022209335013843014
+1455628_at (Epb4.1l4b) is ranked: 19 with a ranking value of: 0.022092454681489473
+1424083_at (Ptbp3) is ranked: 20 with a ranking value of: 0.021922647442821325
+1419001_at (Baat) is ranked: 21 with a ranking value of: 0.021911895239024697
+1417395_at (Klf4) is ranked: 22 with a ranking value of: 0.021834405414476434
+1424700_at (Tmem38b) is ranked: 23 with a ranking value of: 0.02163405113314848
+1451194_at (Aldob) is ranked: 24 with a ranking value of: 0.02158799747907291
+1424222_s_at (Rad23b) is ranked: 25 with a ranking value of: 0.02121509617058637
+1419009_at (Actl7a) is ranked: 26 with a ranking value of: 0.021011463708392093
+1450511_at (Musk) is ranked: 27 with a ranking value of: 0.020277449656455504
+1426110_a_at (Lpar1) is ranked: 28 with a ranking value of: 0.020277085376076046
+1417082_at (Anp32b) is ranked: 29 with a ranking value of: 0.020015258968052434
+1433663_s_at (Ncbp1) is ranked: 30 with a ranking value of: 0.019914175372861796
+1417773_at (Nans) is ranked: 31 with a ranking value of: 0.019575189929146624
+1448967_at (Nipsnap3b) is ranked: 32 with a ranking value of: 0.0192869590337225
+1439464_s_at (Tex10) is ranked: 33 with a ranking value of: 0.01911251293249311
+1456002_at (Xpa) is ranked: 34 with a ranking value of: 0.018635648733882158
+1423246_at (Erp44) is ranked: 35 with a ranking value of: 0.01854891383612801
+1450649_at (Gng10) is ranked: 36 with a ranking value of: 0.018198236090805852
+1421059_a_at (Alg2) is ranked: 37 with a ranking value of: 0.01786572371535066
+1417777_at (Ptgr1) is ranked: 38 with a ranking value of: 0.017858358154916078
+1450517_at (Tal2) is ranked: 39 with a ranking value of: 0.01723127476834147
+1421269_at (Ugcg) is ranked: 40 with a ranking value of: 0.017184558183104777
+1425150_at (Acnat2) is ranked: 41 with a ranking value of: 0.017044388731627655
+1426716_at (Tdrd7) is ranked: 42 with a ranking value of: 0.016924562318264405
+1421079_at (Nr4a3) is ranked: 43 with a ranking value of: 0.01657595155972758
+1448755_at (Col15a1) is ranked: 44 with a ranking value of: 0.015931780071034424
+1426649_at (Tmeff1) is ranked: 45 with a ranking value of: 0.015691137135236143
+1452361_at (Rnf20) is ranked: 46 with a ranking value of: 0.013957797914631065
+1427924_at (Stx17) is ranked: 47 with a ranking value of: 0.012772474659665765
+1451266_at (Mrpl50) is ranked: 48 with a ranking value of: 0.012259514532833214
+1450392_at (Abca1) is ranked: 49 with a ranking value of: 0.011295647487782506
+1420893_a_at (Tgfbr1) is ranked: 50 with a ranking value of: 0.011144169603970534
+
+The roc score is:0.0
+
+
+
+Ranking and roc information for variable d = 0.1
+
+1416119_at (Txn1) is ranked: 1 with a ranking value of: 0.02527267096802324
+1448635_at (Smc2) is ranked: 2 with a ranking value of: 0.024679271955046607
+1419308_at (Invs) is ranked: 3 with a ranking value of: 0.024476293686484917
+1424142_at (Ikbkap) is ranked: 4 with a ranking value of: 0.023929423199920502
+1420551_at (Murc) is ranked: 5 with a ranking value of: 0.023479354279446862
+1425031_at (Fktn) is ranked: 6 with a ranking value of: 0.023445778346175193
+1455134_at (Tmem245) is ranked: 7 with a ranking value of: 0.023336020993958123
+1420793_at (Mup4) is ranked: 8 with a ranking value of: 0.023280798654241947
+1430701_a_at (Msantd3) is ranked: 9 with a ranking value of: 0.022634128740867128
+1423476_at (Slc46a2) is ranked: 10 with a ranking value of: 0.022188788226898674
+1456664_x_at (Gm19579///Hnrnpf) is ranked: 11 with a ranking value of: 0.022172920719631815
+1451194_at (Aldob) is ranked: 12 with a ranking value of: 0.02215292973637553
+1418199_at (Hemgn) is ranked: 13 with a ranking value of: 0.02205795814602178
+1426856_at (Hsdl2) is ranked: 14 with a ranking value of: 0.02195679080437088
+1425287_at (Zfp189) is ranked: 15 with a ranking value of: 0.021953289963532182
+1417395_at (Klf4) is ranked: 16 with a ranking value of: 0.0217666471032558
+1424678_at (Actl7b) is ranked: 17 with a ranking value of: 0.02168525995481788
+1433645_at (Slc44a1) is ranked: 18 with a ranking value of: 0.021674656482319206
+1424083_at (Ptbp3) is ranked: 19 with a ranking value of: 0.02161517899848843
+1417083_at (Sec61b) is ranked: 20 with a ranking value of: 0.02142772065841921
+1455628_at (Epb4.1l4b) is ranked: 21 with a ranking value of: 0.02134332654242569
+1419001_at (Baat) is ranked: 22 with a ranking value of: 0.021257061568966888
+1450511_at (Musk) is ranked: 23 with a ranking value of: 0.02125129466938159
+1452367_at (Coro2a) is ranked: 24 with a ranking value of: 0.02104042264469338
+1426110_a_at (Lpar1) is ranked: 25 with a ranking value of: 0.021017384386639512
+1424700_at (Tmem38b) is ranked: 26 with a ranking value of: 0.020994083852519156
+1433663_s_at (Ncbp1) is ranked: 27 with a ranking value of: 0.020891643055972353
+1424222_s_at (Rad23b) is ranked: 28 with a ranking value of: 0.02056031471660167
+1419009_at (Actl7a) is ranked: 29 with a ranking value of: 0.020366689746009106
+1417082_at (Anp32b) is ranked: 30 with a ranking value of: 0.019429093816594807
+1456002_at (Xpa) is ranked: 31 with a ranking value of: 0.019395318114273127
+1417773_at (Nans) is ranked: 32 with a ranking value of: 0.019165010427764653
+1421059_a_at (Alg2) is ranked: 33 with a ranking value of: 0.018905967083641274
+1448967_at (Nipsnap3b) is ranked: 34 with a ranking value of: 0.018903472320295336
+1439464_s_at (Tex10) is ranked: 35 with a ranking value of: 0.018852546786975646
+1450649_at (Gng10) is ranked: 36 with a ranking value of: 0.018068994271548632
+1423246_at (Erp44) is ranked: 37 with a ranking value of: 0.017976506177387504
+1426716_at (Tdrd7) is ranked: 38 with a ranking value of: 0.017467588757087697
+1417777_at (Ptgr1) is ranked: 39 with a ranking value of: 0.017331097825486586
+1421269_at (Ugcg) is ranked: 40 with a ranking value of: 0.017153909398828156
+1450517_at (Tal2) is ranked: 41 with a ranking value of: 0.016572325590257297
+1425150_at (Acnat2) is ranked: 42 with a ranking value of: 0.016505774010965056
+1421079_at (Nr4a3) is ranked: 43 with a ranking value of: 0.015993852746771654
+1426649_at (Tmeff1) is ranked: 44 with a ranking value of: 0.01528858329907238
+1448755_at (Col15a1) is ranked: 45 with a ranking value of: 0.015284074466497757
+1452361_at (Rnf20) is ranked: 46 with a ranking value of: 0.014491068435702564
+1427924_at (Stx17) is ranked: 47 with a ranking value of: 0.012755792403183669
+1451266_at (Mrpl50) is ranked: 48 with a ranking value of: 0.012680470933563651
+1450392_at (Abca1) is ranked: 49 with a ranking value of: 0.012165204840564527
+1420893_a_at (Tgfbr1) is ranked: 50 with a ranking value of: 0.011254563995340165
+
+The roc score is:0.0
+
+
+
+Ranking and roc information for variable d = 0.15000000000000002
+
+1416119_at (Txn1) is ranked: 1 with a ranking value of: 0.026553170260672172
+1448635_at (Smc2) is ranked: 2 with a ranking value of: 0.025046177427559106
+1419308_at (Invs) is ranked: 3 with a ranking value of: 0.024969022314564236
+1424142_at (Ikbkap) is ranked: 4 with a ranking value of: 0.024035563246461975
+1420551_at (Murc) is ranked: 5 with a ranking value of: 0.023691165543471396
+1425031_at (Fktn) is ranked: 6 with a ranking value of: 0.02361822900667933
+1455134_at (Tmem245) is ranked: 7 with a ranking value of: 0.023397772666611222
+1420793_at (Mup4) is ranked: 8 with a ranking value of: 0.02296272894712951
+1451194_at (Aldob) is ranked: 9 with a ranking value of: 0.022600139915018684
+1430701_a_at (Msantd3) is ranked: 10 with a ranking value of: 0.022099958260982242
+1450511_at (Musk) is ranked: 11 with a ranking value of: 0.022089969047210854
+1433663_s_at (Ncbp1) is ranked: 12 with a ranking value of: 0.021754235217895802
+1426110_a_at (Lpar1) is ranked: 13 with a ranking value of: 0.021645294002254213
+1417395_at (Klf4) is ranked: 14 with a ranking value of: 0.021619074318909394
+1456664_x_at (Gm19579///Hnrnpf) is ranked: 15 with a ranking value of: 0.021462328041545166
+1423476_at (Slc46a2) is ranked: 16 with a ranking value of: 0.021366560237392127
+1424083_at (Ptbp3) is ranked: 17 with a ranking value of: 0.02125145938781077
+1418199_at (Hemgn) is ranked: 18 with a ranking value of: 0.021246120962371037
+1425287_at (Zfp189) is ranked: 19 with a ranking value of: 0.021082578940935185
+1426856_at (Hsdl2) is ranked: 20 with a ranking value of: 0.021008301533053154
+1433645_at (Slc44a1) is ranked: 21 with a ranking value of: 0.020941622065062348
+1424678_at (Actl7b) is ranked: 22 with a ranking value of: 0.020858975444974767
+1417083_at (Sec61b) is ranked: 23 with a ranking value of: 0.020590512440069108
+1455628_at (Epb4.1l4b) is ranked: 24 with a ranking value of: 0.02055781561216752
+1419001_at (Baat) is ranked: 25 with a ranking value of: 0.020556874035378717
+1424700_at (Tmem38b) is ranked: 26 with a ranking value of: 0.020308591438608883
+1456002_at (Xpa) is ranked: 27 with a ranking value of: 0.020040102627889765
+1452367_at (Coro2a) is ranked: 28 with a ranking value of: 0.01987151027554375
+1424222_s_at (Rad23b) is ranked: 29 with a ranking value of: 0.019864992494752598
+1421059_a_at (Alg2) is ranked: 30 with a ranking value of: 0.019817092464670175
+1419009_at (Actl7a) is ranked: 31 with a ranking value of: 0.019680410167566113
+1417082_at (Anp32b) is ranked: 32 with a ranking value of: 0.01880088770307614
+1417773_at (Nans) is ranked: 33 with a ranking value of: 0.01872035663535229
+1439464_s_at (Tex10) is ranked: 34 with a ranking value of: 0.018525688076212885
+1448967_at (Nipsnap3b) is ranked: 35 with a ranking value of: 0.01846510012304055
+1426716_at (Tdrd7) is ranked: 36 with a ranking value of: 0.01792017511239668
+1450649_at (Gng10) is ranked: 37 with a ranking value of: 0.017879243190812324
+1423246_at (Erp44) is ranked: 38 with a ranking value of: 0.017367165886689864
+1421269_at (Ugcg) is ranked: 39 with a ranking value of: 0.017071608955998713
+1417777_at (Ptgr1) is ranked: 40 with a ranking value of: 0.016766343528060335
+1425150_at (Acnat2) is ranked: 41 with a ranking value of: 0.0159347156655125
+1450517_at (Tal2) is ranked: 42 with a ranking value of: 0.01589170798629033
+1421079_at (Nr4a3) is ranked: 43 with a ranking value of: 0.015385146415741768
+1452361_at (Rnf20) is ranked: 44 with a ranking value of: 0.014924225896117789
+1426649_at (Tmeff1) is ranked: 45 with a ranking value of: 0.014845847206738257
+1448755_at (Col15a1) is ranked: 46 with a ranking value of: 0.014619428075100738
+1451266_at (Mrpl50) is ranked: 47 with a ranking value of: 0.013046455175958111
+1450392_at (Abca1) is ranked: 48 with a ranking value of: 0.01293946546697693
+1427924_at (Stx17) is ranked: 49 with a ranking value of: 0.012679236989040395
+1420893_a_at (Tgfbr1) is ranked: 50 with a ranking value of: 0.011301517998913723
+
+The roc score is:0.0
+
+
+
+Ranking and roc information for variable d = 0.2
+
+1416119_at (Txn1) is ranked: 1 with a ranking value of: 0.027655281506876912
+1419308_at (Invs) is ranked: 2 with a ranking value of: 0.025342388102211257
+1448635_at (Smc2) is ranked: 3 with a ranking value of: 0.025293627856171376
+1424142_at (Ikbkap) is ranked: 4 with a ranking value of: 0.02404025019814552
+1420551_at (Murc) is ranked: 5 with a ranking value of: 0.023800697865743098
+1425031_at (Fktn) is ranked: 6 with a ranking value of: 0.023689417556259713
+1455134_at (Tmem245) is ranked: 7 with a ranking value of: 0.023378118534531964
+1451194_at (Aldob) is ranked: 8 with a ranking value of: 0.02291995878510759
+1450511_at (Musk) is ranked: 9 with a ranking value of: 0.022781710538048484
+1420793_at (Mup4) is ranked: 10 with a ranking value of: 0.022581360906700064
+1433663_s_at (Ncbp1) is ranked: 11 with a ranking value of: 0.022488389849164844
+1426110_a_at (Lpar1) is ranked: 12 with a ranking value of: 0.02214949863087519
+1430701_a_at (Msantd3) is ranked: 13 with a ranking value of: 0.021517210074447377
+1417395_at (Klf4) is ranked: 14 with a ranking value of: 0.02138637245091698
+1424083_at (Ptbp3) is ranked: 15 with a ranking value of: 0.020826673402617176
+1456664_x_at (Gm19579///Hnrnpf) is ranked: 16 with a ranking value of: 0.020700343441743412
+1421059_a_at (Alg2) is ranked: 17 with a ranking value of: 0.020587335721327864
+1456002_at (Xpa) is ranked: 18 with a ranking value of: 0.020559782321204333
+1423476_at (Slc46a2) is ranked: 19 with a ranking value of: 0.020503468692601345
+1418199_at (Hemgn) is ranked: 20 with a ranking value of: 0.020394859125054107
+1425287_at (Zfp189) is ranked: 21 with a ranking value of: 0.02018080866248397
+1433645_at (Slc44a1) is ranked: 22 with a ranking value of: 0.02016211469788825
+1426856_at (Hsdl2) is ranked: 23 with a ranking value of: 0.020034926740899014
+1424678_at (Actl7b) is ranked: 24 with a ranking value of: 0.019996677561040663
+1419001_at (Baat) is ranked: 25 with a ranking value of: 0.01980976709682734
+1455628_at (Epb4.1l4b) is ranked: 26 with a ranking value of: 0.019734446752259893
+1417083_at (Sec61b) is ranked: 27 with a ranking value of: 0.019718834039847134
+1424700_at (Tmem38b) is ranked: 28 with a ranking value of: 0.01957604779791851
+1424222_s_at (Rad23b) is ranked: 29 with a ranking value of: 0.019127466975931744
+1419009_at (Actl7a) is ranked: 30 with a ranking value of: 0.018951109616029294
+1452367_at (Coro2a) is ranked: 31 with a ranking value of: 0.018702597906394117
+1426716_at (Tdrd7) is ranked: 32 with a ranking value of: 0.0182734042935715
+1417773_at (Nans) is ranked: 33 with a ranking value of: 0.018236704891929086
+1439464_s_at (Tex10) is ranked: 34 with a ranking value of: 0.01812950989351675
+1417082_at (Anp32b) is ranked: 35 with a ranking value of: 0.018129114729660136
+1448967_at (Nipsnap3b) is ranked: 36 with a ranking value of: 0.017969536505430535
+1450649_at (Gng10) is ranked: 37 with a ranking value of: 0.01762500131490065
+1421269_at (Ugcg) is ranked: 38 with a ranking value of: 0.016932001445989824
+1423246_at (Erp44) is ranked: 39 with a ranking value of: 0.016719662276586805
+1417777_at (Ptgr1) is ranked: 40 with a ranking value of: 0.016162793183044685
+1425150_at (Acnat2) is ranked: 41 with a ranking value of: 0.015330119041554357
+1452361_at (Rnf20) is ranked: 42 with a ranking value of: 0.01525151144709298
+1450517_at (Tal2) is ranked: 43 with a ranking value of: 0.015188502414761933
+1421079_at (Nr4a3) is ranked: 44 with a ranking value of: 0.014748942483956622
+1426649_at (Tmeff1) is ranked: 45 with a ranking value of: 0.014361843227045349
+1448755_at (Col15a1) is ranked: 46 with a ranking value of: 0.013937200294704341
+1450392_at (Abca1) is ranked: 47 with a ranking value of: 0.013610181214006777
+1451266_at (Mrpl50) is ranked: 48 with a ranking value of: 0.013350241596175958
+1427924_at (Stx17) is ranked: 49 with a ranking value of: 0.012540793357863463
+1420893_a_at (Tgfbr1) is ranked: 50 with a ranking value of: 0.01128286729696664
+
+The roc score is:0.0
+
+
+
+Ranking and roc information for variable d = 0.25
+
+1416119_at (Txn1) is ranked: 1 with a ranking value of: 0.02856044714677607
+1419308_at (Invs) is ranked: 2 with a ranking value of: 0.025582995713039035
+1448635_at (Smc2) is ranked: 3 with a ranking value of: 0.02540984515650979
+1424142_at (Ikbkap) is ranked: 4 with a ranking value of: 0.02393397231622315
+1420551_at (Murc) is ranked: 5 with a ranking value of: 0.02379733592407331
+1425031_at (Fktn) is ranked: 6 with a ranking value of: 0.023649481390677976
+1450511_at (Musk) is ranked: 7 with a ranking value of: 0.023313881021397573
+1455134_at (Tmem245) is ranked: 8 with a ranking value of: 0.02326713248424307
+1451194_at (Aldob) is ranked: 9 with a ranking value of: 0.0231021212668465
+1433663_s_at (Ncbp1) is ranked: 10 with a ranking value of: 0.02307940467455527
+1426110_a_at (Lpar1) is ranked: 11 with a ranking value of: 0.022517826272566467
+1420793_at (Mup4) is ranked: 12 with a ranking value of: 0.022129853716688998
+1421059_a_at (Alg2) is ranked: 13 with a ranking value of: 0.021204079050340455
+1417395_at (Klf4) is ranked: 14 with a ranking value of: 0.02106286306200967
+1456002_at (Xpa) is ranked: 15 with a ranking value of: 0.020943402285200176
+1430701_a_at (Msantd3) is ranked: 16 with a ranking value of: 0.020881166560434355
+1424083_at (Ptbp3) is ranked: 17 with a ranking value of: 0.020335638093455285
+1456664_x_at (Gm19579///Hnrnpf) is ranked: 18 with a ranking value of: 0.019885324511709004
+1423476_at (Slc46a2) is ranked: 19 with a ranking value of: 0.01959827403753005
+1418199_at (Hemgn) is ranked: 20 with a ranking value of: 0.019502665579816846
+1433645_at (Slc44a1) is ranked: 21 with a ranking value of: 0.019334659067232227
+1425287_at (Zfp189) is ranked: 22 with a ranking value of: 0.019246372004121517
+1424678_at (Actl7b) is ranked: 23 with a ranking value of: 0.019096952880008445
+1426856_at (Hsdl2) is ranked: 24 with a ranking value of: 0.019035550219026746
+1419001_at (Baat) is ranked: 25 with a ranking value of: 0.019014128864773883
+1455628_at (Epb4.1l4b) is ranked: 26 with a ranking value of: 0.01887169640403744
+1417083_at (Sec61b) is ranked: 27 with a ranking value of: 0.01881150114706882
+1424700_at (Tmem38b) is ranked: 28 with a ranking value of: 0.018794877689213504
+1426716_at (Tdrd7) is ranked: 29 with a ranking value of: 0.01851770879677908
+1424222_s_at (Rad23b) is ranked: 30 with a ranking value of: 0.01834602175018619
+1419009_at (Actl7a) is ranked: 31 with a ranking value of: 0.01817722691343019
+1417773_at (Nans) is ranked: 32 with a ranking value of: 0.01770921337210357
+1439464_s_at (Tex10) is ranked: 33 with a ranking value of: 0.017661496685678235
+1452367_at (Coro2a) is ranked: 34 with a ranking value of: 0.017533685537244485
+1448967_at (Nipsnap3b) is ranked: 35 with a ranking value of: 0.01741438740395651
+1417082_at (Anp32b) is ranked: 36 with a ranking value of: 0.0174121996687014
+1450649_at (Gng10) is ranked: 37 with a ranking value of: 0.017301987134913897
+1421269_at (Ugcg) is ranked: 38 with a ranking value of: 0.016728972428617487
+1423246_at (Erp44) is ranked: 39 with a ranking value of: 0.016032726238193858
+1417777_at (Ptgr1) is ranked: 40 with a ranking value of: 0.015519105577229917
+1452361_at (Rnf20) is ranked: 41 with a ranking value of: 0.015466865199302866
+1425150_at (Acnat2) is ranked: 42 with a ranking value of: 0.014690843069069509
+1450517_at (Tal2) is ranked: 43 with a ranking value of: 0.014461762131483855
+1450392_at (Abca1) is ranked: 44 with a ranking value of: 0.014168477291679825
+1421079_at (Nr4a3) is ranked: 45 with a ranking value of: 0.014084326152491796
+1426649_at (Tmeff1) is ranked: 46 with a ranking value of: 0.013835457238178117
+1451266_at (Mrpl50) is ranked: 47 with a ranking value of: 0.01358386252331236
+1448755_at (Col15a1) is ranked: 48 with a ranking value of: 0.013236725796246374
+1427924_at (Stx17) is ranked: 49 with a ranking value of: 0.012338384547574993
+1420893_a_at (Tgfbr1) is ranked: 50 with a ranking value of: 0.01119637826363657
+
+The roc score is:0.0
+
+
+
+Ranking and roc information for variable d = 0.3
+
+1416119_at (Txn1) is ranked: 1 with a ranking value of: 0.029248589258147144
+1419308_at (Invs) is ranked: 2 with a ranking value of: 0.025676362905437497
+1448635_at (Smc2) is ranked: 3 with a ranking value of: 0.025382157528645213
+1424142_at (Ikbkap) is ranked: 4 with a ranking value of: 0.02370653318216871
+1450511_at (Musk) is ranked: 5 with a ranking value of: 0.02367290728125538
+1420551_at (Murc) is ranked: 6 with a ranking value of: 0.023669669992607292
+1433663_s_at (Ncbp1) is ranked: 7 with a ranking value of: 0.023511350265700358
+1425031_at (Fktn) is ranked: 8 with a ranking value of: 0.023487775952360245
+1451194_at (Aldob) is ranked: 9 with a ranking value of: 0.023135732119566595
+1455134_at (Tmem245) is ranked: 10 with a ranking value of: 0.023053915176376644
+1426110_a_at (Lpar1) is ranked: 11 with a ranking value of: 0.022737191222003898
+1421059_a_at (Alg2) is ranked: 12 with a ranking value of: 0.021653793941898414
+1420793_at (Mup4) is ranked: 13 with a ranking value of: 0.021600781730174864
+1456002_at (Xpa) is ranked: 14 with a ranking value of: 0.021179226944586564
+1417395_at (Klf4) is ranked: 15 with a ranking value of: 0.020642481754712793
+1430701_a_at (Msantd3) is ranked: 16 with a ranking value of: 0.020186675677869335
+1424083_at (Ptbp3) is ranked: 17 with a ranking value of: 0.019772778172657206
+1456664_x_at (Gm19579///Hnrnpf) is ranked: 18 with a ranking value of: 0.019015575403771325
+1423476_at (Slc46a2) is ranked: 19 with a ranking value of: 0.018649699327430578
+1426716_at (Tdrd7) is ranked: 20 with a ranking value of: 0.018642829013511553
+1418199_at (Hemgn) is ranked: 21 with a ranking value of: 0.018567978781756277
+1433645_at (Slc44a1) is ranked: 22 with a ranking value of: 0.01845773073395738
+1425287_at (Zfp189) is ranked: 23 with a ranking value of: 0.018277597751439084
+1419001_at (Baat) is ranked: 24 with a ranking value of: 0.018168299676043463
+1424678_at (Actl7b) is ranked: 25 with a ranking value of: 0.01815834359880968
+1426856_at (Hsdl2) is ranked: 26 with a ranking value of: 0.018009007207421896
+1455628_at (Epb4.1l4b) is ranked: 27 with a ranking value of: 0.017967990962598095
+1424700_at (Tmem38b) is ranked: 28 with a ranking value of: 0.0179634550878061
+1417083_at (Sec61b) is ranked: 29 with a ranking value of: 0.01786729410503842
+1424222_s_at (Rad23b) is ranked: 30 with a ranking value of: 0.0175188847797425
+1419009_at (Actl7a) is ranked: 31 with a ranking value of: 0.017357153678205037
+1417773_at (Nans) is ranked: 32 with a ranking value of: 0.017132703180415536
+1439464_s_at (Tex10) is ranked: 33 with a ranking value of: 0.017119041131385997
+1450649_at (Gng10) is ranked: 34 with a ranking value of: 0.016905595279481947
+1448967_at (Nipsnap3b) is ranked: 35 with a ranking value of: 0.01679716750665904
+1417082_at (Anp32b) is ranked: 36 with a ranking value of: 0.016648516419879272
+1421269_at (Ugcg) is ranked: 37 with a ranking value of: 0.016455914730948935
+1452367_at (Coro2a) is ranked: 38 with a ranking value of: 0.01636477316809485
+1452361_at (Rnf20) is ranked: 39 with a ranking value of: 0.015563912293008228
+1423246_at (Erp44) is ranked: 40 with a ranking value of: 0.01530504895523615
+1417777_at (Ptgr1) is ranked: 41 with a ranking value of: 0.014833899126797402
+1450392_at (Abca1) is ranked: 42 with a ranking value of: 0.01460480960327713
+1425150_at (Acnat2) is ranked: 43 with a ranking value of: 0.014015698496646184
+1451266_at (Mrpl50) is ranked: 44 with a ranking value of: 0.013738541290832185
+1450517_at (Tal2) is ranked: 45 with a ranking value of: 0.013710512426775264
+1421079_at (Nr4a3) is ranked: 46 with a ranking value of: 0.013390357266333168
+1426649_at (Tmeff1) is ranked: 47 with a ranking value of: 0.013265545896559205
+1448755_at (Col15a1) is ranked: 48 with a ranking value of: 0.012517313586206896
+1427924_at (Stx17) is ranked: 49 with a ranking value of: 0.01206986972781866
+1420893_a_at (Tgfbr1) is ranked: 50 with a ranking value of: 0.011039745770941342
+
+The roc score is:0.0
+
+
+
+Ranking and roc information for variable d = 0.35
+
+1416119_at (Txn1) is ranked: 1 with a ranking value of: 0.029697995874819142
+1419308_at (Invs) is ranked: 2 with a ranking value of: 0.02560684424572446
+1448635_at (Smc2) is ranked: 3 with a ranking value of: 0.02519693891627961
+1450511_at (Musk) is ranked: 4 with a ranking value of: 0.023844217937937826
+1433663_s_at (Ncbp1) is ranked: 5 with a ranking value of: 0.023766976819568034
+1420551_at (Murc) is ranked: 6 with a ranking value of: 0.023405445831749225
+1424142_at (Ikbkap) is ranked: 7 with a ranking value of: 0.023347010010659797
+1425031_at (Fktn) is ranked: 8 with a ranking value of: 0.023192818708615864
+1451194_at (Aldob) is ranked: 9 with a ranking value of: 0.02300922975179793
+1426110_a_at (Lpar1) is ranked: 10 with a ranking value of: 0.022793533149544506
+1455134_at (Tmem245) is ranked: 11 with a ranking value of: 0.022726510608560492
+1421059_a_at (Alg2) is ranked: 12 with a ranking value of: 0.021921980533313415
+1456002_at (Xpa) is ranked: 13 with a ranking value of: 0.021254691664859205
+1420793_at (Mup4) is ranked: 14 with a ranking value of: 0.020986089597141044
+1417395_at (Klf4) is ranked: 15 with a ranking value of: 0.020118754714595094
+1430701_a_at (Msantd3) is ranked: 16 with a ranking value of: 0.019428113416332757
+1424083_at (Ptbp3) is ranked: 17 with a ranking value of: 0.019132099899746596
+1426716_at (Tdrd7) is ranked: 18 with a ranking value of: 0.018637769029248855
+1456664_x_at (Gm19579///Hnrnpf) is ranked: 19 with a ranking value of: 0.01808934513635093
+1423476_at (Slc46a2) is ranked: 20 with a ranking value of: 0.017656429065706615
+1418199_at (Hemgn) is ranked: 21 with a ranking value of: 0.01758918090766143
+1433645_at (Slc44a1) is ranked: 22 with a ranking value of: 0.017529754455419502
+1425287_at (Zfp189) is ranked: 23 with a ranking value of: 0.017272748327410326
+1419001_at (Baat) is ranked: 24 with a ranking value of: 0.01727057062034211
+1424678_at (Actl7b) is ranked: 25 with a ranking value of: 0.017179346128349437
+1424700_at (Tmem38b) is ranked: 26 with a ranking value of: 0.017080101495291544
+1455628_at (Epb4.1l4b) is ranked: 27 with a ranking value of: 0.017021705096408588
+1426856_at (Hsdl2) is ranked: 28 with a ranking value of: 0.016954082541749158
+1417083_at (Sec61b) is ranked: 29 with a ranking value of: 0.016884956873888825
+1424222_s_at (Rad23b) is ranked: 30 with a ranking value of: 0.016644226595462882
+1417773_at (Nans) is ranked: 31 with a ranking value of: 0.016501638370546502
+1439464_s_at (Tex10) is ranked: 32 with a ranking value of: 0.016499440916700584
+1419009_at (Actl7a) is ranked: 33 with a ranking value of: 0.016489232899545382
+1450649_at (Gng10) is ranked: 34 with a ranking value of: 0.016430870849624607
+1448967_at (Nipsnap3b) is ranked: 35 with a ranking value of: 0.016115297028665522
+1421269_at (Ugcg) is ranked: 36 with a ranking value of: 0.016105692430619926
+1417082_at (Anp32b) is ranked: 37 with a ranking value of: 0.01583638641938561
+1452361_at (Rnf20) is ranked: 38 with a ranking value of: 0.015535948352642895
+1452367_at (Coro2a) is ranked: 39 with a ranking value of: 0.015195860798945221
+1450392_at (Abca1) is ranked: 40 with a ranking value of: 0.014908919330851155
+1423246_at (Erp44) is ranked: 41 with a ranking value of: 0.014535280573927627
+1417777_at (Ptgr1) is ranked: 42 with a ranking value of: 0.014105750600021132
+1451266_at (Mrpl50) is ranked: 43 with a ranking value of: 0.013804619784264161
+1425150_at (Acnat2) is ranked: 44 with a ranking value of: 0.013303446067452639
+1450517_at (Tal2) is ranked: 45 with a ranking value of: 0.01293374984165909
+1421079_at (Nr4a3) is ranked: 46 with a ranking value of: 0.012666069658431247
+1426649_at (Tmeff1) is ranked: 47 with a ranking value of: 0.012650935886769483
+1448755_at (Col15a1) is ranked: 48 with a ranking value of: 0.011778246034176425
+1427924_at (Stx17) is ranked: 49 with a ranking value of: 0.01173304217127626
+1420893_a_at (Tgfbr1) is ranked: 50 with a ranking value of: 0.010810590925874775
+
+The roc score is:0.0
+
+
+
+Ranking and roc information for variable d = 0.39999999999999997
+
+1416119_at (Txn1) is ranked: 1 with a ranking value of: 0.02988519921275169
+1419308_at (Invs) is ranked: 2 with a ranking value of: 0.0253575498334606
+1448635_at (Smc2) is ranked: 3 with a ranking value of: 0.024839544668962064
+1433663_s_at (Ncbp1) is ranked: 4 with a ranking value of: 0.02382761416356331
+1450511_at (Musk) is ranked: 5 with a ranking value of: 0.023812176297509237
+1420551_at (Murc) is ranked: 6 with a ranking value of: 0.02299151162082222
+1424142_at (Ikbkap) is ranked: 7 with a ranking value of: 0.022843709577241654
+1425031_at (Fktn) is ranked: 8 with a ranking value of: 0.02275222936887549
+1451194_at (Aldob) is ranked: 9 with a ranking value of: 0.022710348051974902
+1426110_a_at (Lpar1) is ranked: 10 with a ranking value of: 0.022671752339786765
+1455134_at (Tmem245) is ranked: 11 with a ranking value of: 0.022271816146304284
+1421059_a_at (Alg2) is ranked: 12 with a ranking value of: 0.02199310313614373
+1456002_at (Xpa) is ranked: 13 with a ranking value of: 0.021156351523571947
+1420793_at (Mup4) is ranked: 14 with a ranking value of: 0.020277044298580855
+1417395_at (Klf4) is ranked: 15 with a ranking value of: 0.019484773851072792
+1430701_a_at (Msantd3) is ranked: 16 with a ranking value of: 0.018599343114557812
+1426716_at (Tdrd7) is ranked: 17 with a ranking value of: 0.01849074976481229
+1424083_at (Ptbp3) is ranked: 18 with a ranking value of: 0.018407163359017147
+1456664_x_at (Gm19579///Hnrnpf) is ranked: 19 with a ranking value of: 0.017104825846167855
+1423476_at (Slc46a2) is ranked: 20 with a ranking value of: 0.016617108005390884
+1418199_at (Hemgn) is ranked: 21 with a ranking value of: 0.016564596012050105
+1433645_at (Slc44a1) is ranked: 22 with a ranking value of: 0.016549102450626987
+1419001_at (Baat) is ranked: 23 with a ranking value of: 0.01631918202140456
+1425287_at (Zfp189) is ranked: 24 with a ranking value of: 0.016230017447210802
+1424678_at (Actl7b) is ranked: 25 with a ranking value of: 0.01615840964220192
+1424700_at (Tmem38b) is ranked: 26 with a ranking value of: 0.016143084192966003
+1455628_at (Epb4.1l4b) is ranked: 27 with a ranking value of: 0.016031160010759767
+1450649_at (Gng10) is ranked: 28 with a ranking value of: 0.015872481852380087
+1426856_at (Hsdl2) is ranked: 29 with a ranking value of: 0.015869508737522426
+1417083_at (Sec61b) is ranked: 30 with a ranking value of: 0.015863195963103056
+1417773_at (Nans) is ranked: 31 with a ranking value of: 0.015810104828660375
+1439464_s_at (Tex10) is ranked: 32 with a ranking value of: 0.0157998954043595
+1424222_s_at (Rad23b) is ranked: 33 with a ranking value of: 0.015720158434922235
+1421269_at (Ugcg) is ranked: 34 with a ranking value of: 0.015670602373379847
+1419009_at (Actl7a) is ranked: 35 with a ranking value of: 0.015571757467412153
+1452361_at (Rnf20) is ranked: 36 with a ranking value of: 0.015375924298764842
+1448967_at (Nipsnap3b) is ranked: 37 with a ranking value of: 0.015366098381509086
+1450392_at (Abca1) is ranked: 38 with a ranking value of: 0.015069784605302354
+1417082_at (Anp32b) is ranked: 39 with a ranking value of: 0.014974076999690453
+1452367_at (Coro2a) is ranked: 40 with a ranking value of: 0.014026948429795589
+1451266_at (Mrpl50) is ranked: 41 with a ranking value of: 0.01377148011798271
+1423246_at (Erp44) is ranked: 42 with a ranking value of: 0.013722028827188334
+1417777_at (Ptgr1) is ranked: 43 with a ranking value of: 0.013333193798357963
+1425150_at (Acnat2) is ranked: 44 with a ranking value of: 0.012552794634434261
+1450517_at (Tal2) is ranked: 45 with a ranking value of: 0.012130441362669237
+1426649_at (Tmeff1) is ranked: 46 with a ranking value of: 0.011990423152018238
+1421079_at (Nr4a3) is ranked: 47 with a ranking value of: 0.011910470477249843
+1427924_at (Stx17) is ranked: 48 with a ranking value of: 0.0113256271598608
+1448755_at (Col15a1) is ranked: 49 with a ranking value of: 0.011018777864291833
+1420893_a_at (Tgfbr1) is ranked: 50 with a ranking value of: 0.010506458736442294
+
+The roc score is:0.0
+
+
+
+Ranking and roc information for variable d = 0.44999999999999996
+
+1416119_at (Txn1) is ranked: 1 with a ranking value of: 0.0297848452536102
+1419308_at (Invs) is ranked: 2 with a ranking value of: 0.02491025872565052
+1448635_at (Smc2) is ranked: 3 with a ranking value of: 0.024294243178899548
+1433663_s_at (Ncbp1) is ranked: 4 with a ranking value of: 0.023673064518758447
+1450511_at (Musk) is ranked: 5 with a ranking value of: 0.023560008862941975
+1420551_at (Murc) is ranked: 6 with a ranking value of: 0.022413761763801936
+1426110_a_at (Lpar1) is ranked: 7 with a ranking value of: 0.022355640853358272
+1451194_at (Aldob) is ranked: 8 with a ranking value of: 0.02222607613410362
+1424142_at (Ikbkap) is ranked: 9 with a ranking value of: 0.02218412162824479
+1425031_at (Fktn) is ranked: 10 with a ranking value of: 0.02215266610003632
+1421059_a_at (Alg2) is ranked: 11 with a ranking value of: 0.021850521703059025
+1455134_at (Tmem245) is ranked: 12 with a ranking value of: 0.021675485550706423
+1456002_at (Xpa) is ranked: 13 with a ranking value of: 0.02086982708351121
+1420793_at (Mup4) is ranked: 14 with a ranking value of: 0.019464183887583544
+1417395_at (Klf4) is ranked: 15 with a ranking value of: 0.018733170451909656
+1426716_at (Tdrd7) is ranked: 16 with a ranking value of: 0.018189159304480534
+1430701_a_at (Msantd3) is ranked: 17 with a ranking value of: 0.017693671405703118
+1424083_at (Ptbp3) is ranked: 18 with a ranking value of: 0.0175910530338268
+1456664_x_at (Gm19579///Hnrnpf) is ranked: 19 with a ranking value of: 0.016060150985784453
+1423476_at (Slc46a2) is ranked: 20 with a ranking value of: 0.015530339913057158
+1433645_at (Slc44a1) is ranked: 21 with a ranking value of: 0.015514092606615387
+1418199_at (Hemgn) is ranked: 22 with a ranking value of: 0.01549248812517574
+1419001_at (Baat) is ranked: 23 with a ranking value of: 0.015312321870312642
+1450649_at (Gng10) is ranked: 24 with a ranking value of: 0.01522468960168451
+1424700_at (Tmem38b) is ranked: 25 with a ranking value of: 0.015150614437097462
+1425287_at (Zfp189) is ranked: 26 with a ranking value of: 0.015147527697911046
+1421269_at (Ugcg) is ranked: 27 with a ranking value of: 0.015142333065179939
+1424678_at (Actl7b) is ranked: 28 with a ranking value of: 0.015093934578511835
+1452361_at (Rnf20) is ranked: 29 with a ranking value of: 0.01507643048913766
+1450392_at (Abca1) is ranked: 30 with a ranking value of: 0.015075569079929296
+1417773_at (Nans) is ranked: 31 with a ranking value of: 0.015051787957884907
+1439464_s_at (Tex10) is ranked: 32 with a ranking value of: 0.015017502193590309
+1455628_at (Epb4.1l4b) is ranked: 33 with a ranking value of: 0.014994621653232513
+1417083_at (Sec61b) is ranked: 34 with a ranking value of: 0.014800679332831216
+1426856_at (Hsdl2) is ranked: 35 with a ranking value of: 0.0147539640096646
+1424222_s_at (Rad23b) is ranked: 36 with a ranking value of: 0.01474473032023839
+1419009_at (Actl7a) is ranked: 37 with a ranking value of: 0.014602968656823426
+1448967_at (Nipsnap3b) is ranked: 38 with a ranking value of: 0.014546792732905461
+1417082_at (Anp32b) is ranked: 39 with a ranking value of: 0.014059799698364383
+1451266_at (Mrpl50) is ranked: 40 with a ranking value of: 0.01362746000541934
+1423246_at (Erp44) is ranked: 41 with a ranking value of: 0.012863857611655026
+1452367_at (Coro2a) is ranked: 42 with a ranking value of: 0.012858036060645957
+1417777_at (Ptgr1) is ranked: 43 with a ranking value of: 0.01251471819458038
+1425150_at (Acnat2) is ranked: 44 with a ranking value of: 0.011762399212852877
+1450517_at (Tal2) is ranked: 45 with a ranking value of: 0.011299523594684583
+1426649_at (Tmeff1) is ranked: 46 with a ranking value of: 0.011282772104645357
+1421079_at (Nr4a3) is ranked: 47 with a ranking value of: 0.01112253949739191
+1427924_at (Stx17) is ranked: 48 with a ranking value of: 0.010845279823709551
+1448755_at (Col15a1) is ranked: 49 with a ranking value of: 0.010238135109263191
+1420893_a_at (Tgfbr1) is ranked: 50 with a ranking value of: 0.010124815704432511
+
+The roc score is:0.0
+
+
+
+Ranking and roc information for variable d = 0.49999999999999994
+
+1416119_at (Txn1) is ranked: 1 with a ranking value of: 0.029369554099571732
+1419308_at (Invs) is ranked: 2 with a ranking value of: 0.02424532672741789
+1448635_at (Smc2) is ranked: 3 with a ranking value of: 0.023544143250568646
+1433663_s_at (Ncbp1) is ranked: 4 with a ranking value of: 0.023281487521606005
+1450511_at (Musk) is ranked: 5 with a ranking value of: 0.023069729235493358
+1426110_a_at (Lpar1) is ranked: 6 with a ranking value of: 0.021827809363707856
+1420551_at (Murc) is ranked: 7 with a ranking value of: 0.021657077388906504
+1451194_at (Aldob) is ranked: 8 with a ranking value of: 0.02154261588718902
+1421059_a_at (Alg2) is ranked: 9 with a ranking value of: 0.021476418986775388
+1425031_at (Fktn) is ranked: 10 with a ranking value of: 0.021379757484040838
+1424142_at (Ikbkap) is ranked: 11 with a ranking value of: 0.021354869633296844
+1455134_at (Tmem245) is ranked: 12 with a ranking value of: 0.020921824499656846
+1456002_at (Xpa) is ranked: 13 with a ranking value of: 0.02037974699630582
+1420793_at (Mup4) is ranked: 14 with a ranking value of: 0.01853726272551568
+1417395_at (Klf4) is ranked: 15 with a ranking value of: 0.017856087262567984
+1426716_at (Tdrd7) is ranked: 16 with a ranking value of: 0.017719500245963256
+1430701_a_at (Msantd3) is ranked: 17 with a ranking value of: 0.01670380053120591
+1424083_at (Ptbp3) is ranked: 18 with a ranking value of: 0.01667634657655816
+1456664_x_at (Gm19579///Hnrnpf) is ranked: 19 with a ranking value of: 0.014953393464803386
+1450392_at (Abca1) is ranked: 20 with a ranking value of: 0.01491356721540275
+1452361_at (Rnf20) is ranked: 21 with a ranking value of: 0.014629680159525128
+1421269_at (Ugcg) is ranked: 22 with a ranking value of: 0.014511920769142515
+1450649_at (Gng10) is ranked: 23 with a ranking value of: 0.014481316946305958
+1433645_at (Slc44a1) is ranked: 24 with a ranking value of: 0.014422986624095696
+1423476_at (Slc46a2) is ranked: 25 with a ranking value of: 0.014394686293990676
+1418199_at (Hemgn) is ranked: 26 with a ranking value of: 0.0143710592912266
+1419001_at (Baat) is ranked: 27 with a ranking value of: 0.01424812420947825
+1417773_at (Nans) is ranked: 28 with a ranking value of: 0.014219949097520838
+1439464_s_at (Tex10) is ranked: 29 with a ranking value of: 0.014149253567007908
+1424700_at (Tmem38b) is ranked: 30 with a ranking value of: 0.01410084559416318
+1425287_at (Zfp189) is ranked: 31 with a ranking value of: 0.01402332804076616
+1424678_at (Actl7b) is ranked: 32 with a ranking value of: 0.013984271093600491
+1455628_at (Epb4.1l4b) is ranked: 33 with a ranking value of: 0.013910298859275715
+1424222_s_at (Rad23b) is ranked: 34 with a ranking value of: 0.01371592907372859
+1417083_at (Sec61b) is ranked: 35 with a ranking value of: 0.013696035263090713
+1448967_at (Nipsnap3b) is ranked: 36 with a ranking value of: 0.013654496453563224
+1426856_at (Hsdl2) is ranked: 37 with a ranking value of: 0.013606070225429624
+1419009_at (Actl7a) is ranked: 38 with a ranking value of: 0.01358105456498254
+1451266_at (Mrpl50) is ranked: 39 with a ranking value of: 0.013359761356656591
+1417082_at (Anp32b) is ranked: 40 with a ranking value of: 0.013091708514389937
+1423246_at (Erp44) is ranked: 41 with a ranking value of: 0.011959285515889487
+1452367_at (Coro2a) is ranked: 42 with a ranking value of: 0.011689123691496323
+1417777_at (Ptgr1) is ranked: 43 with a ranking value of: 0.01164876752656276
+1425150_at (Acnat2) is ranked: 44 with a ranking value of: 0.010930858968227899
+1426649_at (Tmeff1) is ranked: 45 with a ranking value of: 0.01052671481612306
+1450517_at (Tal2) is ranked: 46 with a ranking value of: 0.010439901911189433
+1421079_at (Nr4a3) is ranked: 47 with a ranking value of: 0.010301228412874642
+1427924_at (Stx17) is ranked: 48 with a ranking value of: 0.010289582910835256
+1420893_a_at (Tgfbr1) is ranked: 49 with a ranking value of: 0.009663047342653249
+1448755_at (Col15a1) is ranked: 50 with a ranking value of: 0.00943551402567148
+
+The roc score is:0.0
+
+
+
+Ranking and roc information for variable d = 0.5499999999999999
+
+1416119_at (Txn1) is ranked: 1 with a ranking value of: 0.028609770474700626
+1419308_at (Invs) is ranked: 2 with a ranking value of: 0.023341588196467856
+1433663_s_at (Ncbp1) is ranked: 3 with a ranking value of: 0.022629276971336574
+1448635_at (Smc2) is ranked: 4 with a ranking value of: 0.02257111694721354
+1450511_at (Musk) is ranked: 5 with a ranking value of: 0.0223220571182123
+1426110_a_at (Lpar1) is ranked: 6 with a ranking value of: 0.02106960940590364
+1421059_a_at (Alg2) is ranked: 7 with a ranking value of: 0.02085172312863516
+1420551_at (Murc) is ranked: 8 with a ranking value of: 0.02070526335273896
+1451194_at (Aldob) is ranked: 9 with a ranking value of: 0.020645337211407405
+1425031_at (Fktn) is ranked: 10 with a ranking value of: 0.020418029945945156
+1424142_at (Ikbkap) is ranked: 11 with a ranking value of: 0.020341658733150223
+1455134_at (Tmem245) is ranked: 12 with a ranking value of: 0.0199936780649584
+1456002_at (Xpa) is ranked: 13 with a ranking value of: 0.019669687255334516
+1420793_at (Mup4) is ranked: 14 with a ranking value of: 0.017485192988353427
+1426716_at (Tdrd7) is ranked: 15 with a ranking value of: 0.017067333897843668
+1417395_at (Klf4) is ranked: 16 with a ranking value of: 0.01684514889628383
+1424083_at (Ptbp3) is ranked: 17 with a ranking value of: 0.01565508166727555
+1430701_a_at (Msantd3) is ranked: 18 with a ranking value of: 0.015621776746458628
+1450392_at (Abca1) is ranked: 19 with a ranking value of: 0.014570146072499807
+1452361_at (Rnf20) is ranked: 20 with a ranking value of: 0.014027492133550533
+1456664_x_at (Gm19579///Hnrnpf) is ranked: 21 with a ranking value of: 0.013782563732990482
+1421269_at (Ugcg) is ranked: 22 with a ranking value of: 0.013769702627162726
+1450649_at (Gng10) is ranked: 23 with a ranking value of: 0.013635714175404354
+1417773_at (Nans) is ranked: 24 with a ranking value of: 0.01330740060696025
+1433645_at (Slc44a1) is ranked: 25 with a ranking value of: 0.01327398810037313
+1423476_at (Slc46a2) is ranked: 26 with a ranking value of: 0.01320866507740466
+1418199_at (Hemgn) is ranked: 27 with a ranking value of: 0.0131984475448857
+1439464_s_at (Tex10) is ranked: 28 with a ranking value of: 0.013192032821068247
+1419001_at (Baat) is ranked: 29 with a ranking value of: 0.013124667465738
+1424700_at (Tmem38b) is ranked: 30 with a ranking value of: 0.01299187121410748
+1451266_at (Mrpl50) is ranked: 31 with a ranking value of: 0.012954351604943262
+1425287_at (Zfp189) is ranked: 32 with a ranking value of: 0.012855391233757502
+1424678_at (Actl7b) is ranked: 33 with a ranking value of: 0.012827717465727886
+1455628_at (Epb4.1l4b) is ranked: 34 with a ranking value of: 0.012776341435936943
+1448967_at (Nipsnap3b) is ranked: 35 with a ranking value of: 0.012686217447499011
+1424222_s_at (Rad23b) is ranked: 36 with a ranking value of: 0.012631676269404276
+1417083_at (Sec61b) is ranked: 37 with a ranking value of: 0.0125478511899112
+1419009_at (Actl7a) is ranked: 38 with a ranking value of: 0.012504148499768383
+1426856_at (Hsdl2) is ranked: 39 with a ranking value of: 0.012424390788598205
+1417082_at (Anp32b) is ranked: 40 with a ranking value of: 0.0120678981103466
+1423246_at (Erp44) is ranked: 41 with a ranking value of: 0.011006784298136384
+1417777_at (Ptgr1) is ranked: 42 with a ranking value of: 0.010733738345287862
+1452367_at (Coro2a) is ranked: 43 with a ranking value of: 0.010520211322346693
+1425150_at (Acnat2) is ranked: 44 with a ranking value of: 0.010056715137681034
+1426649_at (Tmeff1) is ranked: 45 with a ranking value of: 0.00972095018601054
+1427924_at (Stx17) is ranked: 46 with a ranking value of: 0.009656044485226244
+1450517_at (Tal2) is ranked: 47 with a ranking value of: 0.009550449581343478
+1421079_at (Nr4a3) is ranked: 48 with a ranking value of: 0.009445460112614754
+1420893_a_at (Tgfbr1) is ranked: 49 with a ranking value of: 0.009118455614290748
+1448755_at (Col15a1) is ranked: 50 with a ranking value of: 0.008610079969172608
+
+The roc score is:0.0
+
+
+
+Ranking and roc information for variable d = 0.6
+
+1416119_at (Txn1) is ranked: 1 with a ranking value of: 0.027473603707392706
+1419308_at (Invs) is ranked: 2 with a ranking value of: 0.022176251487169153
+1433663_s_at (Ncbp1) is ranked: 3 with a ranking value of: 0.021690928734958443
+1448635_at (Smc2) is ranked: 4 with a ranking value of: 0.021355717643390594
+1450511_at (Musk) is ranked: 5 with a ranking value of: 0.021296332115921277
+1426110_a_at (Lpar1) is ranked: 6 with a ranking value of: 0.020061050758800325
+1421059_a_at (Alg2) is ranked: 7 with a ranking value of: 0.019956025398788328
+1420551_at (Murc) is ranked: 8 with a ranking value of: 0.019540981549033432
+1451194_at (Aldob) is ranked: 9 with a ranking value of: 0.01951873081790146
+1425031_at (Fktn) is ranked: 10 with a ranking value of: 0.019250830363900275
+1424142_at (Ikbkap) is ranked: 11 with a ranking value of: 0.019129220727519557
+1455134_at (Tmem245) is ranked: 12 with a ranking value of: 0.018872309571296014
+1456002_at (Xpa) is ranked: 13 with a ranking value of: 0.018722106906583193
+1420793_at (Mup4) is ranked: 14 with a ranking value of: 0.01629598220438323
+1426716_at (Tdrd7) is ranked: 15 with a ranking value of: 0.01621722114008171
+1417395_at (Klf4) is ranked: 16 with a ranking value of: 0.01569143047514517
+1424083_at (Ptbp3) is ranked: 17 with a ranking value of: 0.014518720847844623
+1430701_a_at (Msantd3) is ranked: 18 with a ranking value of: 0.01443893452171564
+1450392_at (Abca1) is ranked: 19 with a ranking value of: 0.014030683396630963
+1452361_at (Rnf20) is ranked: 20 with a ranking value of: 0.013261272769692517
+1421269_at (Ugcg) is ranked: 21 with a ranking value of: 0.012905266614663555
+1450649_at (Gng10) is ranked: 22 with a ranking value of: 0.012680722442468977
+1456664_x_at (Gm19579///Hnrnpf) is ranked: 23 with a ranking value of: 0.01254560780353947
+1451266_at (Mrpl50) is ranked: 24 with a ranking value of: 0.01239585722909986
+1417773_at (Nans) is ranked: 25 with a ranking value of: 0.012306479540499606
+1439464_s_at (Tex10) is ranked: 26 with a ranking value of: 0.012142610476443591
+1433645_at (Slc44a1) is ranked: 27 with a ranking value of: 0.012065240547468875
+1418199_at (Hemgn) is ranked: 28 with a ranking value of: 0.011972724824364504
+1423476_at (Slc46a2) is ranked: 29 with a ranking value of: 0.011970749260453231
+1419001_at (Baat) is ranked: 30 with a ranking value of: 0.011939972730958093
+1424700_at (Tmem38b) is ranked: 31 with a ranking value of: 0.011821723039612153
+1425287_at (Zfp189) is ranked: 32 with a ranking value of: 0.01164161117197282
+1448967_at (Nipsnap3b) is ranked: 33 with a ranking value of: 0.011638851362222046
+1424678_at (Actl7b) is ranked: 34 with a ranking value of: 0.011622518447413155
+1455628_at (Epb4.1l4b) is ranked: 35 with a ranking value of: 0.011590838181723436
+1424222_s_at (Rad23b) is ranked: 36 with a ranking value of: 0.01148982611825335
+1419009_at (Actl7a) is ranked: 37 with a ranking value of: 0.011370327318063563
+1417083_at (Sec61b) is ranked: 38 with a ranking value of: 0.011354672507458257
+1426856_at (Hsdl2) is ranked: 39 with a ranking value of: 0.011207428452795815
+1417082_at (Anp32b) is ranked: 40 with a ranking value of: 0.010986401958804647
+1423246_at (Erp44) is ranked: 41 with a ranking value of: 0.010004777311928306
+1417777_at (Ptgr1) is ranked: 42 with a ranking value of: 0.009767978515594827
+1452367_at (Coro2a) is ranked: 43 with a ranking value of: 0.009351298953197059
+1425150_at (Acnat2) is ranked: 44 with a ranking value of: 0.00913844888262668
+1427924_at (Stx17) is ranked: 45 with a ranking value of: 0.008942095551116929
+1426649_at (Tmeff1) is ranked: 46 with a ranking value of: 0.008864143089299833
+1450517_at (Tal2) is ranked: 47 with a ranking value of: 0.008630006873227226
+1421079_at (Nr4a3) is ranked: 48 with a ranking value of: 0.008554127937673567
+1420893_a_at (Tgfbr1) is ranked: 49 with a ranking value of: 0.008488256291978863
+1448755_at (Col15a1) is ranked: 50 with a ranking value of: 0.0077609662281970864
+
+The roc score is:0.0
+
+
+
+Ranking and roc information for variable d = 0.65
+
+1416119_at (Txn1) is ranked: 1 with a ranking value of: 0.025926656484951738
+1419308_at (Invs) is ranked: 2 with a ranking value of: 0.020724787637331217
+1433663_s_at (Ncbp1) is ranked: 3 with a ranking value of: 0.020438899204227562
+1450511_at (Musk) is ranked: 4 with a ranking value of: 0.019970422007400946
+1448635_at (Smc2) is ranked: 5 with a ranking value of: 0.019877092996946875
+1426110_a_at (Lpar1) is ranked: 6 with a ranking value of: 0.018780713665388863
+1421059_a_at (Alg2) is ranked: 7 with a ranking value of: 0.018767492793402517
+1451194_at (Aldob) is ranked: 8 with a ranking value of: 0.018146358462655967
+1420551_at (Murc) is ranked: 9 with a ranking value of: 0.018145680310822084
+1425031_at (Fktn) is ranked: 10 with a ranking value of: 0.017860243554616816
+1424142_at (Ikbkap) is ranked: 11 with a ranking value of: 0.017701255939166285
+1455134_at (Tmem245) is ranked: 12 with a ranking value of: 0.01753727022410748
+1456002_at (Xpa) is ranked: 13 with a ranking value of: 0.01751828001532463
+1426716_at (Tdrd7) is ranked: 14 with a ranking value of: 0.015152659752585272
+1420793_at (Mup4) is ranked: 15 with a ranking value of: 0.014956666569826613
+1417395_at (Klf4) is ranked: 16 with a ranking value of: 0.014385424396526675
+1450392_at (Abca1) is ranked: 17 with a ranking value of: 0.013279501765160523
+1424083_at (Ptbp3) is ranked: 18 with a ranking value of: 0.013258114211651337
+1430701_a_at (Msantd3) is ranked: 19 with a ranking value of: 0.013145836220444565
+1452361_at (Rnf20) is ranked: 20 with a ranking value of: 0.012321997112158391
+1421269_at (Ugcg) is ranked: 21 with a ranking value of: 0.011907398125110656
+1451266_at (Mrpl50) is ranked: 22 with a ranking value of: 0.01166744890192011
+1450649_at (Gng10) is ranked: 23 with a ranking value of: 0.011608634537942138
+1456664_x_at (Gm19579///Hnrnpf) is ranked: 24 with a ranking value of: 0.011240405214641423
+1417773_at (Nans) is ranked: 25 with a ranking value of: 0.01120901983523643
+1439464_s_at (Tex10) is ranked: 26 with a ranking value of: 0.010997640364574221
+1433645_at (Slc44a1) is ranked: 27 with a ranking value of: 0.010794825343310934
+1419001_at (Baat) is ranked: 28 with a ranking value of: 0.010692001988498054
+1418199_at (Hemgn) is ranked: 29 with a ranking value of: 0.010691894818966628
+1423476_at (Slc46a2) is ranked: 30 with a ranking value of: 0.010679365509752323
+1424700_at (Tmem38b) is ranked: 31 with a ranking value of: 0.010588368949308341
+1448967_at (Nipsnap3b) is ranked: 32 with a ranking value of: 0.01050917767504218
+1425287_at (Zfp189) is ranked: 33 with a ranking value of: 0.010379800143339854
+1424678_at (Actl7b) is ranked: 34 with a ranking value of: 0.010366863564665164
+1455628_at (Epb4.1l4b) is ranked: 35 with a ranking value of: 0.01035181484050625
+1424222_s_at (Rad23b) is ranked: 36 with a ranking value of: 0.010288163285194031
+1419009_at (Actl7a) is ranked: 37 with a ranking value of: 0.010177609712348532
+1417083_at (Sec61b) is ranked: 38 with a ranking value of: 0.010115001335141769
+1426856_at (Hsdl2) is ranked: 39 with a ranking value of: 0.009953623061717069
+1417082_at (Anp32b) is ranked: 40 with a ranking value of: 0.00984519043121229
+1423246_at (Erp44) is ranked: 41 with a ranking value of: 0.008951637877779684
+1417777_at (Ptgr1) is ranked: 42 with a ranking value of: 0.008749785668142888
+1452367_at (Coro2a) is ranked: 43 with a ranking value of: 0.008182386584047425
+1425150_at (Acnat2) is ranked: 44 with a ranking value of: 0.008174479070688896
+1427924_at (Stx17) is ranked: 45 with a ranking value of: 0.008145087601078451
+1426649_at (Tmeff1) is ranked: 46 with a ranking value of: 0.007954923501576242
+1420893_a_at (Tgfbr1) is ranked: 47 with a ranking value of: 0.007769576234091014
+1450517_at (Tal2) is ranked: 48 with a ranking value of: 0.007677380132611322
+1421079_at (Nr4a3) is ranked: 49 with a ranking value of: 0.007626094919799799
+1448755_at (Col15a1) is ranked: 50 with a ranking value of: 0.00688727281468719
+
+The roc score is:0.0
+
+
+
+Ranking and roc information for variable d = 0.7000000000000001
+
+1416119_at (Txn1) is ranked: 1 with a ranking value of: 0.023931841625169932
+1419308_at (Invs) is ranked: 2 with a ranking value of: 0.01896081187664353
+1433663_s_at (Ncbp1) is ranked: 3 with a ranking value of: 0.01884345365900105
+1450511_at (Musk) is ranked: 4 with a ranking value of: 0.018320625145774885
+1448635_at (Smc2) is ranked: 5 with a ranking value of: 0.01811289253715066
+1421059_a_at (Alg2) is ranked: 6 with a ranking value of: 0.017262775176835273
+1426110_a_at (Lpar1) is ranked: 7 with a ranking value of: 0.017205655578626702
+1451194_at (Aldob) is ranked: 8 with a ranking value of: 0.016510800478167012
+1420551_at (Murc) is ranked: 9 with a ranking value of: 0.016499519682984014
+1425031_at (Fktn) is ranked: 10 with a ranking value of: 0.016227004308950636
+1424142_at (Ikbkap) is ranked: 11 with a ranking value of: 0.01604037178155814
+1456002_at (Xpa) is ranked: 12 with a ranking value of: 0.016038223675113542
+1455134_at (Tmem245) is ranked: 13 with a ranking value of: 0.015966258852000946
+1426716_at (Tdrd7) is ranked: 14 with a ranking value of: 0.013856018005675576
+1420793_at (Mup4) is ranked: 15 with a ranking value of: 0.013453239773410754
+1417395_at (Klf4) is ranked: 16 with a ranking value of: 0.012917005112958794
+1450392_at (Abca1) is ranked: 17 with a ranking value of: 0.012299798554715864
+1424083_at (Ptbp3) is ranked: 18 with a ranking value of: 0.011863459822042545
+1430701_a_at (Msantd3) is ranked: 19 with a ranking value of: 0.011732206914698092
+1452361_at (Rnf20) is ranked: 20 with a ranking value of: 0.011200189210992206
+1421269_at (Ugcg) is ranked: 21 with a ranking value of: 0.01076402296825546
+1451266_at (Mrpl50) is ranked: 22 with a ranking value of: 0.010750717655371191
+1450649_at (Gng10) is ranked: 23 with a ranking value of: 0.010411152829732578
+1417773_at (Nans) is ranked: 24 with a ranking value of: 0.010006322930031165
+1456664_x_at (Gm19579///Hnrnpf) is ranked: 25 with a ranking value of: 0.009864766927465775
+1439464_s_at (Tex10) is ranked: 26 with a ranking value of: 0.009753655586537738
+1433645_at (Slc44a1) is ranked: 27 with a ranking value of: 0.009460759613791786
+1419001_at (Baat) is ranked: 28 with a ranking value of: 0.009378656283830288
+1418199_at (Hemgn) is ranked: 29 with a ranking value of: 0.00935389074917885
+1423476_at (Slc46a2) is ranked: 30 with a ranking value of: 0.009332892719080504
+1448967_at (Nipsnap3b) is ranked: 31 with a ranking value of: 0.009293855651641848
+1424700_at (Tmem38b) is ranked: 32 with a ranking value of: 0.009289710832793263
+1425287_at (Zfp189) is ranked: 33 with a ranking value of: 0.009067685997155014
+1424678_at (Actl7b) is ranked: 34 with a ranking value of: 0.009058885361422738
+1455628_at (Epb4.1l4b) is ranked: 35 with a ranking value of: 0.009057231987313322
+1424222_s_at (Rad23b) is ranked: 36 with a ranking value of: 0.009024400635517538
+1419009_at (Actl7a) is ranked: 37 with a ranking value of: 0.008923954443940448
+1417083_at (Sec61b) is ranked: 38 with a ranking value of: 0.008827295248685977
+1426856_at (Hsdl2) is ranked: 39 with a ranking value of: 0.008661349213973886
+1417082_at (Anp32b) is ranked: 40 with a ranking value of: 0.008642168827508203
+1423246_at (Erp44) is ranked: 41 with a ranking value of: 0.007845687599153455
+1417777_at (Ptgr1) is ranked: 42 with a ranking value of: 0.00767740560101653
+1427924_at (Stx17) is ranked: 43 with a ranking value of: 0.007262290085505486
+1425150_at (Acnat2) is ranked: 44 with a ranking value of: 0.007163159984662595
+1452367_at (Coro2a) is ranked: 45 with a ranking value of: 0.007013474214897792
+1426649_at (Tmeff1) is ranked: 46 with a ranking value of: 0.006991885601400772
+1420893_a_at (Tgfbr1) is ranked: 47 with a ranking value of: 0.00695945057569128
+1450517_at (Tal2) is ranked: 48 with a ranking value of: 0.006691340836580038
+1421079_at (Nr4a3) is ranked: 49 with a ranking value of: 0.00666019300079593
+1448755_at (Col15a1) is ranked: 50 with a ranking value of: 0.005988065210364284
+
+The roc score is:0.0
+
+
+
+Ranking and roc information for variable d = 0.7500000000000001
+
+1416119_at (Txn1) is ranked: 1 with a ranking value of: 0.02144918606066604
+1433663_s_at (Ncbp1) is ranked: 2 with a ranking value of: 0.016872503848877694
+1419308_at (Invs) is ranked: 3 with a ranking value of: 0.01685595751020938
+1450511_at (Musk) is ranked: 4 with a ranking value of: 0.016321566622184282
+1448635_at (Smc2) is ranked: 5 with a ranking value of: 0.01603916954807964
+1421059_a_at (Alg2) is ranked: 6 with a ranking value of: 0.015416906638190241
+1426110_a_at (Lpar1) is ranked: 7 with a ranking value of: 0.01531131210151334
+1451194_at (Aldob) is ranked: 8 with a ranking value of: 0.014593600459531057
+1420551_at (Murc) is ranked: 9 with a ranking value of: 0.014581292329627304
+1425031_at (Fktn) is ranked: 10 with a ranking value of: 0.014330403632169869
+1456002_at (Xpa) is ranked: 11 with a ranking value of: 0.014260621833576669
+1455134_at (Tmem245) is ranked: 12 with a ranking value of: 0.0141349710652641
+1424142_at (Ikbkap) is ranked: 13 with a ranking value of: 0.014128017848047202
+1426716_at (Tdrd7) is ranked: 14 with a ranking value of: 0.012308464294463431
+1420793_at (Mup4) is ranked: 15 with a ranking value of: 0.011770577044450696
+1417395_at (Klf4) is ranked: 16 with a ranking value of: 0.011275391806862543
+1450392_at (Abca1) is ranked: 17 with a ranking value of: 0.011073571471060003
+1424083_at (Ptbp3) is ranked: 18 with a ranking value of: 0.010324261725188806
+1430701_a_at (Msantd3) is ranked: 19 with a ranking value of: 0.010186863972903882
+1452361_at (Rnf20) is ranked: 20 with a ranking value of: 0.00988590157533657
+1451266_at (Mrpl50) is ranked: 21 with a ranking value of: 0.009625541411497168
+1421269_at (Ugcg) is ranked: 22 with a ranking value of: 0.009462146552670225
+1450649_at (Gng10) is ranked: 23 with a ranking value of: 0.009079344179014692
+1417773_at (Nans) is ranked: 24 with a ranking value of: 0.008689126729086886
+1456664_x_at (Gm19579///Hnrnpf) is ranked: 25 with a ranking value of: 0.00841643315860224
+1439464_s_at (Tex10) is ranked: 26 with a ranking value of: 0.008407064340260232
+1433645_at (Slc44a1) is ranked: 27 with a ranking value of: 0.008060994043420014
+1419001_at (Baat) is ranked: 28 with a ranking value of: 0.007997773837559494
+1448967_at (Nipsnap3b) is ranked: 29 with a ranking value of: 0.007989420172935493
+1418199_at (Hemgn) is ranked: 30 with a ranking value of: 0.007956573077226437
+1423476_at (Slc46a2) is ranked: 31 with a ranking value of: 0.007929660521890636
+1424700_at (Tmem38b) is ranked: 32 with a ranking value of: 0.007923582395247772
+1455628_at (Epb4.1l4b) is ranked: 33 with a ranking value of: 0.007704982843788281
+1425287_at (Zfp189) is ranked: 34 with a ranking value of: 0.007702909222773224
+1424678_at (Actl7b) is ranked: 35 with a ranking value of: 0.007696657587450452
+1424222_s_at (Rad23b) is ranked: 36 with a ranking value of: 0.007696176908567803
+1419009_at (Actl7a) is ranked: 37 with a ranking value of: 0.007607258521205166
+1417083_at (Sec61b) is ranked: 38 with a ranking value of: 0.007489965974108451
+1417082_at (Anp32b) is ranked: 39 with a ranking value of: 0.007375175344637608
+1426856_at (Hsdl2) is ranked: 40 with a ranking value of: 0.007328913850216449
+1423246_at (Erp44) is ranked: 41 with a ranking value of: 0.006685194620824844
+1417777_at (Ptgr1) is ranked: 42 with a ranking value of: 0.006549030629347907
+1427924_at (Stx17) is ranked: 43 with a ranking value of: 0.006290887800999156
+1425150_at (Acnat2) is ranked: 44 with a ranking value of: 0.006102778956271751
+1420893_a_at (Tgfbr1) is ranked: 45 with a ranking value of: 0.0060548198315023664
+1426649_at (Tmeff1) is ranked: 46 with a ranking value of: 0.005973586849306149
+1452367_at (Coro2a) is ranked: 47 with a ranking value of: 0.005844561845748159
+1450517_at (Tal2) is ranked: 48 with a ranking value of: 0.005670624621320709
+1421079_at (Nr4a3) is ranked: 49 with a ranking value of: 0.0056552222322217485
+1448755_at (Col15a1) is ranked: 50 with a ranking value of: 0.0050623730669683495
+
+The roc score is:0.0
+
+
+
+Ranking and roc information for variable d = 0.8000000000000002
+
+1416119_at (Txn1) is ranked: 1 with a ranking value of: 0.018435621179509757
+1433663_s_at (Ncbp1) is ranked: 2 with a ranking value of: 0.014491434059803781
+1419308_at (Invs) is ranked: 3 with a ranking value of: 0.014379741703559008
+1450511_at (Musk) is ranked: 4 with a ranking value of: 0.01394608780568869
+1448635_at (Smc2) is ranked: 5 with a ranking value of: 0.013630276907761925
+1421059_a_at (Alg2) is ranked: 6 with a ranking value of: 0.01320320071209007
+1426110_a_at (Lpar1) is ranked: 7 with a ranking value of: 0.013071391770564223
+1451194_at (Aldob) is ranked: 8 with a ranking value of: 0.012375206954134419
+1420551_at (Murc) is ranked: 9 with a ranking value of: 0.012368339827554437
+1456002_at (Xpa) is ranked: 10 with a ranking value of: 0.012162744696796629
+1425031_at (Fktn) is ranked: 11 with a ranking value of: 0.012148188822175165
+1455134_at (Tmem245) is ranked: 12 with a ranking value of: 0.012016937085047563
+1424142_at (Ikbkap) is ranked: 13 with a ranking value of: 0.011944417330624962
+1426716_at (Tdrd7) is ranked: 14 with a ranking value of: 0.010489892586679426
+1420793_at (Mup4) is ranked: 15 with a ranking value of: 0.009892354121577282
+1450392_at (Abca1) is ranked: 16 with a ranking value of: 0.009581539368616181
+1417395_at (Klf4) is ranked: 17 with a ranking value of: 0.009449108834542677
+1424083_at (Ptbp3) is ranked: 18 with a ranking value of: 0.008629285415217455
+1430701_a_at (Msantd3) is ranked: 19 with a ranking value of: 0.008497641029649934
+1452361_at (Rnf20) is ranked: 20 with a ranking value of: 0.008368693722272058
+1451266_at (Mrpl50) is ranked: 21 with a ranking value of: 0.008269941183271179
+1421269_at (Ugcg) is ranked: 22 with a ranking value of: 0.007987789008921206
+1450649_at (Gng10) is ranked: 23 with a ranking value of: 0.007603591626156571
+1417773_at (Nans) is ranked: 24 with a ranking value of: 0.0072475728190379346
+1439464_s_at (Tex10) is ranked: 25 with a ranking value of: 0.006954145611972997
+1456664_x_at (Gm19579///Hnrnpf) is ranked: 26 with a ranking value of: 0.0068930711449536304
+1433645_at (Slc44a1) is ranked: 27 with a ranking value of: 0.006593410612220396
+1448967_at (Nipsnap3b) is ranked: 28 with a ranking value of: 0.006592277426119384
+1419001_at (Baat) is ranked: 29 with a ranking value of: 0.006547128099031026
+1418199_at (Hemgn) is ranked: 30 with a ranking value of: 0.006497727145967439
+1424700_at (Tmem38b) is ranked: 31 with a ranking value of: 0.006487746889381161
+1423476_at (Slc46a2) is ranked: 32 with a ranking value of: 0.006467947757221094
+1424222_s_at (Rad23b) is ranked: 33 with a ranking value of: 0.006301054316335087
+1455628_at (Epb4.1l4b) is ranked: 34 with a ranking value of: 0.006292891021020542
+1425287_at (Zfp189) is ranked: 35 with a ranking value of: 0.006283019935747248
+1424678_at (Actl7b) is ranked: 36 with a ranking value of: 0.006278193327880234
+1419009_at (Actl7a) is ranked: 37 with a ranking value of: 0.006225355321018306
+1417083_at (Sec61b) is ranked: 38 with a ranking value of: 0.006101378043524611
+1417082_at (Anp32b) is ranked: 39 with a ranking value of: 0.006041978982094474
+1426856_at (Hsdl2) is ranked: 40 with a ranking value of: 0.005954553760105498
+1423246_at (Erp44) is ranked: 41 with a ranking value of: 0.005468371827705019
+1417777_at (Ptgr1) is ranked: 42 with a ranking value of: 0.005362797881280674
+1427924_at (Stx17) is ranked: 43 with a ranking value of: 0.005227978195067541
+1420893_a_at (Tgfbr1) is ranked: 44 with a ranking value of: 0.005052526908167103
+1425150_at (Acnat2) is ranked: 45 with a ranking value of: 0.0049915539224104745
+1426649_at (Tmeff1) is ranked: 46 with a ranking value of: 0.004898547042781445
+1452367_at (Coro2a) is ranked: 47 with a ranking value of: 0.004675649476598526
+1450517_at (Tal2) is ranked: 48 with a ranking value of: 0.004613930283371766
+1421079_at (Nr4a3) is ranked: 49 with a ranking value of: 0.0046099499549359995
+1448755_at (Col15a1) is ranked: 50 with a ranking value of: 0.004109188858859338
+
+The roc score is:0.0
+
+
+
+Ranking and roc information for variable d = 0.8500000000000002
+
+1416119_at (Txn1) is ranked: 1 with a ranking value of: 0.0148447586101374
+1433663_s_at (Ncbp1) is ranked: 2 with a ranking value of: 0.011662914884215465
+1419308_at (Invs) is ranked: 3 with a ranking value of: 0.011499422666883282
+1450511_at (Musk) is ranked: 4 with a ranking value of: 0.011165128848856311
+1448635_at (Smc2) is ranked: 5 with a ranking value of: 0.01085875652390441
+1421059_a_at (Alg2) is ranked: 6 with a ranking value of: 0.010593139092771417
+1426110_a_at (Lpar1) is ranked: 7 with a ranking value of: 0.010457764311086063
+1420551_at (Murc) is ranked: 8 with a ranking value of: 0.009836464083133347
+1451194_at (Aldob) is ranked: 9 with a ranking value of: 0.009834911996302117
+1456002_at (Xpa) is ranked: 10 with a ranking value of: 0.009720363460702909
+1425031_at (Fktn) is ranked: 11 with a ranking value of: 0.009656456996373072
+1455134_at (Tmem245) is ranked: 12 with a ranking value of: 0.009583347447802055
+1424142_at (Ikbkap) is ranked: 13 with a ranking value of: 0.009468494565901682
+1426716_at (Tdrd7) is ranked: 14 with a ranking value of: 0.008378843440327941
+1450392_at (Abca1) is ranked: 15 with a ranking value of: 0.007803058070333114
+1420793_at (Mup4) is ranked: 16 with a ranking value of: 0.007800960820781598
+1417395_at (Klf4) is ranked: 17 with a ranking value of: 0.007425943806377913
+1424083_at (Ptbp3) is ranked: 18 with a ranking value of: 0.006766510601156532
+1451266_at (Mrpl50) is ranked: 19 with a ranking value of: 0.006659926202047523
+1430701_a_at (Msantd3) is ranked: 20 with a ranking value of: 0.0066513059194744616
+1452361_at (Rnf20) is ranked: 21 with a ranking value of: 0.006637609782104079
+1421269_at (Ugcg) is ranked: 22 with a ranking value of: 0.006325915994648282
+1450649_at (Gng10) is ranked: 23 with a ranking value of: 0.005973542628275734
+1417773_at (Nans) is ranked: 24 with a ranking value of: 0.0056711718435321565
+1439464_s_at (Tex10) is ranked: 25 with a ranking value of: 0.005391044727694437
+1456664_x_at (Gm19579///Hnrnpf) is ranked: 26 with a ranking value of: 0.00529227283900839
+1448967_at (Nipsnap3b) is ranked: 27 with a ranking value of: 0.005098700455690678
+1433645_at (Slc44a1) is ranked: 28 with a ranking value of: 0.005055820256461783
+1419001_at (Baat) is ranked: 29 with a ranking value of: 0.005024425738660944
+1424700_at (Tmem38b) is ranked: 30 with a ranking value of: 0.004979894772357933
+1418199_at (Hemgn) is ranked: 31 with a ranking value of: 0.004975060743936508
+1423476_at (Slc46a2) is ranked: 32 with a ranking value of: 0.004945980887551783
+1424222_s_at (Rad23b) is ranked: 33 with a ranking value of: 0.004836516064567031
+1455628_at (Epb4.1l4b) is ranked: 34 with a ranking value of: 0.004818708187378744
+1425287_at (Zfp189) is ranked: 35 with a ranking value of: 0.004805474768624749
+1424678_at (Actl7b) is ranked: 36 with a ranking value of: 0.004801443072531971
+1419009_at (Actl7a) is ranked: 37 with a ranking value of: 0.004776012651697599
+1417083_at (Sec61b) is ranked: 38 with a ranking value of: 0.004659847411662851
+1417082_at (Anp32b) is ranked: 39 with a ranking value of: 0.004640277382555133
+1426856_at (Hsdl2) is ranked: 40 with a ranking value of: 0.004536433006641866
+1423246_at (Erp44) is ranked: 41 with a ranking value of: 0.00419337498212397
+1417777_at (Ptgr1) is ranked: 42 with a ranking value of: 0.0041167875385463544
+1427924_at (Stx17) is ranked: 43 with a ranking value of: 0.00407056858448444
+1420893_a_at (Tgfbr1) is ranked: 44 with a ranking value of: 0.003949314022996616
+1425150_at (Acnat2) is ranked: 45 with a ranking value of: 0.003827630901484048
+1426649_at (Tmeff1) is ranked: 46 with a ranking value of: 0.0037652473466033808
+1421079_at (Nr4a3) is ranked: 47 with a ranking value of: 0.003523109957964104
+1450517_at (Tal2) is ranked: 48 with a ranking value of: 0.0035199187536024083
+1452367_at (Coro2a) is ranked: 49 with a ranking value of: 0.003506737107448892
+1448755_at (Col15a1) is ranked: 50 with a ranking value of: 0.003127466486315948
+
+The roc score is:0.0
+
+
+
+Ranking and roc information for variable d = 0.9000000000000002
+
+1416119_at (Txn1) is ranked: 1 with a ranking value of: 0.010626650479539484
+1433663_s_at (Ncbp1) is ranked: 2 with a ranking value of: 0.008346703862119565
+1419308_at (Invs) is ranked: 3 with a ranking value of: 0.008179847705894795
+1450511_at (Musk) is ranked: 4 with a ranking value of: 0.007947603723638785
+1448635_at (Smc2) is ranked: 5 with a ranking value of: 0.007695221986272652
+1421059_a_at (Alg2) is ranked: 6 with a ranking value of: 0.007556253448677806
+1426110_a_at (Lpar1) is ranked: 7 with a ranking value of: 0.007440341970702824
+1420551_at (Murc) is ranked: 8 with a ranking value of: 0.006959833595201085
+1451194_at (Aldob) is ranked: 9 with a ranking value of: 0.006950786320048931
+1456002_at (Xpa) is ranked: 10 with a ranking value of: 0.006907660103755467
+1425031_at (Fktn) is ranked: 11 with a ranking value of: 0.006829541653972486
+1455134_at (Tmem245) is ranked: 12 with a ranking value of: 0.006802865736314048
+1424142_at (Ikbkap) is ranked: 13 with a ranking value of: 0.006677798494992795
+1426716_at (Tdrd7) is ranked: 14 with a ranking value of: 0.0059524203336235385
+1450392_at (Abca1) is ranked: 15 with a ranking value of: 0.005716030881212095
+1420793_at (Mup4) is ranked: 16 with a ranking value of: 0.0054774088618920296
+1417395_at (Klf4) is ranked: 17 with a ranking value of: 0.005192903162253851
+1451266_at (Mrpl50) is ranked: 18 with a ranking value of: 0.004769327177548931
+1424083_at (Ptbp3) is ranked: 19 with a ranking value of: 0.004723081116441499
+1452361_at (Rnf20) is ranked: 20 with a ranking value of: 0.004681155119351906
+1430701_a_at (Msantd3) is ranked: 21 with a ranking value of: 0.004633472127238357
+1421269_at (Ugcg) is ranked: 22 with a ranking value of: 0.004460364906829856
+1450649_at (Gng10) is ranked: 23 with a ranking value of: 0.004178053615737802
+1417773_at (Nans) is ranked: 24 with a ranking value of: 0.003948766934128132
+1439464_s_at (Tex10) is ranked: 25 with a ranking value of: 0.003713768760388862
+1456664_x_at (Gm19579///Hnrnpf) is ranked: 26 with a ranking value of: 0.003611552532358647
+1448967_at (Nipsnap3b) is ranked: 27 with a ranking value of: 0.0035048245700867262
+1433645_at (Slc44a1) is ranked: 28 with a ranking value of: 0.003445960450714886
+1419001_at (Baat) is ranked: 29 with a ranking value of: 0.003427304577062239
+1424700_at (Tmem38b) is ranked: 30 with a ranking value of: 0.0033976412852873574
+1418199_at (Hemgn) is ranked: 31 with a ranking value of: 0.003386201594282672
+1423476_at (Slc46a2) is ranked: 32 with a ranking value of: 0.003361932367105488
+1424222_s_at (Rad23b) is ranked: 33 with a ranking value of: 0.0032999637939248334
+1455628_at (Epb4.1l4b) is ranked: 34 with a ranking value of: 0.0032801116589038235
+1425287_at (Zfp189) is ranked: 35 with a ranking value of: 0.0032676336635290015
+1424678_at (Actl7b) is ranked: 36 with a ranking value of: 0.0032642927230871954
+1419009_at (Actl7a) is ranked: 37 with a ranking value of: 0.0032569307555732115
+1417082_at (Anp32b) is ranked: 38 with a ranking value of: 0.003167694605609567
+1417083_at (Sec61b) is ranked: 39 with a ranking value of: 0.003163640031943016
+1426856_at (Hsdl2) is ranked: 40 with a ranking value of: 0.003072640265284553
+1423246_at (Erp44) is ranked: 41 with a ranking value of: 0.0028583007975063867
+1427924_at (Stx17) is ranked: 42 with a ranking value of: 0.0028155732845636184
+1417777_at (Ptgr1) is ranked: 43 with a ranking value of: 0.00280902101986938
+1420893_a_at (Tgfbr1) is ranked: 44 with a ranking value of: 0.002741819526312191
+1425150_at (Acnat2) is ranked: 45 with a ranking value of: 0.00260908138739611
+1426649_at (Tmeff1) is ranked: 46 with a ranking value of: 0.0025721292978550343
+1421079_at (Nr4a3) is ranked: 47 with a ranking value of: 0.0023934016161665365
+1450517_at (Tal2) is ranked: 48 with a ranking value of: 0.0023872120431767704
+1452367_at (Coro2a) is ranked: 49 with a ranking value of: 0.002337824738299259
+1448755_at (Col15a1) is ranked: 50 with a ranking value of: 0.002116119827811561
+
+The roc score is:0.0
+
+
+
+Ranking and roc information for variable d = 0.9500000000000003
+
+1416119_at (Txn1) is ranked: 1 with a ranking value of: 0.005727533110959937
+1433663_s_at (Ncbp1) is ranked: 2 with a ranking value of: 0.0044994321060949196
+1419308_at (Invs) is ranked: 3 with a ranking value of: 0.004383291574602799
+1450511_at (Musk) is ranked: 4 with a ranking value of: 0.004260267325779956
+1448635_at (Smc2) is ranked: 5 with a ranking value of: 0.004108234033846883
+1421059_a_at (Alg2) is ranked: 6 with a ranking value of: 0.004059999921524327
+1426110_a_at (Lpar1) is ranked: 7 with a ranking value of: 0.003986953514355861
+1420551_at (Murc) is ranked: 8 with a ranking value of: 0.003710884271123896
+1451194_at (Aldob) is ranked: 9 with a ranking value of: 0.0036996110744455146
+1456002_at (Xpa) is ranked: 10 with a ranking value of: 0.0036971319602952762
+1455134_at (Tmem245) is ranked: 11 with a ranking value of: 0.003641427432016236
+1425031_at (Fktn) is ranked: 12 with a ranking value of: 0.003639891835105256
+1424142_at (Ikbkap) is ranked: 13 with a ranking value of: 0.003548421812447979
+1450392_at (Abca1) is ranked: 14 with a ranking value of: 0.0032968134704259955
+1426716_at (Tdrd7) is ranked: 15 with a ranking value of: 0.00318620103497817
+1420793_at (Mup4) is ranked: 16 with a ranking value of: 0.002901233591891433
+1417395_at (Klf4) is ranked: 17 with a ranking value of: 0.0027361650929263034
+1451266_at (Mrpl50) is ranked: 18 with a ranking value of: 0.0025696168422894286
+1452361_at (Rnf20) is ranked: 19 with a ranking value of: 0.0024872719270161723
+1424083_at (Ptbp3) is ranked: 20 with a ranking value of: 0.002485251802439702
+1430701_a_at (Msantd3) is ranked: 21 with a ranking value of: 0.002428503276243875
+1421269_at (Ugcg) is ranked: 22 with a ranking value of: 0.002373766209557131
+1450649_at (Gng10) is ranked: 23 with a ranking value of: 0.0022051306198393214
+1417773_at (Nans) is ranked: 24 with a ranking value of: 0.0020684950908953417
+1439464_s_at (Tex10) is ranked: 25 with a ranking value of: 0.0019181817883223255
+1456664_x_at (Gm19579///Hnrnpf) is ranked: 26 with a ranking value of: 0.0018483444052647142
+1448967_at (Nipsnap3b) is ranked: 27 with a ranking value of: 0.001806642599463944
+1433645_at (Slc44a1) is ranked: 28 with a ranking value of: 0.0017614927086621846
+1419001_at (Baat) is ranked: 29 with a ranking value of: 0.0017533314489816877
+1424700_at (Tmem38b) is ranked: 30 with a ranking value of: 0.0017385239527803855
+1418199_at (Hemgn) is ranked: 31 with a ranking value of: 0.001728694765277503
+1423476_at (Slc46a2) is ranked: 32 with a ranking value of: 0.001713918959048869
+1424222_s_at (Rad23b) is ranked: 33 with a ranking value of: 0.0016887149386341888
+1455628_at (Epb4.1l4b) is ranked: 34 with a ranking value of: 0.0016747019097398392
+1425287_at (Zfp189) is ranked: 35 with a ranking value of: 0.0016667565635643162
+1419009_at (Actl7a) is ranked: 36 with a ranking value of: 0.0016657402493054072
+1424678_at (Actl7b) is ranked: 37 with a ranking value of: 0.001664561536129185
+1417082_at (Anp32b) is ranked: 38 with a ranking value of: 0.0016217788325357742
+1417083_at (Sec61b) is ranked: 39 with a ranking value of: 0.0016109703909374952
+1426856_at (Hsdl2) is ranked: 40 with a ranking value of: 0.0015611860752117314
+1423246_at (Erp44) is ranked: 41 with a ranking value of: 0.0014611849463067425
+1427924_at (Stx17) is ranked: 42 with a ranking value of: 0.0014598106465199255
+1417777_at (Ptgr1) is ranked: 43 with a ranking value of: 0.0014374591053605162
+1420893_a_at (Tgfbr1) is ranked: 44 with a ranking value of: 0.001426574624399198
+1425150_at (Acnat2) is ranked: 45 with a ranking value of: 0.0013338996586553522
+1426649_at (Tmeff1) is ranked: 46 with a ranking value of: 0.0013175937849547784
+1421079_at (Nr4a3) is ranked: 47 with a ranking value of: 0.00121948900616882
+1450517_at (Tal2) is ranked: 48 with a ranking value of: 0.001214392160734706
+1452367_at (Coro2a) is ranked: 49 with a ranking value of: 0.0011689123691496256
+1448755_at (Col15a1) is ranked: 50 with a ranking value of: 0.0010740212394894722
+
+The roc score is:0.0
+
+
+
