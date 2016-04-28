@@ -40,3 +40,5 @@ Zc3h12a, 20
 Zfp36, 58
 Zfx, 43
 Average rank:42.625
+Top10 Count: 5
+Top20 Count: 8

@@ -220,6 +220,25 @@ def rankForAllD(rankedList, geneAndAllRankingsList, koGene, testCount):
 		i = i + 1
 	return geneAndAllRankingsList, testCount
 
+def createValidityScores(rankedList, koGene, validityTrueList, validityScoreList):
+	num = len(rankedList)
+	i = 0
+	while (i < num):
+		# for the knocked out gene, the predicted value should be 1, as
+		# it was knocked out, all other genes are given a predicted value
+		# of 0
+		if (rankedList[i][0] == koGene):
+			validityTrueList.append(1)
+		else:
+			validityTrueList.append(0)
+			
+		tempValue = (rankedList[i][1])
+		validityScoreList.append(tempValue)
+		
+		i = i + 1
+	
+	return validityTrueList, validityScoreList
+
 def writeHeaderToFile(outputFile):
 	with open(outputFile, "a") as this_file:
 		this_string = ["GeneName d=0 d=0.05 d=0.1 d=0.15 d=0.2 d=0.25 d=0.3 d=0.35 d=0.4 d=0.45 d=0.5 d=0.55 d=0.6 d=0.65 d=0.7 d=0.75 d=0.8 d=0.85 d=0.9 d=0.95 d=1 \n"]
@@ -244,8 +263,17 @@ def writeResultsToFile(geneAndAllRankingsList, outputFile, testCount, CountPerGe
 		this_file.close()
 		
 		return CountPerGene, fileCount	
+		
+def writeRocScore(validityTrueList, validityScoreList, outputFile):
+	y_true = np.array(validityTrueList) 
+	y_score = np.array(validityScoreList)
+	rocScore = roc_auc_score(y_true, y_score)
+	with open(outputFile, "a") as this_file:		
+		this_string = ["\n", str(rocScore), " "]
+		this_file.writelines(this_string)	
+	this_file.close()
 	
-def runRanking(connectionFilePath, expressionFilePath, koGene, graphFile, outputFile, d, geneAndAllRankingsList, testCount, CountPerGene, fileCount):
+def runRanking(connectionFilePath, expressionFilePath, koGene, graphFile, outputFile, d, geneAndAllRankingsList, testCount, CountPerGene, fileCount, validityTrueList, validityScoreList):
 	fullGeneList, gene1List, gene2List, connectionList = readConnectionFile(connectionFilePath);
 	G = makeGraph(fullGeneList);
 	G = connectGraph(G, gene1List, gene2List, connectionList, graphFile);
@@ -254,9 +282,10 @@ def runRanking(connectionFilePath, expressionFilePath, koGene, graphFile, output
 	rankingValueList = geneRank(fullGeneList, exprDataList, normExprDataList, G, d);
 	rankedList = sortByRanking(fullGeneList, rankingValueList);
 	geneAndAllRankingsList, testCount = rankForAllD(rankedList, geneAndAllRankingsList, koGene, testCount);
-	CountPerGene, fileCount = writeResultsToFile(geneAndAllRankingsList, outputFile, testCount, CountPerGene, fileCount);
+	#CountPerGene, fileCount = writeResultsToFile(geneAndAllRankingsList, outputFile, testCount, CountPerGene, fileCount);
+	validityTrueList, validityScoreList = createValidityScores(rankedList, koGene, validityTrueList, validityScoreList);
 	
-	return geneAndAllRankingsList, testCount, CountPerGene, fileCount
+	return geneAndAllRankingsList, testCount, CountPerGene, fileCount, validityTrueList, validityScoreList
 	
 def main(connectionFilePath, expressionFilePath, koGene, graphFile, outputFile, geneAndAllRankingsList, testCount, CountPerGene, fileCount):
 	#connectionFilePath = input('Give the full file path for the connection file: ')
@@ -274,7 +303,7 @@ def main(connectionFilePath, expressionFilePath, koGene, graphFile, outputFile, 
 	print (geneAndAllRankingsList)
 	return fileCount
 	
-writeHeaderToFile("PToPRankings.txt");	
+#writeHeaderToFile("PToPRankings.txt");	
 	
 fileCount = 0
 testCount = 0
@@ -289,11 +318,20 @@ endOfConnectionPath = "_100nn_stringNet.csv"
 endOfExprPath = "_100nn.tsv"
 graphPath = "_PToP_graph.xml"	
 	
-num = 40
 i = 0
-while (i < num):
-	geneAndAllRankingsList = []
-	testCount = 0
-	CountPerGene = 0
-	fileCount = main(geneConnectionPath + testGeneList[i] + endOfConnectionPath, geneExprPath + testGeneList[i] + endOfExprPath, testGeneList[i], testGeneList[i] + graphPath, "PToPRankings.txt", geneAndAllRankingsList, testCount, CountPerGene, fileCount);
-	i = i + 1
+num = 40
+j = 0.0
+while (j < 1.02):
+	validityTrueList = []
+	validityScoreList = []
+	while (i < num):
+		geneAndAllRankingsList, testCount, CountPerGene, fileCount, validityTrueList, validityScoreList = runRanking(geneConnectionPath + testGeneList[i] + endOfConnectionPath, geneExprPath + testGeneList[i] + endOfExprPath, testGeneList[i], testGeneList[i] + graphPath, "Rankings.txt", j, geneAndAllRankingsList, testCount, CountPerGene, fileCount, validityTrueList, validityScoreList);
+		fileCount = 0
+		geneAndAllRankingsList = []
+		testCount = 0
+		CountPerGene = 0
+		i = i + 1
+
+	writeRocScore(validityTrueList, validityScoreList, "Rankings.txt");	
+	i = 0
+	j = j + 0.05

@@ -34,7 +34,11 @@ def readFile(filePath, GOTermIndex):
 			# otherwise parse the data to fullGeneDataList
 			else:
 				fullGeneDataList.append(tempList[0]) # Gene ID
-				goList = (tempList[GOTermIndex].split("///")) #GO ID's
+				#goList = (tempList[GOTermIndex].split("///")) #GO ID's
+				tempGoList1 = (tempList[13].split("///")) #GO ID's
+				tempGoList2 = (tempList[14].split("///")) #GO ID's
+				tempGoList3 = (tempList[15].split("///")) #GO ID's
+				goList = tempGoList1 + tempGoList2 + tempGoList3 # merge the three GO ID lists into one list
 				fullGeneDataList.append(goList)
 				fullGeneDataList.append(abs(float(tempList[4])))
 				fullGeneDataList.append(tempList[6])
@@ -282,23 +286,23 @@ def rankForAllD(rankedList, geneAndAllRankingsList, koGene, testCount):
 		i = i + 1
 	return geneAndAllRankingsList, testCount
 
-def createValidityScores(fullGeneDataList, koGene, validityTrueList, validityScoreList):
-	num = len(fullGeneDataList)
+def createValidityScores(rankedList, koGene, validityTrueList, validityScoreList):
+	num = len(rankedList)
 	
 	i = 0
 	while (i < num):
 		# for the knocked out gene, the predicted value should be 1, as
 		# it was knocked out, all other genes are given a predicted value
 		# of 0
-		if (fullGeneDataList[i+3] == koGene):
+		if (rankedList[i][2] == koGene):
 			validityTrueList.append(1)
 		else:
 			validityTrueList.append(0)
 			
-		tempValue = (fullGeneDataList[i+2])
+		tempValue = (rankedList[i][1])
 		validityScoreList.append(tempValue)
 		
-		i = i + 4
+		i = i + 1
 	
 	return validityTrueList, validityScoreList
 		
@@ -334,7 +338,7 @@ def writeRocScore(validityTrueList, validityScoreList, outputFile):
 	y_score = np.array(validityScoreList)
 	rocScore = roc_auc_score(y_true, y_score)
 	with open(outputFile, "a") as this_file:		
-		this_string = [str(rocScore), " "]
+		this_string = ["\n", str(rocScore), " "]
 		this_file.writelines(this_string)	
 	this_file.close()
 		
@@ -351,11 +355,11 @@ def runRanking(filepath, GOTermIndex, koGene, graphFile, outputFile, d, geneAndA
 	rankedList = sortByRanking(geneIDList, rankingValueList, geneNameList);
 	geneAndAllRankingsList, testCount = rankForAllD(rankedList, geneAndAllRankingsList, koGene, testCount);
 	#CountPerGene, fileCount = writeResultsToFile(geneAndAllRankingsList, outputFile, testCount, CountPerGene, fileCount);
-	validityTrueList, validityScoreList = createValidityScores(fullGeneDataList, koGene, validityTrueList, validityScoreList);
+	validityTrueList, validityScoreList = createValidityScores(rankedList, koGene, validityTrueList, validityScoreList);
 	
 	return geneAndAllRankingsList, testCount, CountPerGene, fileCount, validityTrueList, validityScoreList
 
-writeHeaderToFile("Rankings.txt");
+#writeHeaderToFile("Rankings.txt");
 
 fileCount = 0
 geneAndAllRankingsList = []
@@ -367,19 +371,22 @@ genePath = "C:\ThirdYear\Dissertation\Python_Code\GR_V1.9\DataFiles\\"
 testGeneList = ["Abca1", "Btk", "Cav1", "Cav3", "Cftr", "Clcn1", "Cnr1", "Emd", "Epas1", "Esrra", "Gap43", "Gnmt", "Hdac1", "Hdac2", "Hsf4", "Hspa1a", "il6", "Lhx1", "Lhx8", "Lmna", "Mbnl1", "Mst1r", "Myd88", "Nos3", "Phgdh", "Pmp22", "Ppara", "Pthlh", "Rab3a", "Rasgrf1", "Rbm15", "Runx2", "Scd1", "Slc26a4", "Srf", "Tcf7", "Tgm2", "Zc3h12a", "Zfp36", "Zfx"]
 endOfPath = "_100nn.tsv"
 graphPath = ""
-GOTermIndex = 15
+GOTermIndex = 13
 
 i = 0
 num = 40
 j = 0.0
-while (i < num):
-	geneAndAllRankingsList, testCount, CountPerGene, fileCount, validityTrueList, validityScoreList = runRanking(genePath + testGeneList[i] + endOfPath, GOTermIndex, testGeneList[i], testGeneList[i] + graphPath, "Rankings.txt", 1.0, geneAndAllRankingsList, testCount, CountPerGene, fileCount, validityTrueList, validityScoreList);
+while (j < 1.02):
+	validityTrueList = []
+	validityScoreList = []
+	while (i < num):
+		geneAndAllRankingsList, testCount, CountPerGene, fileCount, validityTrueList, validityScoreList = runRanking(genePath + testGeneList[i] + endOfPath, GOTermIndex, testGeneList[i], testGeneList[i] + graphPath, "Rankings.txt", j, geneAndAllRankingsList, testCount, CountPerGene, fileCount, validityTrueList, validityScoreList);
+		fileCount = 0
+		geneAndAllRankingsList = []
+		testCount = 0
+		CountPerGene = 0
+		i = i + 1
 
-	fileCount = 0
-	geneAndAllRankingsList = []
-	testCount = 0
-	CountPerGene = 0
-	j = 0.0
-	i = i + 1
-	
-writeRocScore(validityTrueList, validityScoreList, "Rankings.txt");
+	writeRocScore(validityTrueList, validityScoreList, "Rankings.txt");	
+	i = 0
+	j = j + 0.05

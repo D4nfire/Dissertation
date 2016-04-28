@@ -3,9 +3,11 @@ def readFile(filePath):
 	temp_list = []
 	rankingDataList = []
 	topTenCountList = []
+	topTwentyCountList = []
 	count = 0
 	temp_sum_value = 0
 	temp_top_ten_count = 0
+	temp_top_twenty_count = 0
 	
 	with open(filePath) as infile:
 		next(infile)
@@ -20,6 +22,7 @@ def readFile(filePath):
 				while (i < 22):
 					rankingDataList.append(temp_list[i])
 					topTenCountList.append(0)
+					topTwentyCountList.append(0)
 					i = i + 1
 				count =  count + 1
 			else:
@@ -30,6 +33,10 @@ def readFile(filePath):
 					if (float(temp_list[i+1]) <= 10):
 						temp_top_ten_count = topTenCountList[i] + 1
 						topTenCountList[i] = temp_top_ten_count
+						
+					if (float(temp_list[i+1]) <= 20):
+						temp_top_twenty_count = topTwentyCountList[i] + 1
+						topTwentyCountList[i] = temp_top_twenty_count
 					i = i + 1
 					
 	print (rankingDataList)
@@ -37,13 +44,13 @@ def readFile(filePath):
 	num = len(rankingDataList)
 	i = 0
 	while (i < num):
-		temp_avg_value = float(rankingDataList[i]) / 38
+		temp_avg_value = float(rankingDataList[i]) / 38 # 38 for p-p, 40 for others
 		rankingDataList[i] = temp_avg_value
 		i = i + 1
 		
-	return rankingDataList, topTenCountList
+	return rankingDataList, topTenCountList, topTwentyCountList
 	
-def writeToFile(outputFile, rankingDataList, topTenCountList):
+def writeToFile(outputFile, rankingDataList, topTenCountList, topTwentyCountList):
 	with open(outputFile, "a") as this_file:
 		num = len(rankingDataList)
 		
@@ -63,6 +70,14 @@ def writeToFile(outputFile, rankingDataList, topTenCountList):
 			this_file.writelines(this_string)
 			i = i + 1
 		
+		this_file.writelines("\ntop20 count: ")
+		
+		i = 0
+		while (i < num):
+			this_string = [str(topTwentyCountList[i]), " "]
+			this_file.writelines(this_string)
+			i = i + 1
+		
 		this_file.close()
 
 rankingDataList = []
@@ -72,5 +87,5 @@ outputFile = ""
 filepath = input('Give the full file path: ')
 outputFile = input('What do you want to call the output file? ')	
 
-rankingDataList, topTenCountList = readFile(filepath);
-writeToFile(outputFile, rankingDataList, topTenCountList);
+rankingDataList, topTenCountList, topTwentyCountList = readFile(filepath);
+writeToFile(outputFile, rankingDataList, topTenCountList, topTwentyCountList);
