@@ -1,0 +1,179 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <graph edgedefault="undirected">
+    <node id="Zfp746" />
+    <node id="Zyx" />
+    <node id="Ndufb2" />
+    <node id="Prss37" />
+    <node id="Agk" />
+    <node id="Zfp398" />
+    <node id="Try5///Try4" />
+    <node id="Luc7l2" />
+    <node id="Gstk1" />
+    <node id="Trim24" />
+    <node id="Epha1" />
+    <node id="Tpk1" />
+    <node id="Zfp212" />
+    <node id="Gm2663///1810009J06Rik" />
+    <node id="2210010C04Rik" />
+    <node id="Ezh2" />
+    <node id="1700074P13Rik" />
+    <node id="Trpv6" />
+    <node id="Prss3" />
+    <node id="Zfp777" />
+    <node id="Moxd2" />
+    <node id="Ssbp1" />
+    <node id="Mkrn1" />
+    <node id="Clec5a" />
+    <node id="Zfp467" />
+    <node id="Nobox" />
+    <node id="Zfp282" />
+    <node id="Slc37a3" />
+    <node id="Arhgef5" />
+    <node id="Casp2" />
+    <node id="Cul1" />
+    <node id="Kel" />
+    <node id="Creb3l2" />
+    <node id="Ptn" />
+    <node id="Sva" />
+    <node id="Pdia4" />
+    <node id="Mrps33" />
+    <node id="Braf" />
+    <node id="Cntnap2" />
+    <node id="Krba1" />
+    <node id="Clcn1" />
+    <node id="Ephb6" />
+    <node id="Kdm7a" />
+    <node id="1110001J03Rik" />
+    <node id="Tbxas1" />
+    <node id="Gm10334///Gm5771///Prss1///Prss3" />
+    <node id="Hipk2" />
+    <node id="Prss58" />
+    <node id="Prss2" />
+    <edge source="Zfp746" target="Ezh2" />
+    <edge source="Zfp746" target="Kdm7a" />
+    <edge source="Zfp746" target="Casp2" />
+    <edge source="Zfp746" target="Trpv6" />
+    <edge source="Zfp746" target="Nobox" />
+    <edge source="Zyx" target="Ezh2" />
+    <edge source="Zyx" target="Ephb6" />
+    <edge source="Zyx" target="Epha1" />
+    <edge source="Zyx" target="Tpk1" />
+    <edge source="Zyx" target="Clcn1" />
+    <edge source="Zyx" target="Trpv6" />
+    <edge source="Ndufb2" target="Mrps33" />
+    <edge source="Ndufb2" target="1110001J03Rik" />
+    <edge source="Ndufb2" target="Ssbp1" />
+    <edge source="Prss37" target="1700074P13Rik" />
+    <edge source="Prss37" target="Sva" />
+    <edge source="Agk" target="Ezh2" />
+    <edge source="Zfp398" target="Ezh2" />
+    <edge source="Zfp398" target="Ephb6" />
+    <edge source="Zfp398" target="Kdm7a" />
+    <edge source="Zfp398" target="Casp2" />
+    <edge source="Zfp398" target="Trpv6" />
+    <edge source="Zfp398" target="Nobox" />
+    <edge source="Zfp398" target="Epha1" />
+    <edge source="Try5///Try4" target="Ezh2" />
+    <edge source="Try5///Try4" target="Prss2" />
+    <edge source="Try5///Try4" target="2210010C04Rik" />
+    <edge source="Try5///Try4" target="Prss3" />
+    <edge source="Try5///Try4" target="Cul1" />
+    <edge source="Luc7l2" target="Pdia4" />
+    <edge source="Luc7l2" target="Hipk2" />
+    <edge source="Luc7l2" target="Braf" />
+    <edge source="Gstk1" target="1110001J03Rik" />
+    <edge source="Trim24" target="Ezh2" />
+    <edge source="Trim24" target="Arhgef5" />
+    <edge source="Trim24" target="Kdm7a" />
+    <edge source="Epha1" target="Zfp282" />
+    <edge source="Epha1" target="Pdia4" />
+    <edge source="Epha1" target="Tpk1" />
+    <edge source="Epha1" target="Zfp467" />
+    <edge source="Epha1" target="Clcn1" />
+    <edge source="Epha1" target="Ezh2" />
+    <edge source="Epha1" target="Ephb6" />
+    <edge source="Epha1" target="Ptn" />
+    <edge source="Epha1" target="Arhgef5" />
+    <edge source="Epha1" target="Casp2" />
+    <edge source="Epha1" target="Braf" />
+    <edge source="Epha1" target="Hipk2" />
+    <edge source="Epha1" target="Zfp777" />
+    <edge source="Epha1" target="Trpv6" />
+    <edge source="Tpk1" target="Ephb6" />
+    <edge source="Tpk1" target="Clcn1" />
+    <edge source="Zfp212" target="Ezh2" />
+    <edge source="Zfp212" target="Kdm7a" />
+    <edge source="Zfp212" target="Casp2" />
+    <edge source="Zfp212" target="Trpv6" />
+    <edge source="Zfp212" target="Nobox" />
+    <edge source="Gm2663///1810009J06Rik" target="Cul1" />
+    <edge source="2210010C04Rik" target="Ezh2" />
+    <edge source="2210010C04Rik" target="1700074P13Rik" />
+    <edge source="2210010C04Rik" target="Cul1" />
+    <edge source="2210010C04Rik" target="Prss3" />
+    <edge source="2210010C04Rik" target="Prss2" />
+    <edge source="Ezh2" target="Zfp467" />
+    <edge source="Ezh2" target="Nobox" />
+    <edge source="Ezh2" target="Zfp282" />
+    <edge source="Ezh2" target="Arhgef5" />
+    <edge source="Ezh2" target="Casp2" />
+    <edge source="Ezh2" target="Gm10334///Gm5771///Prss1///Prss3" />
+    <edge source="Ezh2" target="Prss2" />
+    <edge source="Ezh2" target="Ephb6" />
+    <edge source="Ezh2" target="Zfp777" />
+    <edge source="Ezh2" target="Ptn" />
+    <edge source="Ezh2" target="Trpv6" />
+    <edge source="Ezh2" target="Prss3" />
+    <edge source="Ezh2" target="Hipk2" />
+    <edge source="Ezh2" target="Ssbp1" />
+    <edge source="Ezh2" target="Braf" />
+    <edge source="1700074P13Rik" target="Sva" />
+    <edge source="Trpv6" target="Zfp467" />
+    <edge source="Trpv6" target="Ephb6" />
+    <edge source="Trpv6" target="Zfp282" />
+    <edge source="Trpv6" target="Arhgef5" />
+    <edge source="Trpv6" target="Casp2" />
+    <edge source="Trpv6" target="Braf" />
+    <edge source="Trpv6" target="Zfp777" />
+    <edge source="Prss3" target="Cul1" />
+    <edge source="Prss3" target="Prss2" />
+    <edge source="Prss3" target="Ptn" />
+    <edge source="Zfp777" target="Zfp282" />
+    <edge source="Zfp777" target="Kdm7a" />
+    <edge source="Zfp777" target="Casp2" />
+    <edge source="Zfp777" target="Ephb6" />
+    <edge source="Zfp777" target="Nobox" />
+    <edge source="Moxd2" target="Ephb6" />
+    <edge source="Ssbp1" target="Mrps33" />
+    <edge source="Mkrn1" target="Braf" />
+    <edge source="Clec5a" target="Cntnap2" />
+    <edge source="Zfp467" target="Ephb6" />
+    <edge source="Zfp467" target="Krba1" />
+    <edge source="Zfp467" target="Kdm7a" />
+    <edge source="Zfp467" target="Casp2" />
+    <edge source="Zfp467" target="Creb3l2" />
+    <edge source="Zfp467" target="Prss58" />
+    <edge source="Zfp467" target="Nobox" />
+    <edge source="Nobox" target="Zfp282" />
+    <edge source="Nobox" target="Casp2" />
+    <edge source="Nobox" target="Arhgef5" />
+    <edge source="Zfp282" target="Ephb6" />
+    <edge source="Zfp282" target="Casp2" />
+    <edge source="Zfp282" target="Kdm7a" />
+    <edge source="Slc37a3" target="Kdm7a" />
+    <edge source="Arhgef5" target="Ephb6" />
+    <edge source="Casp2" target="Ephb6" />
+    <edge source="Casp2" target="Hipk2" />
+    <edge source="Cul1" target="Gm10334///Gm5771///Prss1///Prss3" />
+    <edge source="Cul1" target="Prss2" />
+    <edge source="Kel" target="Ephb6" />
+    <edge source="Ptn" target="Hipk2" />
+    <edge source="Ptn" target="Braf" />
+    <edge source="Pdia4" target="Ephb6" />
+    <edge source="Mrps33" target="1110001J03Rik" />
+    <edge source="Mrps33" target="Tbxas1" />
+    <edge source="Braf" target="Kdm7a" />
+    <edge source="Prss58" target="Prss2" />
+  </graph>
+</graphml>

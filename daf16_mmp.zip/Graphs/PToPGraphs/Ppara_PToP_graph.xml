@@ -1,0 +1,89 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <graph edgedefault="undirected">
+    <node id="Trabd" />
+    <node id="Fbln1" />
+    <node id="Brd1" />
+    <node id="Fam19a5" />
+    <node id="Tcf20" />
+    <node id="Celsr1" />
+    <node id="Gm10923///Gm3940///Gm10335///Gm8290///Rpl23a" />
+    <node id="Cerk" />
+    <node id="Pacsin2///Kcnb1" />
+    <node id="Ttll1" />
+    <node id="Nup50" />
+    <node id="Ppara" />
+    <node id="Tspo" />
+    <node id="Alg12" />
+    <node id="Cyp2d26" />
+    <node id="Mlc1" />
+    <node id="Cyp2d9" />
+    <node id="Mov10l1" />
+    <node id="Mapk11" />
+    <node id="Cyp2d34" />
+    <node id="Gm5806///Tdg" />
+    <node id="Pnpla3" />
+    <node id="Arfgap3" />
+    <node id="Poldip3" />
+    <node id="Parvg" />
+    <node id="Ribc2" />
+    <node id="Pim3" />
+    <node id="Prr5" />
+    <node id="Creld2" />
+    <node id="Arhgap8" />
+    <node id="Cyp2d10" />
+    <node id="Smc1b" />
+    <node id="Mcat" />
+    <node id="Wnt7b" />
+    <node id="Mapk12" />
+    <node id="Smdt1" />
+    <node id="Scube1" />
+    <node id="Samm50" />
+    <node id="Parvb" />
+    <node id="Cyp2d22" />
+    <node id="Ndufa6" />
+    <edge source="Trabd" target="Creld2" />
+    <edge source="Fbln1" target="Mlc1" />
+    <edge source="Brd1" target="Smc1b" />
+    <edge source="Brd1" target="Mapk12" />
+    <edge source="Fam19a5" target="Parvg" />
+    <edge source="Tcf20" target="Cyp2d10" />
+    <edge source="Tcf20" target="Ndufa6" />
+    <edge source="Celsr1" target="Wnt7b" />
+    <edge source="Gm10923///Gm3940///Gm10335///Gm8290///Rpl23a" target="Mcat" />
+    <edge source="Cerk" target="Alg12" />
+    <edge source="Pacsin2///Kcnb1" target="Arfgap3" />
+    <edge source="Pacsin2///Kcnb1" target="Alg12" />
+    <edge source="Pacsin2///Kcnb1" target="Ttll1" />
+    <edge source="Ttll1" target="Arfgap3" />
+    <edge source="Nup50" target="Gm5806///Tdg" />
+    <edge source="Nup50" target="Mapk12" />
+    <edge source="Ppara" target="Pnpla3" />
+    <edge source="Tspo" target="Mapk11" />
+    <edge source="Tspo" target="Pim3" />
+    <edge source="Tspo" target="Mapk12" />
+    <edge source="Alg12" target="Creld2" />
+    <edge source="Alg12" target="Pim3" />
+    <edge source="Alg12" target="Arfgap3" />
+    <edge source="Cyp2d26" target="Cyp2d10" />
+    <edge source="Cyp2d9" target="Cyp2d10" />
+    <edge source="Cyp2d9" target="Mcat" />
+    <edge source="Cyp2d9" target="Cyp2d34" />
+    <edge source="Mov10l1" target="Poldip3" />
+    <edge source="Mov10l1" target="Smc1b" />
+    <edge source="Mapk11" target="Pim3" />
+    <edge source="Mapk11" target="Mapk12" />
+    <edge source="Pnpla3" target="Samm50" />
+    <edge source="Arfgap3" target="Creld2" />
+    <edge source="Poldip3" target="Ribc2" />
+    <edge source="Ribc2" target="Smc1b" />
+    <edge source="Pim3" target="Mapk12" />
+    <edge source="Prr5" target="Arhgap8" />
+    <edge source="Cyp2d10" target="Cyp2d22" />
+    <edge source="Smc1b" target="Mcat" />
+    <edge source="Wnt7b" target="Mapk12" />
+    <edge source="Smdt1" target="Ndufa6" />
+    <edge source="Scube1" target="Parvb" />
+    <edge source="Samm50" target="Parvb" />
+  </graph>
+</graphml>

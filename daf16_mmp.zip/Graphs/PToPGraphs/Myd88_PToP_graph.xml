@@ -1,0 +1,122 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <graph edgedefault="undirected">
+    <node id="Osbpl10" />
+    <node id="Myd88" />
+    <node id="Cck" />
+    <node id="Zfp651" />
+    <node id="Hhatl" />
+    <node id="Slc6a20b" />
+    <node id="Acaa1a" />
+    <node id="Ctdspl" />
+    <node id="Azi2" />
+    <node id="Trak1" />
+    <node id="Scn10a" />
+    <node id="Gorasp1" />
+    <node id="Eomes" />
+    <node id="Zfp445" />
+    <node id="Golga4" />
+    <node id="Acvr2b" />
+    <node id="Oxsr1" />
+    <node id="Slc6a20a" />
+    <node id="Vill" />
+    <node id="Scn5a" />
+    <node id="Eif1b" />
+    <node id="Rpl14" />
+    <node id="Snrk" />
+    <node id="Wdr48" />
+    <node id="Ccr9" />
+    <node id="Vipr1" />
+    <node id="Scn11a" />
+    <node id="Nktr" />
+    <node id="Rpsa" />
+    <node id="Ano10" />
+    <node id="Ctnnb1" />
+    <node id="Zfp105" />
+    <node id="Stt3b" />
+    <node id="Lztfl1" />
+    <node id="Cdcp1" />
+    <node id="Sacm1l" />
+    <node id="Limd1" />
+    <node id="Plcd1" />
+    <node id="Xylb" />
+    <node id="Acaa1b///Acaa1a" />
+    <node id="Itga9" />
+    <node id="Slc22a13" />
+    <node id="Abhd5" />
+    <edge source="Osbpl10" target="Sacm1l" />
+    <edge source="Osbpl10" target="Gorasp1" />
+    <edge source="Osbpl10" target="Ano10" />
+    <edge source="Osbpl10" target="Xylb" />
+    <edge source="Osbpl10" target="Abhd5" />
+    <edge source="Osbpl10" target="Scn5a" />
+    <edge source="Osbpl10" target="Itga9" />
+    <edge source="Myd88" target="Cck" />
+    <edge source="Myd88" target="Zfp651" />
+    <edge source="Myd88" target="Hhatl" />
+    <edge source="Myd88" target="Zfp445" />
+    <edge source="Myd88" target="Oxsr1" />
+    <edge source="Myd88" target="Zfp105" />
+    <edge source="Cck" target="Zfp651" />
+    <edge source="Cck" target="Hhatl" />
+    <edge source="Cck" target="Zfp445" />
+    <edge source="Cck" target="Cdcp1" />
+    <edge source="Cck" target="Zfp105" />
+    <edge source="Zfp651" target="Plcd1" />
+    <edge source="Hhatl" target="Nktr" />
+    <edge source="Hhatl" target="Azi2" />
+    <edge source="Slc6a20b" target="Lztfl1" />
+    <edge source="Slc6a20b" target="Ccr9" />
+    <edge source="Slc6a20b" target="Sacm1l" />
+    <edge source="Slc6a20b" target="Limd1" />
+    <edge source="Acaa1a" target="Xylb" />
+    <edge source="Ctdspl" target="Limd1" />
+    <edge source="Ctdspl" target="Plcd1" />
+    <edge source="Ctdspl" target="Acaa1b///Acaa1a" />
+    <edge source="Ctdspl" target="Slc22a13" />
+    <edge source="Ctdspl" target="Vill" />
+    <edge source="Ctdspl" target="Itga9" />
+    <edge source="Azi2" target="Nktr" />
+    <edge source="Azi2" target="Eif1b" />
+    <edge source="Trak1" target="Snrk" />
+    <edge source="Trak1" target="Ctnnb1" />
+    <edge source="Scn10a" target="Plcd1" />
+    <edge source="Scn10a" target="Scn5a" />
+    <edge source="Scn10a" target="Scn11a" />
+    <edge source="Gorasp1" target="Xylb" />
+    <edge source="Gorasp1" target="Sacm1l" />
+    <edge source="Eomes" target="Acvr2b" />
+    <edge source="Zfp445" target="Nktr" />
+    <edge source="Zfp445" target="Golga4" />
+    <edge source="Zfp445" target="Sacm1l" />
+    <edge source="Golga4" target="Nktr" />
+    <edge source="Acvr2b" target="Scn5a" />
+    <edge source="Oxsr1" target="Xylb" />
+    <edge source="Oxsr1" target="Slc22a13" />
+    <edge source="Slc6a20a" target="Lztfl1" />
+    <edge source="Vill" target="Itga9" />
+    <edge source="Scn5a" target="Xylb" />
+    <edge source="Scn5a" target="Scn11a" />
+    <edge source="Eif1b" target="Rpl14" />
+    <edge source="Eif1b" target="Rpsa" />
+    <edge source="Rpl14" target="Rpsa" />
+    <edge source="Rpl14" target="Lztfl1" />
+    <edge source="Wdr48" target="Ctnnb1" />
+    <edge source="Wdr48" target="Sacm1l" />
+    <edge source="Ccr9" target="Lztfl1" />
+    <edge source="Ccr9" target="Limd1" />
+    <edge source="Vipr1" target="Itga9" />
+    <edge source="Scn11a" target="Stt3b" />
+    <edge source="Nktr" target="Lztfl1" />
+    <edge source="Nktr" target="Rpsa" />
+    <edge source="Rpsa" target="Plcd1" />
+    <edge source="Ano10" target="Sacm1l" />
+    <edge source="Sacm1l" target="Limd1" />
+    <edge source="Limd1" target="Itga9" />
+    <edge source="Plcd1" target="Xylb" />
+    <edge source="Plcd1" target="Acaa1b///Acaa1a" />
+    <edge source="Xylb" target="Acaa1b///Acaa1a" />
+    <edge source="Xylb" target="Itga9" />
+    <edge source="Acaa1b///Acaa1a" target="Abhd5" />
+  </graph>
+</graphml>

@@ -1,0 +1,100 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <graph edgedefault="undirected">
+    <node id="Gmps" />
+    <node id="Gpr87" />
+    <node id="Tiparp" />
+    <node id="Med12l" />
+    <node id="Tm4sf4" />
+    <node id="Gpr149" />
+    <node id="Sucnr1" />
+    <node id="Serp1" />
+    <node id="Ccna1" />
+    <node id="Pfn2" />
+    <node id="Rnf13" />
+    <node id="Spg20" />
+    <node id="Arhgef26" />
+    <node id="Ssr3" />
+    <node id="P2ry14" />
+    <node id="P2ry1" />
+    <node id="Clrn1" />
+    <node id="Dclk1" />
+    <node id="Dhx36" />
+    <node id="Mab21l1" />
+    <node id="C130079G13Rik" />
+    <node id="Ccnl1" />
+    <node id="P2ry12" />
+    <node id="Slc33a1" />
+    <node id="Gpr171" />
+    <node id="Siah2" />
+    <node id="Plch1" />
+    <node id="Eif2a" />
+    <node id="P2ry13" />
+    <node id="Nbea" />
+    <node id="Mbnl1" />
+    <node id="Kcnab1" />
+    <node id="Aadac" />
+    <node id="Selt" />
+    <node id="Tsc22d2" />
+    <edge source="Gmps" target="Siah2" />
+    <edge source="Gmps" target="Ccna1" />
+    <edge source="Gmps" target="Eif2a" />
+    <edge source="Gmps" target="Dhx36" />
+    <edge source="Gmps" target="Ccnl1" />
+    <edge source="Gmps" target="Gpr149" />
+    <edge source="Gmps" target="Ssr3" />
+    <edge source="Gmps" target="Slc33a1" />
+    <edge source="Gpr87" target="C130079G13Rik" />
+    <edge source="Gpr87" target="Gpr171" />
+    <edge source="Gpr87" target="Gpr149" />
+    <edge source="Gpr87" target="Ssr3" />
+    <edge source="Gpr87" target="Med12l" />
+    <edge source="Tiparp" target="Ccnl1" />
+    <edge source="Med12l" target="Clrn1" />
+    <edge source="Med12l" target="Ccnl1" />
+    <edge source="Tm4sf4" target="Aadac" />
+    <edge source="Gpr149" target="Eif2a" />
+    <edge source="Gpr149" target="Dhx36" />
+    <edge source="Gpr149" target="Mbnl1" />
+    <edge source="Gpr149" target="Ssr3" />
+    <edge source="Gpr149" target="Gpr171" />
+    <edge source="Sucnr1" target="Aadac" />
+    <edge source="Sucnr1" target="P2ry12" />
+    <edge source="Sucnr1" target="P2ry13" />
+    <edge source="Sucnr1" target="P2ry14" />
+    <edge source="Serp1" target="Selt" />
+    <edge source="Serp1" target="Ssr3" />
+    <edge source="Serp1" target="Slc33a1" />
+    <edge source="Ccna1" target="Siah2" />
+    <edge source="Pfn2" target="Clrn1" />
+    <edge source="Pfn2" target="Kcnab1" />
+    <edge source="Pfn2" target="Arhgef26" />
+    <edge source="Pfn2" target="Nbea" />
+    <edge source="Rnf13" target="Siah2" />
+    <edge source="Spg20" target="Slc33a1" />
+    <edge source="Arhgef26" target="Dhx36" />
+    <edge source="Ssr3" target="Mab21l1" />
+    <edge source="Ssr3" target="Selt" />
+    <edge source="Ssr3" target="Ccnl1" />
+    <edge source="Ssr3" target="Slc33a1" />
+    <edge source="Ssr3" target="Gpr171" />
+    <edge source="P2ry14" target="P2ry12" />
+    <edge source="P2ry14" target="P2ry1" />
+    <edge source="P2ry14" target="P2ry13" />
+    <edge source="P2ry14" target="Gpr171" />
+    <edge source="P2ry1" target="P2ry12" />
+    <edge source="P2ry1" target="P2ry13" />
+    <edge source="Dclk1" target="Mab21l1" />
+    <edge source="Dhx36" target="Eif2a" />
+    <edge source="Dhx36" target="Mbnl1" />
+    <edge source="Dhx36" target="Ccnl1" />
+    <edge source="Dhx36" target="Tsc22d2" />
+    <edge source="Mab21l1" target="Nbea" />
+    <edge source="C130079G13Rik" target="Eif2a" />
+    <edge source="Ccnl1" target="Plch1" />
+    <edge source="Ccnl1" target="Slc33a1" />
+    <edge source="P2ry12" target="P2ry13" />
+    <edge source="Eif2a" target="Aadac" />
+    <edge source="Nbea" target="Kcnab1" />
+  </graph>
+</graphml>

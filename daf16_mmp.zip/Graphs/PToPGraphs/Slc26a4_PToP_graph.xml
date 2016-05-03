@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <graph edgedefault="undirected">
+    <node id="Cog5" />
+    <node id="Acp1" />
+    <node id="Lamb1" />
+    <node id="Sh3yl1" />
+    <node id="Twistnb" />
+    <node id="Cdhr3" />
+    <node id="Sntg2" />
+    <node id="Nampt" />
+    <node id="Gpr22" />
+    <node id="Sypl" />
+    <node id="Efcab10" />
+    <node id="Pxdn" />
+    <node id="Dus4l" />
+    <node id="Myt1l" />
+    <node id="Bcap29" />
+    <node id="Allc" />
+    <node id="Cbll1" />
+    <node id="Tssc1" />
+    <node id="Ferd3l" />
+    <node id="Hdac9" />
+    <node id="Colec11" />
+    <node id="Rps7" />
+    <node id="Dld" />
+    <node id="Slc26a3" />
+    <node id="Trappc12" />
+    <node id="Twist1" />
+    <node id="Prkar2b" />
+    <node id="Rnaseh1" />
+    <node id="Slc26a4" />
+    <edge source="Cog5" target="Slc26a3" />
+    <edge source="Cog5" target="Prkar2b" />
+    <edge source="Cog5" target="Cdhr3" />
+    <edge source="Cog5" target="Bcap29" />
+    <edge source="Cog5" target="Slc26a4" />
+    <edge source="Cog5" target="Nampt" />
+    <edge source="Cog5" target="Gpr22" />
+    <edge source="Acp1" target="Sntg2" />
+    <edge source="Acp1" target="Dld" />
+    <edge source="Acp1" target="Sh3yl1" />
+    <edge source="Lamb1" target="Prkar2b" />
+    <edge source="Lamb1" target="Pxdn" />
+    <edge source="Lamb1" target="Twist1" />
+    <edge source="Sh3yl1" target="Sntg2" />
+    <edge source="Twistnb" target="Twist1" />
+    <edge source="Twistnb" target="Rps7" />
+    <edge source="Twistnb" target="Bcap29" />
+    <edge source="Cdhr3" target="Slc26a3" />
+    <edge source="Sntg2" target="Pxdn" />
+    <edge source="Sntg2" target="Myt1l" />
+    <edge source="Nampt" target="Dld" />
+    <edge source="Nampt" target="Bcap29" />
+    <edge source="Nampt" target="Prkar2b" />
+    <edge source="Gpr22" target="Prkar2b" />
+    <edge source="Gpr22" target="Bcap29" />
+    <edge source="Sypl" target="Bcap29" />
+    <edge source="Sypl" target="Dld" />
+    <edge source="Efcab10" target="Slc26a3" />
+    <edge source="Dus4l" target="Slc26a4" />
+    <edge source="Bcap29" target="Prkar2b" />
+    <edge source="Bcap29" target="Dld" />
+    <edge source="Allc" target="Slc26a3" />
+    <edge source="Allc" target="Ferd3l" />
+    <edge source="Allc" target="Colec11" />
+    <edge source="Allc" target="Trappc12" />
+    <edge source="Allc" target="Tssc1" />
+    <edge source="Cbll1" target="Twist1" />
+    <edge source="Tssc1" target="Colec11" />
+    <edge source="Tssc1" target="Rnaseh1" />
+    <edge source="Tssc1" target="Trappc12" />
+    <edge source="Ferd3l" target="Hdac9" />
+    <edge source="Hdac9" target="Twist1" />
+    <edge source="Colec11" target="Twist1" />
+    <edge source="Colec11" target="Rnaseh1" />
+    <edge source="Colec11" target="Trappc12" />
+    <edge source="Slc26a3" target="Prkar2b" />
+    <edge source="Trappc12" target="Rnaseh1" />
+  </graph>
+</graphml>

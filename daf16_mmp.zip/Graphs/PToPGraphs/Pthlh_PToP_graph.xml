@@ -1,0 +1,111 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <graph edgedefault="undirected">
+    <node id="Ipo8" />
+    <node id="Klhl42" />
+    <node id="Slco1a1" />
+    <node id="Kras" />
+    <node id="Bcat1" />
+    <node id="Slco1a5" />
+    <node id="Tm7sf3" />
+    <node id="Itpr2" />
+    <node id="Rassf8" />
+    <node id="Abcc9" />
+    <node id="Fgfr1op2" />
+    <node id="Tuba3b///Tuba3a" />
+    <node id="Mrps35" />
+    <node id="Ergic2" />
+    <node id="Slco1a4" />
+    <node id="Rep15" />
+    <node id="Lyrm5" />
+    <node id="Caprin2" />
+    <node id="Golt1b" />
+    <node id="Asun" />
+    <node id="Lrmp" />
+    <node id="Etnk1" />
+    <node id="Cmas" />
+    <node id="Aebp2" />
+    <node id="Med21" />
+    <node id="Sspn" />
+    <node id="Bicd1" />
+    <node id="Sox5" />
+    <node id="Pyroxd1" />
+    <node id="Slco1b2" />
+    <node id="Slco1c1" />
+    <node id="Bhlhe41" />
+    <node id="Iapp" />
+    <node id="St8sia1" />
+    <node id="Kcnj8" />
+    <node id="Ldhb" />
+    <node id="Arntl2" />
+    <node id="Pthlh" />
+    <node id="Pde3a" />
+    <node id="Gys2" />
+    <edge source="Ipo8" target="Aebp2" />
+    <edge source="Klhl42" target="Arntl2" />
+    <edge source="Slco1a1" target="Pde3a" />
+    <edge source="Kras" target="Itpr2" />
+    <edge source="Kras" target="Gys2" />
+    <edge source="Bcat1" target="Asun" />
+    <edge source="Bcat1" target="Lrmp" />
+    <edge source="Bcat1" target="Abcc9" />
+    <edge source="Bcat1" target="Rassf8" />
+    <edge source="Bcat1" target="Sspn" />
+    <edge source="Bcat1" target="Tm7sf3" />
+    <edge source="Bcat1" target="Ldhb" />
+    <edge source="Bcat1" target="Lyrm5" />
+    <edge source="Slco1a5" target="Pde3a" />
+    <edge source="Tm7sf3" target="Asun" />
+    <edge source="Tm7sf3" target="Arntl2" />
+    <edge source="Tm7sf3" target="Rep15" />
+    <edge source="Tm7sf3" target="Med21" />
+    <edge source="Itpr2" target="Sspn" />
+    <edge source="Itpr2" target="Rassf8" />
+    <edge source="Itpr2" target="Lyrm5" />
+    <edge source="Rassf8" target="Sspn" />
+    <edge source="Rassf8" target="Lrmp" />
+    <edge source="Rassf8" target="Lyrm5" />
+    <edge source="Abcc9" target="Kcnj8" />
+    <edge source="Abcc9" target="Cmas" />
+    <edge source="Abcc9" target="Golt1b" />
+    <edge source="Abcc9" target="Ldhb" />
+    <edge source="Abcc9" target="Pde3a" />
+    <edge source="Abcc9" target="Gys2" />
+    <edge source="Fgfr1op2" target="Ergic2" />
+    <edge source="Tuba3b///Tuba3a" target="Bicd1" />
+    <edge source="Tuba3b///Tuba3a" target="Gys2" />
+    <edge source="Mrps35" target="Med21" />
+    <edge source="Ergic2" target="Asun" />
+    <edge source="Ergic2" target="Golt1b" />
+    <edge source="Ergic2" target="Pde3a" />
+    <edge source="Ergic2" target="Med21" />
+    <edge source="Slco1a4" target="Pde3a" />
+    <edge source="Rep15" target="Asun" />
+    <edge source="Lyrm5" target="Sspn" />
+    <edge source="Lyrm5" target="Lrmp" />
+    <edge source="Caprin2" target="Ldhb" />
+    <edge source="Caprin2" target="Aebp2" />
+    <edge source="Caprin2" target="Cmas" />
+    <edge source="Golt1b" target="Asun" />
+    <edge source="Golt1b" target="Ldhb" />
+    <edge source="Asun" target="Med21" />
+    <edge source="Asun" target="Arntl2" />
+    <edge source="Lrmp" target="Sspn" />
+    <edge source="Lrmp" target="Sox5" />
+    <edge source="Etnk1" target="Aebp2" />
+    <edge source="Etnk1" target="Sox5" />
+    <edge source="Cmas" target="St8sia1" />
+    <edge source="Cmas" target="Aebp2" />
+    <edge source="Aebp2" target="Ldhb" />
+    <edge source="Aebp2" target="Gys2" />
+    <edge source="Bicd1" target="Gys2" />
+    <edge source="Sox5" target="Pthlh" />
+    <edge source="Pyroxd1" target="Ldhb" />
+    <edge source="Slco1b2" target="Pde3a" />
+    <edge source="Slco1c1" target="Pde3a" />
+    <edge source="Bhlhe41" target="Arntl2" />
+    <edge source="Iapp" target="Pthlh" />
+    <edge source="Kcnj8" target="Ldhb" />
+    <edge source="Arntl2" target="Gys2" />
+  </graph>
+</graphml>

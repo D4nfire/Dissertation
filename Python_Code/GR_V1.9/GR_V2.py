@@ -44,7 +44,6 @@ def readFile(filePath):
 				goList = [] # resets the temporary list for the next line
 	
 	# This list has the form of [Gene ID, GO ID list, expr data, gene name, Gene ID...] 
-	print (fullGeneDataList)
 	return fullGeneDataList
 
 # if a gene appears in the list multiple times we want to initialise the
@@ -348,8 +347,8 @@ def main():
 	filepath = input('Give the full file path: ')
 	koGene = input('Give the name of the ko gene: ')
 	graphFile = input('What do you want to call the graph file? include .xml ') 
-	outputFile = input('What do you want to call the output file? ')	
+	outputFile = input('What do you want to call the output file? ')
 	
-	runRanking(filepath, koGene, graphFile, outputFile, 0.0);
+	runRanking(filepath, koGene, graphFile, outputFile, 0.65);
 
 main();

@@ -1,0 +1,373 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <graph edgedefault="undirected">
+    <node id="Vars" />
+    <node id="Notch4" />
+    <node id="Pou5f1" />
+    <node id="Ehmt2" />
+    <node id="Dxo" />
+    <node id="Abhd16a" />
+    <node id="Cyp21a1" />
+    <node id="Nelfe" />
+    <node id="Agpat1" />
+    <node id="Slc44a4" />
+    <node id="Ager" />
+    <node id="Hspa1l" />
+    <node id="Prrc2a" />
+    <node id="Egfl8" />
+    <node id="Lst1" />
+    <node id="Lta" />
+    <node id="C2" />
+    <node id="D17H6S56E-5" />
+    <node id="Ly6g6c" />
+    <node id="Vwa7" />
+    <node id="Ltb" />
+    <node id="C4b" />
+    <node id="H2-Q5" />
+    <node id="Tnf" />
+    <node id="Hspa1a" />
+    <node id="H2-D1" />
+    <node id="Cfb///C2" />
+    <node id="Gpank1" />
+    <node id="H2-Q10" />
+    <node id="Bag6" />
+    <node id="Tnxb" />
+    <node id="Hspa1b" />
+    <node id="Tcf19" />
+    <node id="Sapcd1" />
+    <node id="Ly6g6d" />
+    <node id="Gpsm3" />
+    <node id="Csnk2b" />
+    <node id="Ppt2" />
+    <node id="Stk19" />
+    <node id="H2-Q2" />
+    <node id="Rnf5" />
+    <node id="Nfkbil1" />
+    <node id="Pbx2" />
+    <node id="Apom" />
+    <node id="Prrt1" />
+    <node id="Lsm2" />
+    <node id="Ddah2" />
+    <node id="Skiv2l" />
+    <node id="Atf6b" />
+    <node id="Ly6g6e" />
+    <node id="Zbtb12" />
+    <node id="Clic1" />
+    <node id="H2-Q6///LOC68395" />
+    <node id="Neu1" />
+    <node id="Aif1" />
+    <node id="Fkbpl" />
+    <edge source="Vars" target="D17H6S56E-5" />
+    <edge source="Vars" target="Bag6" />
+    <edge source="Vars" target="Dxo" />
+    <edge source="Vars" target="Atf6b" />
+    <edge source="Vars" target="Sapcd1" />
+    <edge source="Vars" target="Clic1" />
+    <edge source="Vars" target="Ly6g6d" />
+    <edge source="Vars" target="Agpat1" />
+    <edge source="Vars" target="Csnk2b" />
+    <edge source="Vars" target="Slc44a4" />
+    <edge source="Vars" target="Hspa1l" />
+    <edge source="Vars" target="Prrc2a" />
+    <edge source="Vars" target="Hspa1b" />
+    <edge source="Vars" target="Stk19" />
+    <edge source="Vars" target="Prrt1" />
+    <edge source="Vars" target="Lsm2" />
+    <edge source="Vars" target="Ddah2" />
+    <edge source="Vars" target="Skiv2l" />
+    <edge source="Vars" target="Ly6g6c" />
+    <edge source="Vars" target="Abhd16a" />
+    <edge source="Vars" target="Vwa7" />
+    <edge source="Vars" target="Zbtb12" />
+    <edge source="Vars" target="Neu1" />
+    <edge source="Vars" target="Hspa1a" />
+    <edge source="Notch4" target="Vwa7" />
+    <edge source="Notch4" target="Pbx2" />
+    <edge source="Notch4" target="Pou5f1" />
+    <edge source="Notch4" target="C2" />
+    <edge source="Notch4" target="Tnxb" />
+    <edge source="Notch4" target="Skiv2l" />
+    <edge source="Notch4" target="Hspa1b" />
+    <edge source="Notch4" target="Ly6g6d" />
+    <edge source="Notch4" target="Atf6b" />
+    <edge source="Notch4" target="Zbtb12" />
+    <edge source="Notch4" target="Fkbpl" />
+    <edge source="Notch4" target="Agpat1" />
+    <edge source="Notch4" target="Csnk2b" />
+    <edge source="Notch4" target="Hspa1a" />
+    <edge source="Notch4" target="Slc44a4" />
+    <edge source="Notch4" target="Hspa1l" />
+    <edge source="Pou5f1" target="Hspa1b" />
+    <edge source="Pou5f1" target="Hspa1a" />
+    <edge source="Pou5f1" target="Hspa1l" />
+    <edge source="Ehmt2" target="Csnk2b" />
+    <edge source="Ehmt2" target="Hspa1b" />
+    <edge source="Ehmt2" target="Fkbpl" />
+    <edge source="Ehmt2" target="Hspa1a" />
+    <edge source="Ehmt2" target="Hspa1l" />
+    <edge source="Dxo" target="Skiv2l" />
+    <edge source="Dxo" target="Bag6" />
+    <edge source="Dxo" target="Tnxb" />
+    <edge source="Dxo" target="Egfl8" />
+    <edge source="Dxo" target="Ly6g6d" />
+    <edge source="Dxo" target="Atf6b" />
+    <edge source="Dxo" target="Sapcd1" />
+    <edge source="Dxo" target="Clic1" />
+    <edge source="Dxo" target="Agpat1" />
+    <edge source="Dxo" target="Csnk2b" />
+    <edge source="Dxo" target="Slc44a4" />
+    <edge source="Dxo" target="Hspa1l" />
+    <edge source="Dxo" target="Hspa1b" />
+    <edge source="Dxo" target="Stk19" />
+    <edge source="Dxo" target="Prrt1" />
+    <edge source="Dxo" target="Lsm2" />
+    <edge source="Dxo" target="Ddah2" />
+    <edge source="Dxo" target="Ly6g6c" />
+    <edge source="Dxo" target="Abhd16a" />
+    <edge source="Dxo" target="Vwa7" />
+    <edge source="Dxo" target="Zbtb12" />
+    <edge source="Dxo" target="Cyp21a1" />
+    <edge source="Dxo" target="Hspa1a" />
+    <edge source="Abhd16a" target="Skiv2l" />
+    <edge source="Abhd16a" target="Gpank1" />
+    <edge source="Abhd16a" target="Bag6" />
+    <edge source="Abhd16a" target="Pbx2" />
+    <edge source="Abhd16a" target="Sapcd1" />
+    <edge source="Abhd16a" target="Clic1" />
+    <edge source="Abhd16a" target="Aif1" />
+    <edge source="Abhd16a" target="D17H6S56E-5" />
+    <edge source="Abhd16a" target="Csnk2b" />
+    <edge source="Abhd16a" target="Stk19" />
+    <edge source="Abhd16a" target="H2-Q2" />
+    <edge source="Abhd16a" target="Prrc2a" />
+    <edge source="Abhd16a" target="Hspa1b" />
+    <edge source="Abhd16a" target="Nfkbil1" />
+    <edge source="Abhd16a" target="Lsm2" />
+    <edge source="Abhd16a" target="Atf6b" />
+    <edge source="Abhd16a" target="Vwa7" />
+    <edge source="Abhd16a" target="Zbtb12" />
+    <edge source="Abhd16a" target="Rnf5" />
+    <edge source="Abhd16a" target="Neu1" />
+    <edge source="Abhd16a" target="H2-D1" />
+    <edge source="Cyp21a1" target="Prrc2a" />
+    <edge source="Cyp21a1" target="Zbtb12" />
+    <edge source="Cyp21a1" target="Lsm2" />
+    <edge source="Cyp21a1" target="Csnk2b" />
+    <edge source="Cyp21a1" target="Tnxb" />
+    <edge source="Cyp21a1" target="Skiv2l" />
+    <edge source="Cyp21a1" target="H2-Q2" />
+    <edge source="Cyp21a1" target="Atf6b" />
+    <edge source="Cyp21a1" target="Ly6g6d" />
+    <edge source="Cyp21a1" target="Vwa7" />
+    <edge source="Nelfe" target="Bag6" />
+    <edge source="Agpat1" target="Prrc2a" />
+    <edge source="Agpat1" target="Pbx2" />
+    <edge source="Agpat1" target="Skiv2l" />
+    <edge source="Agpat1" target="Prrt1" />
+    <edge source="Agpat1" target="Lsm2" />
+    <edge source="Agpat1" target="Ddah2" />
+    <edge source="Agpat1" target="Bag6" />
+    <edge source="Agpat1" target="Tnxb" />
+    <edge source="Agpat1" target="Ly6g6c" />
+    <edge source="Agpat1" target="Hspa1b" />
+    <edge source="Agpat1" target="Ly6g6d" />
+    <edge source="Agpat1" target="Atf6b" />
+    <edge source="Agpat1" target="Zbtb12" />
+    <edge source="Agpat1" target="Clic1" />
+    <edge source="Agpat1" target="Hspa1a" />
+    <edge source="Agpat1" target="Fkbpl" />
+    <edge source="Agpat1" target="Ppt2" />
+    <edge source="Agpat1" target="Hspa1l" />
+    <edge source="Slc44a4" target="Zbtb12" />
+    <edge source="Slc44a4" target="Apom" />
+    <edge source="Slc44a4" target="Ly6g6d" />
+    <edge source="Slc44a4" target="Bag6" />
+    <edge source="Slc44a4" target="H2-Q2" />
+    <edge source="Ager" target="Aif1" />
+    <edge source="Hspa1l" target="Hspa1b" />
+    <edge source="Hspa1l" target="Lsm2" />
+    <edge source="Hspa1l" target="H2-Q10" />
+    <edge source="Hspa1l" target="Bag6" />
+    <edge source="Hspa1l" target="Atf6b" />
+    <edge source="Hspa1l" target="Vwa7" />
+    <edge source="Hspa1l" target="Zbtb12" />
+    <edge source="Hspa1l" target="Fkbpl" />
+    <edge source="Hspa1l" target="Csnk2b" />
+    <edge source="Hspa1l" target="Hspa1a" />
+    <edge source="Prrc2a" target="Lst1" />
+    <edge source="Prrc2a" target="Nfkbil1" />
+    <edge source="Prrc2a" target="Gpank1" />
+    <edge source="Prrc2a" target="Bag6" />
+    <edge source="Prrc2a" target="Atf6b" />
+    <edge source="Prrc2a" target="Skiv2l" />
+    <edge source="Prrc2a" target="Zbtb12" />
+    <edge source="Prrc2a" target="Clic1" />
+    <edge source="Prrc2a" target="Aif1" />
+    <edge source="Prrc2a" target="Neu1" />
+    <edge source="Prrc2a" target="Csnk2b" />
+    <edge source="Prrc2a" target="Vwa7" />
+    <edge source="Prrc2a" target="H2-Q2" />
+    <edge source="Egfl8" target="Zbtb12" />
+    <edge source="Egfl8" target="Prrt1" />
+    <edge source="Egfl8" target="Ddah2" />
+    <edge source="Egfl8" target="Tnxb" />
+    <edge source="Egfl8" target="Ly6g6c" />
+    <edge source="Egfl8" target="Ly6g6d" />
+    <edge source="Egfl8" target="Vwa7" />
+    <edge source="Lst1" target="Aif1" />
+    <edge source="Lst1" target="Gpsm3" />
+    <edge source="Lst1" target="Bag6" />
+    <edge source="Lta" target="Ltb" />
+    <edge source="Lta" target="Tnf" />
+    <edge source="D17H6S56E-5" target="Lsm2" />
+    <edge source="D17H6S56E-5" target="Ddah2" />
+    <edge source="D17H6S56E-5" target="Ly6g6c" />
+    <edge source="D17H6S56E-5" target="Ly6g6d" />
+    <edge source="D17H6S56E-5" target="Vwa7" />
+    <edge source="D17H6S56E-5" target="Zbtb12" />
+    <edge source="D17H6S56E-5" target="Clic1" />
+    <edge source="D17H6S56E-5" target="Hspa1a" />
+    <edge source="D17H6S56E-5" target="H2-Q2" />
+    <edge source="D17H6S56E-5" target="Tcf19" />
+    <edge source="Ly6g6c" target="Prrt1" />
+    <edge source="Ly6g6c" target="Lsm2" />
+    <edge source="Ly6g6c" target="Ddah2" />
+    <edge source="Ly6g6c" target="Bag6" />
+    <edge source="Ly6g6c" target="Tnxb" />
+    <edge source="Ly6g6c" target="Atf6b" />
+    <edge source="Ly6g6c" target="Ly6g6d" />
+    <edge source="Ly6g6c" target="Vwa7" />
+    <edge source="Ly6g6c" target="Ltb" />
+    <edge source="Ly6g6c" target="Clic1" />
+    <edge source="Ly6g6c" target="Csnk2b" />
+    <edge source="Ly6g6c" target="Rnf5" />
+    <edge source="Vwa7" target="Tnxb" />
+    <edge source="Vwa7" target="Sapcd1" />
+    <edge source="Vwa7" target="Ly6g6d" />
+    <edge source="Vwa7" target="Csnk2b" />
+    <edge source="Vwa7" target="Stk19" />
+    <edge source="Vwa7" target="H2-Q2" />
+    <edge source="Vwa7" target="Nfkbil1" />
+    <edge source="Vwa7" target="Lsm2" />
+    <edge source="Vwa7" target="Ddah2" />
+    <edge source="Vwa7" target="Atf6b" />
+    <edge source="Vwa7" target="Skiv2l" />
+    <edge source="Vwa7" target="Zbtb12" />
+    <edge source="Vwa7" target="Clic1" />
+    <edge source="Vwa7" target="Hspa1a" />
+    <edge source="Ltb" target="Aif1" />
+    <edge source="Ltb" target="Tnf" />
+    <edge source="Ltb" target="H2-Q2" />
+    <edge source="Ltb" target="Nfkbil1" />
+    <edge source="C4b" target="H2-Q10" />
+    <edge source="H2-Q5" target="H2-Q10" />
+    <edge source="H2-Q5" target="H2-Q2" />
+    <edge source="H2-Q5" target="H2-Q6///LOC68395" />
+    <edge source="H2-Q5" target="H2-D1" />
+    <edge source="Hspa1a" target="Hspa1b" />
+    <edge source="Hspa1a" target="Lsm2" />
+    <edge source="Hspa1a" target="Bag6" />
+    <edge source="Hspa1a" target="Atf6b" />
+    <edge source="Hspa1a" target="Zbtb12" />
+    <edge source="Hspa1a" target="Fkbpl" />
+    <edge source="Hspa1a" target="Csnk2b" />
+    <edge source="Hspa1a" target="H2-Q2" />
+    <edge source="H2-D1" target="H2-Q10" />
+    <edge source="H2-D1" target="H2-Q2" />
+    <edge source="H2-D1" target="H2-Q6///LOC68395" />
+    <edge source="Cfb///C2" target="Skiv2l" />
+    <edge source="Gpank1" target="Pbx2" />
+    <edge source="Gpank1" target="Clic1" />
+    <edge source="Gpank1" target="Aif1" />
+    <edge source="Gpank1" target="Neu1" />
+    <edge source="Gpank1" target="Bag6" />
+    <edge source="H2-Q10" target="Hspa1b" />
+    <edge source="H2-Q10" target="H2-Q6///LOC68395" />
+    <edge source="H2-Q10" target="H2-Q2" />
+    <edge source="Bag6" target="Neu1" />
+    <edge source="Bag6" target="Pbx2" />
+    <edge source="Bag6" target="Atf6b" />
+    <edge source="Bag6" target="Clic1" />
+    <edge source="Bag6" target="Aif1" />
+    <edge source="Bag6" target="Ly6g6d" />
+    <edge source="Bag6" target="Csnk2b" />
+    <edge source="Bag6" target="H2-Q2" />
+    <edge source="Bag6" target="Hspa1b" />
+    <edge source="Bag6" target="Nfkbil1" />
+    <edge source="Bag6" target="Lsm2" />
+    <edge source="Bag6" target="Ddah2" />
+    <edge source="Bag6" target="Skiv2l" />
+    <edge source="Bag6" target="Zbtb12" />
+    <edge source="Tnxb" target="Prrt1" />
+    <edge source="Tnxb" target="Ddah2" />
+    <edge source="Tnxb" target="Skiv2l" />
+    <edge source="Tnxb" target="Atf6b" />
+    <edge source="Tnxb" target="Pbx2" />
+    <edge source="Tnxb" target="Ly6g6d" />
+    <edge source="Tnxb" target="Csnk2b" />
+    <edge source="Hspa1b" target="Atf6b" />
+    <edge source="Hspa1b" target="Zbtb12" />
+    <edge source="Hspa1b" target="Fkbpl" />
+    <edge source="Hspa1b" target="Ly6g6d" />
+    <edge source="Hspa1b" target="Csnk2b" />
+    <edge source="Hspa1b" target="H2-Q2" />
+    <edge source="Tcf19" target="Lsm2" />
+    <edge source="Sapcd1" target="Clic1" />
+    <edge source="Sapcd1" target="Skiv2l" />
+    <edge source="Sapcd1" target="Atf6b" />
+    <edge source="Sapcd1" target="Stk19" />
+    <edge source="Ly6g6d" target="Csnk2b" />
+    <edge source="Ly6g6d" target="H2-Q2" />
+    <edge source="Ly6g6d" target="Apom" />
+    <edge source="Ly6g6d" target="Prrt1" />
+    <edge source="Ly6g6d" target="Lsm2" />
+    <edge source="Ly6g6d" target="Ddah2" />
+    <edge source="Ly6g6d" target="Atf6b" />
+    <edge source="Ly6g6d" target="Ly6g6e" />
+    <edge source="Ly6g6d" target="Clic1" />
+    <edge source="Ly6g6d" target="Rnf5" />
+    <edge source="Gpsm3" target="Clic1" />
+    <edge source="Gpsm3" target="Aif1" />
+    <edge source="Csnk2b" target="Pbx2" />
+    <edge source="Csnk2b" target="Prrt1" />
+    <edge source="Csnk2b" target="Lsm2" />
+    <edge source="Csnk2b" target="Ddah2" />
+    <edge source="Csnk2b" target="Skiv2l" />
+    <edge source="Csnk2b" target="Zbtb12" />
+    <edge source="Csnk2b" target="Fkbpl" />
+    <edge source="Csnk2b" target="Rnf5" />
+    <edge source="Stk19" target="Clic1" />
+    <edge source="Stk19" target="Atf6b" />
+    <edge source="Stk19" target="Skiv2l" />
+    <edge source="H2-Q2" target="Aif1" />
+    <edge source="H2-Q2" target="H2-Q6///LOC68395" />
+    <edge source="H2-Q2" target="Lsm2" />
+    <edge source="Rnf5" target="Lsm2" />
+    <edge source="Rnf5" target="Ddah2" />
+    <edge source="Nfkbil1" target="Skiv2l" />
+    <edge source="Pbx2" target="Clic1" />
+    <edge source="Pbx2" target="Skiv2l" />
+    <edge source="Pbx2" target="Atf6b" />
+    <edge source="Pbx2" target="Lsm2" />
+    <edge source="Prrt1" target="Clic1" />
+    <edge source="Prrt1" target="Lsm2" />
+    <edge source="Prrt1" target="Ddah2" />
+    <edge source="Prrt1" target="Atf6b" />
+    <edge source="Prrt1" target="Fkbpl" />
+    <edge source="Lsm2" target="Atf6b" />
+    <edge source="Lsm2" target="Clic1" />
+    <edge source="Lsm2" target="Ddah2" />
+    <edge source="Lsm2" target="Skiv2l" />
+    <edge source="Ddah2" target="Atf6b" />
+    <edge source="Ddah2" target="Clic1" />
+    <edge source="Skiv2l" target="Clic1" />
+    <edge source="Skiv2l" target="Fkbpl" />
+    <edge source="Skiv2l" target="Atf6b" />
+    <edge source="Atf6b" target="Clic1" />
+    <edge source="Atf6b" target="Zbtb12" />
+    <edge source="Zbtb12" target="Fkbpl" />
+    <edge source="Zbtb12" target="Neu1" />
+    <edge source="Clic1" target="Aif1" />
+    <edge source="Clic1" target="Neu1" />
+  </graph>
+</graphml>

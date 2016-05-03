@@ -1,0 +1,130 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <graph edgedefault="undirected">
+    <node id="Pex6" />
+    <node id="Klc4" />
+    <node id="Slc29a1" />
+    <node id="Klhdc3" />
+    <node id="Gtpbp2" />
+    <node id="Taf8" />
+    <node id="Mea1" />
+    <node id="Polh" />
+    <node id="Rrp36" />
+    <node id="Mrpl14" />
+    <node id="Yipf3" />
+    <node id="Guca1a" />
+    <node id="Ppp2r5d" />
+    <node id="Tmem63b" />
+    <node id="Mrps18a" />
+    <node id="Cul9" />
+    <node id="Abcc10" />
+    <node id="Ubr2" />
+    <node id="Slc35b2" />
+    <node id="Mrpl2" />
+    <node id="Cnpy3" />
+    <node id="Srf" />
+    <node id="Polr1c" />
+    <node id="Guca1b" />
+    <node id="Ttbk1" />
+    <node id="Slc22a7" />
+    <node id="Cul7" />
+    <node id="Gltscr1l" />
+    <node id="Hsp90ab1" />
+    <node id="Dnph1" />
+    <node id="Prph2" />
+    <node id="Vegfa" />
+    <node id="Rpl7l1" />
+    <node id="2310039H08Rik" />
+    <node id="Ptk7" />
+    <node id="Ccnd3" />
+    <node id="Mrps10" />
+    <node id="Xpo5" />
+    <edge source="Pex6" target="Ppp2r5d" />
+    <edge source="Pex6" target="Yipf3" />
+    <edge source="Klc4" target="Cnpy3" />
+    <edge source="Klc4" target="Srf" />
+    <edge source="Klc4" target="Polr1c" />
+    <edge source="Klc4" target="Yipf3" />
+    <edge source="Klc4" target="Slc22a7" />
+    <edge source="Klc4" target="Cul9" />
+    <edge source="Klc4" target="Rrp36" />
+    <edge source="Klc4" target="Ptk7" />
+    <edge source="Slc29a1" target="Slc22a7" />
+    <edge source="Slc29a1" target="Slc35b2" />
+    <edge source="Klhdc3" target="Mea1" />
+    <edge source="Klhdc3" target="Ppp2r5d" />
+    <edge source="Klhdc3" target="Rrp36" />
+    <edge source="Gtpbp2" target="Ptk7" />
+    <edge source="Taf8" target="Polh" />
+    <edge source="Taf8" target="Gltscr1l" />
+    <edge source="Taf8" target="Abcc10" />
+    <edge source="Mea1" target="Mrpl2" />
+    <edge source="Mea1" target="Ppp2r5d" />
+    <edge source="Mea1" target="Mrpl14" />
+    <edge source="Mea1" target="2310039H08Rik" />
+    <edge source="Mea1" target="Mrps18a" />
+    <edge source="Mea1" target="Slc22a7" />
+    <edge source="Mea1" target="Rrp36" />
+    <edge source="Rrp36" target="Polr1c" />
+    <edge source="Rrp36" target="Rpl7l1" />
+    <edge source="Mrpl14" target="Mrpl2" />
+    <edge source="Mrpl14" target="Mrps18a" />
+    <edge source="Mrpl14" target="Mrps10" />
+    <edge source="Mrpl14" target="2310039H08Rik" />
+    <edge source="Yipf3" target="Dnph1" />
+    <edge source="Yipf3" target="Ttbk1" />
+    <edge source="Guca1a" target="Cnpy3" />
+    <edge source="Guca1a" target="Srf" />
+    <edge source="Guca1a" target="Guca1b" />
+    <edge source="Guca1a" target="Ptk7" />
+    <edge source="Guca1a" target="Prph2" />
+    <edge source="Guca1a" target="Hsp90ab1" />
+    <edge source="Ppp2r5d" target="Mrpl2" />
+    <edge source="Ppp2r5d" target="Slc22a7" />
+    <edge source="Ppp2r5d" target="Cul9" />
+    <edge source="Ppp2r5d" target="Cul7" />
+    <edge source="Ppp2r5d" target="Ptk7" />
+    <edge source="Tmem63b" target="Mrps18a" />
+    <edge source="Mrps18a" target="Mrpl2" />
+    <edge source="Mrps18a" target="Rpl7l1" />
+    <edge source="Mrps18a" target="Mrps10" />
+    <edge source="Mrps18a" target="Polr1c" />
+    <edge source="Cul9" target="Cul7" />
+    <edge source="Cul9" target="Srf" />
+    <edge source="Abcc10" target="Srf" />
+    <edge source="Abcc10" target="Xpo5" />
+    <edge source="Abcc10" target="Ubr2" />
+    <edge source="Ubr2" target="Dnph1" />
+    <edge source="Ubr2" target="Xpo5" />
+    <edge source="Slc35b2" target="Cnpy3" />
+    <edge source="Mrpl2" target="Cnpy3" />
+    <edge source="Mrpl2" target="Rpl7l1" />
+    <edge source="Mrpl2" target="2310039H08Rik" />
+    <edge source="Mrpl2" target="Mrps10" />
+    <edge source="Mrpl2" target="Polr1c" />
+    <edge source="Cnpy3" target="Vegfa" />
+    <edge source="Cnpy3" target="Polr1c" />
+    <edge source="Cnpy3" target="Guca1b" />
+    <edge source="Cnpy3" target="Ptk7" />
+    <edge source="Cnpy3" target="Hsp90ab1" />
+    <edge source="Cnpy3" target="Rpl7l1" />
+    <edge source="Srf" target="Guca1b" />
+    <edge source="Polr1c" target="Rpl7l1" />
+    <edge source="Polr1c" target="Mrps10" />
+    <edge source="Guca1b" target="Ptk7" />
+    <edge source="Guca1b" target="Prph2" />
+    <edge source="Guca1b" target="Hsp90ab1" />
+    <edge source="Ttbk1" target="Dnph1" />
+    <edge source="Ttbk1" target="Ptk7" />
+    <edge source="Ttbk1" target="Hsp90ab1" />
+    <edge source="Gltscr1l" target="Mrps10" />
+    <edge source="Vegfa" target="Ptk7" />
+    <edge source="Vegfa" target="Ccnd3" />
+    <edge source="Rpl7l1" target="Mrps10" />
+    <edge source="Rpl7l1" target="Xpo5" />
+    <edge source="2310039H08Rik" target="Mrps10" />
+    <edge source="Ptk7" target="Ccnd3" />
+    <edge source="Ptk7" target="Xpo5" />
+    <edge source="Ccnd3" target="Xpo5" />
+  </graph>
+</graphml>

@@ -1,0 +1,160 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <graph edgedefault="undirected">
+    <node id="Pcolce2" />
+    <node id="Xrn1" />
+    <node id="Plod2" />
+    <node id="Copb2" />
+    <node id="Trpc1" />
+    <node id="Me1" />
+    <node id="Slc25a36" />
+    <node id="Ttk" />
+    <node id="Phip" />
+    <node id="Atr" />
+    <node id="Atp1b3" />
+    <node id="Bcl2a1d///Bcl2a1c///Bcl2a1b///Bcl2a1a" />
+    <node id="Tpbg" />
+    <node id="Plscr2" />
+    <node id="Sh3bgrl2" />
+    <node id="Dbr1" />
+    <node id="Spsb4" />
+    <node id="Rasa2" />
+    <node id="Ibtk" />
+    <node id="Clstn2" />
+    <node id="Cyb5r4" />
+    <node id="Tbx18" />
+    <node id="Zic1" />
+    <node id="Ctsh" />
+    <node id="Rnf7" />
+    <node id="Rasgrf1" />
+    <node id="Nt5e" />
+    <node id="Zic4" />
+    <node id="Mras" />
+    <node id="Bcl2a1d///Bcl2a1b///Bcl2a1a" />
+    <node id="Snap91" />
+    <node id="U2surp" />
+    <node id="Morf4l1" />
+    <node id="Rbp1" />
+    <node id="Elovl4" />
+    <node id="Nmnat3" />
+    <node id="Prss35" />
+    <node id="Senp6" />
+    <node id="1190002N15Rik" />
+    <node id="Mrps22" />
+    <node id="Faim" />
+    <node id="Cep70" />
+    <node id="Htr1b" />
+    <node id="Pls1" />
+    <node id="Impg1" />
+    <node id="Adamts7" />
+    <node id="Myo6" />
+    <node id="Sox14" />
+    <node id="Plscr1" />
+    <node id="Tmem30a" />
+    <node id="Snx14" />
+    <node id="Tmed3" />
+    <node id="Bckdhb" />
+    <node id="Chst2" />
+    <edge source="Pcolce2" target="Pls1" />
+    <edge source="Xrn1" target="Zic4" />
+    <edge source="Xrn1" target="Dbr1" />
+    <edge source="Xrn1" target="Senp6" />
+    <edge source="Xrn1" target="Zic1" />
+    <edge source="Xrn1" target="Tpbg" />
+    <edge source="Xrn1" target="Phip" />
+    <edge source="Plod2" target="Snx14" />
+    <edge source="Plod2" target="Clstn2" />
+    <edge source="Copb2" target="Atr" />
+    <edge source="Copb2" target="Rbp1" />
+    <edge source="Copb2" target="Pls1" />
+    <edge source="Copb2" target="Sox14" />
+    <edge source="Copb2" target="Tmed3" />
+    <edge source="Copb2" target="1190002N15Rik" />
+    <edge source="Copb2" target="Mrps22" />
+    <edge source="Copb2" target="Snap91" />
+    <edge source="Copb2" target="Atp1b3" />
+    <edge source="Trpc1" target="Plscr2" />
+    <edge source="Trpc1" target="Cep70" />
+    <edge source="Trpc1" target="Zic4" />
+    <edge source="Trpc1" target="Plscr1" />
+    <edge source="Trpc1" target="Myo6" />
+    <edge source="Trpc1" target="Zic1" />
+    <edge source="Trpc1" target="Atp1b3" />
+    <edge source="Trpc1" target="Tpbg" />
+    <edge source="Me1" target="Bckdhb" />
+    <edge source="Slc25a36" target="Nmnat3" />
+    <edge source="Slc25a36" target="Snx14" />
+    <edge source="Slc25a36" target="U2surp" />
+    <edge source="Ttk" target="Bckdhb" />
+    <edge source="Phip" target="Rasa2" />
+    <edge source="Phip" target="U2surp" />
+    <edge source="Phip" target="Sh3bgrl2" />
+    <edge source="Phip" target="Senp6" />
+    <edge source="Atr" target="Morf4l1" />
+    <edge source="Atr" target="Dbr1" />
+    <edge source="Atr" target="Pls1" />
+    <edge source="Atr" target="Senp6" />
+    <edge source="Atr" target="Cyb5r4" />
+    <edge source="Atr" target="Snx14" />
+    <edge source="Atr" target="Tmem30a" />
+    <edge source="Atr" target="Mrps22" />
+    <edge source="Atr" target="Rnf7" />
+    <edge source="Atp1b3" target="Rbp1" />
+    <edge source="Atp1b3" target="Sox14" />
+    <edge source="Atp1b3" target="Rnf7" />
+    <edge source="Atp1b3" target="Chst2" />
+    <edge source="Bcl2a1d///Bcl2a1c///Bcl2a1b///Bcl2a1a" target="Tpbg" />
+    <edge source="Tpbg" target="Bcl2a1d///Bcl2a1b///Bcl2a1a" />
+    <edge source="Plscr2" target="Zic4" />
+    <edge source="Plscr2" target="Zic1" />
+    <edge source="Plscr2" target="Cyb5r4" />
+    <edge source="Plscr2" target="Adamts7" />
+    <edge source="Plscr2" target="Ctsh" />
+    <edge source="Plscr2" target="Plscr1" />
+    <edge source="Dbr1" target="Pls1" />
+    <edge source="Dbr1" target="U2surp" />
+    <edge source="Dbr1" target="Mrps22" />
+    <edge source="Dbr1" target="Faim" />
+    <edge source="Spsb4" target="Nmnat3" />
+    <edge source="Spsb4" target="Rnf7" />
+    <edge source="Rasa2" target="Impg1" />
+    <edge source="Rasa2" target="Mras" />
+    <edge source="Rasa2" target="Plscr1" />
+    <edge source="Ibtk" target="Rnf7" />
+    <edge source="Clstn2" target="Nmnat3" />
+    <edge source="Clstn2" target="Snap91" />
+    <edge source="Cyb5r4" target="Tmem30a" />
+    <edge source="Cyb5r4" target="Snx14" />
+    <edge source="Cyb5r4" target="Elovl4" />
+    <edge source="Cyb5r4" target="Plscr1" />
+    <edge source="Cyb5r4" target="Rnf7" />
+    <edge source="Tbx18" target="Snx14" />
+    <edge source="Zic1" target="Zic4" />
+    <edge source="Zic1" target="Plscr1" />
+    <edge source="Zic1" target="Snap91" />
+    <edge source="Ctsh" target="Myo6" />
+    <edge source="Ctsh" target="Adamts7" />
+    <edge source="Ctsh" target="Bcl2a1d///Bcl2a1b///Bcl2a1a" />
+    <edge source="Rnf7" target="Morf4l1" />
+    <edge source="Rnf7" target="Faim" />
+    <edge source="Rnf7" target="Rasgrf1" />
+    <edge source="Rasgrf1" target="Myo6" />
+    <edge source="Rasgrf1" target="Bckdhb" />
+    <edge source="Rasgrf1" target="Senp6" />
+    <edge source="Nt5e" target="Nmnat3" />
+    <edge source="Nt5e" target="Prss35" />
+    <edge source="Zic4" target="Plscr1" />
+    <edge source="Snap91" target="Pls1" />
+    <edge source="Snap91" target="Tmed3" />
+    <edge source="Snap91" target="1190002N15Rik" />
+    <edge source="U2surp" target="Senp6" />
+    <edge source="Morf4l1" target="Adamts7" />
+    <edge source="Morf4l1" target="Tmem30a" />
+    <edge source="Elovl4" target="Impg1" />
+    <edge source="Senp6" target="Myo6" />
+    <edge source="1190002N15Rik" target="Tmed3" />
+    <edge source="Htr1b" target="Myo6" />
+    <edge source="Pls1" target="Myo6" />
+    <edge source="Tmem30a" target="Snx14" />
+  </graph>
+</graphml>

@@ -1,0 +1,147 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <graph edgedefault="undirected">
+    <node id="Invs" />
+    <node id="Hemgn" />
+    <node id="Slc46a2" />
+    <node id="Fktn" />
+    <node id="Txn1" />
+    <node id="Musk" />
+    <node id="AI314180" />
+    <node id="Hsdl2" />
+    <node id="Stx17" />
+    <node id="Mrpl50" />
+    <node id="Actl7a" />
+    <node id="Alg2" />
+    <node id="Tmem245" />
+    <node id="Lpar1" />
+    <node id="Gng10" />
+    <node id="Tex10" />
+    <node id="Zfp189" />
+    <node id="Klf4" />
+    <node id="Ikbkap" />
+    <node id="Smc2" />
+    <node id="Aldob" />
+    <node id="Txndc8" />
+    <node id="Ptbp3" />
+    <node id="Tmod1" />
+    <node id="Toporsl" />
+    <node id="Tmem38b" />
+    <node id="Nans" />
+    <node id="Rnf20" />
+    <node id="Slc44a1" />
+    <node id="Ugcg" />
+    <node id="Acnat2" />
+    <node id="Tmeff1" />
+    <node id="Abca1" />
+    <node id="Snx30" />
+    <node id="Nipsnap3b" />
+    <node id="Tstd2" />
+    <node id="Col15a1" />
+    <node id="Tal2" />
+    <node id="Mup4" />
+    <node id="Ptgr1" />
+    <node id="Erp44" />
+    <node id="Baat" />
+    <node id="Rad23b" />
+    <node id="Anp32b" />
+    <node id="Murc" />
+    <node id="Nr4a3" />
+    <node id="Epb4.1l4b" />
+    <node id="Ctnnal1" />
+    <node id="Tdrd7" />
+    <node id="Sec61b" />
+    <node id="Coro2a" />
+    <edge source="Invs" target="Lpar1" />
+    <edge source="Invs" target="Tex10" />
+    <edge source="Invs" target="Stx17" />
+    <edge source="Invs" target="Hemgn" />
+    <edge source="Invs" target="AI314180" />
+    <edge source="Slc46a2" target="Tmem245" />
+    <edge source="Slc46a2" target="Mup4" />
+    <edge source="Slc46a2" target="Nipsnap3b" />
+    <edge source="Fktn" target="Tmod1" />
+    <edge source="Fktn" target="Tal2" />
+    <edge source="Fktn" target="Tmem38b" />
+    <edge source="Fktn" target="Musk" />
+    <edge source="Txn1" target="Abca1" />
+    <edge source="Txn1" target="Lpar1" />
+    <edge source="Txn1" target="Stx17" />
+    <edge source="Txn1" target="Actl7a" />
+    <edge source="Txn1" target="Erp44" />
+    <edge source="Txn1" target="Sec61b" />
+    <edge source="Txn1" target="Nans" />
+    <edge source="Txn1" target="Tmeff1" />
+    <edge source="Musk" target="Ptbp3" />
+    <edge source="AI314180" target="Rad23b" />
+    <edge source="AI314180" target="Ikbkap" />
+    <edge source="AI314180" target="Actl7a" />
+    <edge source="Hsdl2" target="Nans" />
+    <edge source="Hsdl2" target="Stx17" />
+    <edge source="Stx17" target="Abca1" />
+    <edge source="Stx17" target="Nr4a3" />
+    <edge source="Stx17" target="Snx30" />
+    <edge source="Stx17" target="Lpar1" />
+    <edge source="Stx17" target="Txndc8" />
+    <edge source="Mrpl50" target="Zfp189" />
+    <edge source="Mrpl50" target="Rad23b" />
+    <edge source="Actl7a" target="Zfp189" />
+    <edge source="Actl7a" target="Ikbkap" />
+    <edge source="Actl7a" target="Txndc8" />
+    <edge source="Actl7a" target="Aldob" />
+    <edge source="Actl7a" target="Ugcg" />
+    <edge source="Actl7a" target="Rad23b" />
+    <edge source="Actl7a" target="Alg2" />
+    <edge source="Actl7a" target="Abca1" />
+    <edge source="Actl7a" target="Ctnnal1" />
+    <edge source="Actl7a" target="Lpar1" />
+    <edge source="Actl7a" target="Coro2a" />
+    <edge source="Alg2" target="Slc44a1" />
+    <edge source="Alg2" target="Smc2" />
+    <edge source="Tmem245" target="Nipsnap3b" />
+    <edge source="Lpar1" target="Zfp189" />
+    <edge source="Lpar1" target="Nr4a3" />
+    <edge source="Lpar1" target="Rnf20" />
+    <edge source="Lpar1" target="Txndc8" />
+    <edge source="Gng10" target="Ctnnal1" />
+    <edge source="Tex10" target="Anp32b" />
+    <edge source="Tex10" target="Ikbkap" />
+    <edge source="Zfp189" target="Rad23b" />
+    <edge source="Klf4" target="Nr4a3" />
+    <edge source="Klf4" target="Epb4.1l4b" />
+    <edge source="Ikbkap" target="Rnf20" />
+    <edge source="Ikbkap" target="Rad23b" />
+    <edge source="Smc2" target="Nipsnap3b" />
+    <edge source="Smc2" target="Anp32b" />
+    <edge source="Smc2" target="Rad23b" />
+    <edge source="Aldob" target="Tmod1" />
+    <edge source="Aldob" target="Acnat2" />
+    <edge source="Aldob" target="Ptgr1" />
+    <edge source="Aldob" target="Col15a1" />
+    <edge source="Aldob" target="Baat" />
+    <edge source="Txndc8" target="Abca1" />
+    <edge source="Txndc8" target="Erp44" />
+    <edge source="Txndc8" target="Nans" />
+    <edge source="Ptbp3" target="Ugcg" />
+    <edge source="Ptbp3" target="Rad23b" />
+    <edge source="Tmod1" target="Anp32b" />
+    <edge source="Tmod1" target="Acnat2" />
+    <edge source="Tmod1" target="Ptgr1" />
+    <edge source="Tmod1" target="Tstd2" />
+    <edge source="Tmod1" target="Tdrd7" />
+    <edge source="Tmod1" target="Baat" />
+    <edge source="Tmod1" target="Murc" />
+    <edge source="Toporsl" target="Tdrd7" />
+    <edge source="Tmem38b" target="Tal2" />
+    <edge source="Nans" target="Sec61b" />
+    <edge source="Nans" target="Tmeff1" />
+    <edge source="Rnf20" target="Nipsnap3b" />
+    <edge source="Rnf20" target="Rad23b" />
+    <edge source="Ugcg" target="Ptgr1" />
+    <edge source="Abca1" target="Coro2a" />
+    <edge source="Nipsnap3b" target="Ptgr1" />
+    <edge source="Erp44" target="Epb4.1l4b" />
+    <edge source="Erp44" target="Coro2a" />
+    <edge source="Anp32b" target="Tdrd7" />
+  </graph>
+</graphml>

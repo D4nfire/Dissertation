@@ -39,12 +39,10 @@ def readFile(filePath):
 						topTwentyCountList[i] = temp_top_twenty_count
 					i = i + 1
 					
-	print (rankingDataList)
-	
 	num = len(rankingDataList)
 	i = 0
 	while (i < num):
-		temp_avg_value = float(rankingDataList[i]) / 38 # 38 for p-p, 40 for others
+		temp_avg_value = float(rankingDataList[i]) / 40 # 38 for p-p, 40 for others
 		rankingDataList[i] = temp_avg_value
 		i = i + 1
 		
@@ -80,12 +78,15 @@ def writeToFile(outputFile, rankingDataList, topTenCountList, topTwentyCountList
 		
 		this_file.close()
 
-rankingDataList = []
-filepath = ""
-outputFile = ""
+def main():
+	rankingDataList = []
+	filepath = ""
+	outputFile = ""
 
-filepath = input('Give the full file path: ')
-outputFile = input('What do you want to call the output file? ')	
+	filepath = input('Give the full file path: ')
+	outputFile = input('What do you want to call the output file? ')	
 
-rankingDataList, topTenCountList, topTwentyCountList = readFile(filepath);
-writeToFile(outputFile, rankingDataList, topTenCountList, topTwentyCountList);
+	rankingDataList, topTenCountList, topTwentyCountList = readFile(filepath);
+	writeToFile(outputFile, rankingDataList, topTenCountList, topTwentyCountList);
+
+main();

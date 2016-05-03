@@ -1,0 +1,103 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <graph edgedefault="undirected">
+    <node id="4930503B20Rik" />
+    <node id="Ctbs" />
+    <node id="St6galnac3" />
+    <node id="Lrrc40" />
+    <node id="Rpe65" />
+    <node id="Lphn2" />
+    <node id="Cryz" />
+    <node id="St6galnac5" />
+    <node id="Gipc2" />
+    <node id="Zranb2" />
+    <node id="Gng5" />
+    <node id="Rpf1" />
+    <node id="Negr1" />
+    <node id="Ak5" />
+    <node id="Srsf11" />
+    <node id="Acadm" />
+    <node id="Ptger3" />
+    <node id="Lrriq3" />
+    <node id="Uox" />
+    <node id="Zzz3" />
+    <node id="Tyw3" />
+    <node id="Dnase2b" />
+    <node id="Prkacb" />
+    <node id="Eltd1" />
+    <node id="Ifi44l" />
+    <node id="Lhx8" />
+    <node id="Dnajb4" />
+    <node id="Fpgt" />
+    <node id="Spata1" />
+    <node id="Tnni3k" />
+    <node id="Ifi44" />
+    <node id="Usp33" />
+    <node id="Fubp1" />
+    <node id="Rabggtb" />
+    <node id="Ttll7" />
+    <edge source="4930503B20Rik" target="Dnajb4" />
+    <edge source="Ctbs" target="Gng5" />
+    <edge source="Ctbs" target="Cryz" />
+    <edge source="Ctbs" target="Spata1" />
+    <edge source="St6galnac3" target="Gipc2" />
+    <edge source="St6galnac3" target="Eltd1" />
+    <edge source="Lrrc40" target="Tyw3" />
+    <edge source="Lrrc40" target="Rpe65" />
+    <edge source="Lrrc40" target="Rpf1" />
+    <edge source="Lrrc40" target="Srsf11" />
+    <edge source="Lrrc40" target="Usp33" />
+    <edge source="Lrrc40" target="Tnni3k" />
+    <edge source="Lrrc40" target="Prkacb" />
+    <edge source="Lrrc40" target="Zzz3" />
+    <edge source="Lrrc40" target="Fpgt" />
+    <edge source="Lrrc40" target="Zranb2" />
+    <edge source="Rpe65" target="Tnni3k" />
+    <edge source="Rpe65" target="Tyw3" />
+    <edge source="Rpe65" target="Rabggtb" />
+    <edge source="Rpe65" target="Fpgt" />
+    <edge source="Lphn2" target="Gng5" />
+    <edge source="Cryz" target="Tyw3" />
+    <edge source="Cryz" target="Acadm" />
+    <edge source="St6galnac5" target="Gipc2" />
+    <edge source="St6galnac5" target="Eltd1" />
+    <edge source="Gipc2" target="Eltd1" />
+    <edge source="Zranb2" target="Srsf11" />
+    <edge source="Zranb2" target="Usp33" />
+    <edge source="Zranb2" target="Rabggtb" />
+    <edge source="Zranb2" target="Fpgt" />
+    <edge source="Zranb2" target="Zzz3" />
+    <edge source="Gng5" target="Ptger3" />
+    <edge source="Gng5" target="Spata1" />
+    <edge source="Rpf1" target="Rabggtb" />
+    <edge source="Negr1" target="Ttll7" />
+    <edge source="Ak5" target="Dnase2b" />
+    <edge source="Ak5" target="Ttll7" />
+    <edge source="Srsf11" target="Tyw3" />
+    <edge source="Srsf11" target="Tnni3k" />
+    <edge source="Srsf11" target="Usp33" />
+    <edge source="Srsf11" target="Zzz3" />
+    <edge source="Srsf11" target="Fpgt" />
+    <edge source="Acadm" target="Tyw3" />
+    <edge source="Acadm" target="Usp33" />
+    <edge source="Acadm" target="Rabggtb" />
+    <edge source="Lrriq3" target="Tnni3k" />
+    <edge source="Lrriq3" target="Prkacb" />
+    <edge source="Lrriq3" target="Fpgt" />
+    <edge source="Uox" target="Dnase2b" />
+    <edge source="Zzz3" target="Usp33" />
+    <edge source="Zzz3" target="Rabggtb" />
+    <edge source="Zzz3" target="Fpgt" />
+    <edge source="Tyw3" target="Tnni3k" />
+    <edge source="Tyw3" target="Fpgt" />
+    <edge source="Dnase2b" target="Dnajb4" />
+    <edge source="Prkacb" target="Usp33" />
+    <edge source="Prkacb" target="Ttll7" />
+    <edge source="Eltd1" target="Lhx8" />
+    <edge source="Ifi44l" target="Ifi44" />
+    <edge source="Lhx8" target="Tnni3k" />
+    <edge source="Fpgt" target="Tnni3k" />
+    <edge source="Fpgt" target="Usp33" />
+    <edge source="Fpgt" target="Fubp1" />
+  </graph>
+</graphml>

@@ -1,0 +1,125 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <graph edgedefault="undirected">
+    <node id="Hemk1" />
+    <node id="Rbm5" />
+    <node id="Tusc2" />
+    <node id="Cacna2d2" />
+    <node id="Mst1r" />
+    <node id="Usp4" />
+    <node id="Camkv" />
+    <node id="Lamb2" />
+    <node id="Tcta" />
+    <node id="Mst1" />
+    <node id="Nat6///Hyal1" />
+    <node id="Sema3f" />
+    <node id="Cish" />
+    <node id="Rnf123" />
+    <node id="Slc38a3" />
+    <node id="Gpx1" />
+    <node id="Gnai2" />
+    <node id="Bsn" />
+    <node id="Rbm6" />
+    <node id="Cyb561d2" />
+    <node id="Qrich1" />
+    <node id="Dag1" />
+    <node id="Hyal3" />
+    <node id="Sema3b" />
+    <node id="Qars" />
+    <node id="Usp19" />
+    <node id="Uba7" />
+    <node id="Zmynd10" />
+    <node id="Actl11" />
+    <node id="Apeh" />
+    <node id="Rhoa" />
+    <node id="Nprl2" />
+    <node id="Tmem115" />
+    <node id="Ifrd2" />
+    <node id="Gnat1" />
+    <edge source="Hemk1" target="Apeh" />
+    <edge source="Hemk1" target="Qars" />
+    <edge source="Hemk1" target="Nprl2" />
+    <edge source="Hemk1" target="Uba7" />
+    <edge source="Hemk1" target="Cish" />
+    <edge source="Rbm5" target="Rbm6" />
+    <edge source="Rbm5" target="Sema3b" />
+    <edge source="Rbm5" target="Qrich1" />
+    <edge source="Tusc2" target="Cyb561d2" />
+    <edge source="Tusc2" target="Tmem115" />
+    <edge source="Tusc2" target="Tcta" />
+    <edge source="Tusc2" target="Ifrd2" />
+    <edge source="Tusc2" target="Lamb2" />
+    <edge source="Tusc2" target="Nprl2" />
+    <edge source="Tusc2" target="Cacna2d2" />
+    <edge source="Tusc2" target="Sema3b" />
+    <edge source="Tusc2" target="Nat6///Hyal1" />
+    <edge source="Tusc2" target="Zmynd10" />
+    <edge source="Tusc2" target="Mst1r" />
+    <edge source="Cacna2d2" target="Rbm6" />
+    <edge source="Cacna2d2" target="Cyb561d2" />
+    <edge source="Cacna2d2" target="Mst1r" />
+    <edge source="Cacna2d2" target="Sema3f" />
+    <edge source="Cacna2d2" target="Nprl2" />
+    <edge source="Cacna2d2" target="Sema3b" />
+    <edge source="Cacna2d2" target="Zmynd10" />
+    <edge source="Cacna2d2" target="Gnat1" />
+    <edge source="Mst1r" target="Mst1" />
+    <edge source="Mst1r" target="Rbm6" />
+    <edge source="Mst1r" target="Cyb561d2" />
+    <edge source="Mst1r" target="Sema3f" />
+    <edge source="Mst1r" target="Nprl2" />
+    <edge source="Mst1r" target="Sema3b" />
+    <edge source="Mst1r" target="Ifrd2" />
+    <edge source="Usp4" target="Lamb2" />
+    <edge source="Usp4" target="Gnat1" />
+    <edge source="Usp4" target="Usp19" />
+    <edge source="Camkv" target="Actl11" />
+    <edge source="Lamb2" target="Sema3b" />
+    <edge source="Lamb2" target="Dag1" />
+    <edge source="Lamb2" target="Usp19" />
+    <edge source="Tcta" target="Dag1" />
+    <edge source="Mst1" target="Rhoa" />
+    <edge source="Mst1" target="Sema3b" />
+    <edge source="Mst1" target="Ifrd2" />
+    <edge source="Mst1" target="Nat6///Hyal1" />
+    <edge source="Mst1" target="Sema3f" />
+    <edge source="Mst1" target="Gpx1" />
+    <edge source="Nat6///Hyal1" target="Rbm6" />
+    <edge source="Nat6///Hyal1" target="Cyb561d2" />
+    <edge source="Nat6///Hyal1" target="Sema3b" />
+    <edge source="Nat6///Hyal1" target="Tmem115" />
+    <edge source="Nat6///Hyal1" target="Nprl2" />
+    <edge source="Nat6///Hyal1" target="Ifrd2" />
+    <edge source="Sema3f" target="Rbm6" />
+    <edge source="Sema3f" target="Cyb561d2" />
+    <edge source="Sema3f" target="Nprl2" />
+    <edge source="Sema3f" target="Ifrd2" />
+    <edge source="Sema3f" target="Gnat1" />
+    <edge source="Cish" target="Bsn" />
+    <edge source="Rnf123" target="Usp19" />
+    <edge source="Slc38a3" target="Nprl2" />
+    <edge source="Slc38a3" target="Cyb561d2" />
+    <edge source="Gnai2" target="Gnat1" />
+    <edge source="Rbm6" target="Qrich1" />
+    <edge source="Rbm6" target="Sema3b" />
+    <edge source="Rbm6" target="Cyb561d2" />
+    <edge source="Rbm6" target="Ifrd2" />
+    <edge source="Cyb561d2" target="Sema3b" />
+    <edge source="Cyb561d2" target="Zmynd10" />
+    <edge source="Cyb561d2" target="Nprl2" />
+    <edge source="Cyb561d2" target="Tmem115" />
+    <edge source="Cyb561d2" target="Ifrd2" />
+    <edge source="Dag1" target="Actl11" />
+    <edge source="Hyal3" target="Sema3b" />
+    <edge source="Sema3b" target="Ifrd2" />
+    <edge source="Sema3b" target="Nprl2" />
+    <edge source="Sema3b" target="Gnat1" />
+    <edge source="Qars" target="Uba7" />
+    <edge source="Usp19" target="Gnat1" />
+    <edge source="Zmynd10" target="Nprl2" />
+    <edge source="Apeh" target="Nprl2" />
+    <edge source="Rhoa" target="Gnat1" />
+    <edge source="Nprl2" target="Tmem115" />
+    <edge source="Nprl2" target="Ifrd2" />
+  </graph>
+</graphml>

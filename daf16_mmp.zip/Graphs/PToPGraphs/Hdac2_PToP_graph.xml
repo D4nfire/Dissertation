@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <graph edgedefault="undirected">
+    <node id="Hs3st5///Apba3" />
+    <node id="Mical1" />
+    <node id="Tspyl1" />
+    <node id="Fam26f" />
+    <node id="Rsph4a" />
+    <node id="Frk" />
+    <node id="Cdc40" />
+    <node id="Nt5dc1" />
+    <node id="Slc22a16" />
+    <node id="Clvs2" />
+    <node id="Tube1" />
+    <node id="Zufsp" />
+    <node id="Smpd2" />
+    <node id="Rev3l" />
+    <node id="Ppil6" />
+    <node id="Fyn" />
+    <node id="Zbtb24" />
+    <node id="Rpf2" />
+    <node id="Rwdd1" />
+    <node id="Fig4" />
+    <node id="Tspyl4" />
+    <node id="Wasf1" />
+    <node id="Hdac2" />
+    <node id="Sult3a1" />
+    <node id="Amd1" />
+    <node id="Wisp3" />
+    <node id="Gtf3c6" />
+    <node id="Cdk19" />
+    <node id="Col10a1" />
+    <edge source="Hs3st5///Apba3" target="Sult3a1" />
+    <edge source="Mical1" target="Fyn" />
+    <edge source="Mical1" target="Tube1" />
+    <edge source="Mical1" target="Rev3l" />
+    <edge source="Tspyl1" target="Zbtb24" />
+    <edge source="Tspyl1" target="Nt5dc1" />
+    <edge source="Tspyl1" target="Col10a1" />
+    <edge source="Tspyl1" target="Rpf2" />
+    <edge source="Fam26f" target="Fyn" />
+    <edge source="Fam26f" target="Zufsp" />
+    <edge source="Rsph4a" target="Sult3a1" />
+    <edge source="Frk" target="Zbtb24" />
+    <edge source="Frk" target="Ppil6" />
+    <edge source="Cdc40" target="Ppil6" />
+    <edge source="Cdc40" target="Zufsp" />
+    <edge source="Cdc40" target="Tube1" />
+    <edge source="Cdc40" target="Wasf1" />
+    <edge source="Cdc40" target="Rpf2" />
+    <edge source="Nt5dc1" target="Col10a1" />
+    <edge source="Slc22a16" target="Amd1" />
+    <edge source="Slc22a16" target="Clvs2" />
+    <edge source="Clvs2" target="Hdac2" />
+    <edge source="Clvs2" target="Fig4" />
+    <edge source="Tube1" target="Wisp3" />
+    <edge source="Smpd2" target="Fyn" />
+    <edge source="Fyn" target="Fig4" />
+    <edge source="Zbtb24" target="Cdk19" />
+    <edge source="Zbtb24" target="Tspyl4" />
+    <edge source="Rpf2" target="Rwdd1" />
+    <edge source="Rpf2" target="Gtf3c6" />
+    <edge source="Rpf2" target="Tspyl4" />
+    <edge source="Amd1" target="Cdk19" />
+    <edge source="Wisp3" target="Col10a1" />
+  </graph>
+</graphml>

@@ -1,0 +1,178 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <graph edgedefault="undirected">
+    <node id="Hcn3" />
+    <node id="Mtx1" />
+    <node id="Ssr2" />
+    <node id="Nes" />
+    <node id="Fam189b" />
+    <node id="Thbs3" />
+    <node id="Pmf1" />
+    <node id="Insrr" />
+    <node id="Gon4l" />
+    <node id="Scamp3" />
+    <node id="Slc25a44" />
+    <node id="Msto1" />
+    <node id="Lamtor2" />
+    <node id="Mef2d" />
+    <node id="Rit1" />
+    <node id="Adam15" />
+    <node id="Apoa1bp" />
+    <node id="Mrpl24" />
+    <node id="Gba" />
+    <node id="Glmp" />
+    <node id="Efna4" />
+    <node id="Hdgf" />
+    <node id="Iqgap3" />
+    <node id="Fdps" />
+    <node id="Slc50a1" />
+    <node id="2810403A07Rik" />
+    <node id="Rab25" />
+    <node id="1500004A13Rik" />
+    <node id="Trim46" />
+    <node id="Tmem79" />
+    <node id="Ubqln4" />
+    <node id="Efna3" />
+    <node id="Pklr" />
+    <node id="Rusc1" />
+    <node id="Lmna" />
+    <node id="Gpatch4" />
+    <node id="Rrnad1" />
+    <node id="Ash1l" />
+    <node id="Dap3" />
+    <node id="Sh2d2a" />
+    <node id="Krtcap2" />
+    <node id="Pear1" />
+    <node id="Cct3" />
+    <node id="Efna1" />
+    <node id="Sema4a" />
+    <node id="Arhgef2" />
+    <node id="Clk2" />
+    <node id="Prcc" />
+    <node id="Smg5" />
+    <edge source="Hcn3" target="Mrpl24" />
+    <edge source="Hcn3" target="Slc25a44" />
+    <edge source="Hcn3" target="Ubqln4" />
+    <edge source="Hcn3" target="Msto1" />
+    <edge source="Mtx1" target="1500004A13Rik" />
+    <edge source="Mtx1" target="Mrpl24" />
+    <edge source="Mtx1" target="Ssr2" />
+    <edge source="Mtx1" target="Slc25a44" />
+    <edge source="Mtx1" target="Thbs3" />
+    <edge source="Mtx1" target="Ubqln4" />
+    <edge source="Mtx1" target="Trim46" />
+    <edge source="Mtx1" target="Msto1" />
+    <edge source="Ssr2" target="Scamp3" />
+    <edge source="Ssr2" target="Rit1" />
+    <edge source="Ssr2" target="Krtcap2" />
+    <edge source="Ssr2" target="Lmna" />
+    <edge source="Ssr2" target="Ubqln4" />
+    <edge source="Ssr2" target="Cct3" />
+    <edge source="Ssr2" target="Slc50a1" />
+    <edge source="Ssr2" target="Glmp" />
+    <edge source="Nes" target="Pklr" />
+    <edge source="Fam189b" target="Thbs3" />
+    <edge source="Thbs3" target="Adam15" />
+    <edge source="Thbs3" target="Prcc" />
+    <edge source="Thbs3" target="Scamp3" />
+    <edge source="Thbs3" target="Pear1" />
+    <edge source="Thbs3" target="Gba" />
+    <edge source="Pmf1" target="Arhgef2" />
+    <edge source="Pmf1" target="Hdgf" />
+    <edge source="Insrr" target="Pklr" />
+    <edge source="Insrr" target="Rit1" />
+    <edge source="Insrr" target="Sh2d2a" />
+    <edge source="Insrr" target="Cct3" />
+    <edge source="Insrr" target="Rab25" />
+    <edge source="Insrr" target="Ash1l" />
+    <edge source="Gon4l" target="Ubqln4" />
+    <edge source="Gon4l" target="Ash1l" />
+    <edge source="Scamp3" target="Clk2" />
+    <edge source="Scamp3" target="Krtcap2" />
+    <edge source="Scamp3" target="Glmp" />
+    <edge source="Scamp3" target="Trim46" />
+    <edge source="Scamp3" target="Apoa1bp" />
+    <edge source="Scamp3" target="Ubqln4" />
+    <edge source="Scamp3" target="1500004A13Rik" />
+    <edge source="Slc25a44" target="Mrpl24" />
+    <edge source="Slc25a44" target="1500004A13Rik" />
+    <edge source="Slc25a44" target="Ubqln4" />
+    <edge source="Msto1" target="Cct3" />
+    <edge source="Lamtor2" target="Mrpl24" />
+    <edge source="Lamtor2" target="Ubqln4" />
+    <edge source="Lamtor2" target="Apoa1bp" />
+    <edge source="Mef2d" target="Cct3" />
+    <edge source="Mef2d" target="1500004A13Rik" />
+    <edge source="Mef2d" target="Ubqln4" />
+    <edge source="Mef2d" target="Ash1l" />
+    <edge source="Rit1" target="Arhgef2" />
+    <edge source="Rit1" target="Slc50a1" />
+    <edge source="Rit1" target="Sh2d2a" />
+    <edge source="Rit1" target="Efna4" />
+    <edge source="Rit1" target="Pear1" />
+    <edge source="Rit1" target="Efna1" />
+    <edge source="Rit1" target="Efna3" />
+    <edge source="Rit1" target="Iqgap3" />
+    <edge source="Rit1" target="Rusc1" />
+    <edge source="Rit1" target="Rab25" />
+    <edge source="Rit1" target="Ash1l" />
+    <edge source="Adam15" target="Efna4" />
+    <edge source="Apoa1bp" target="Pklr" />
+    <edge source="Apoa1bp" target="Krtcap2" />
+    <edge source="Apoa1bp" target="Mrpl24" />
+    <edge source="Apoa1bp" target="Cct3" />
+    <edge source="Apoa1bp" target="Slc50a1" />
+    <edge source="Apoa1bp" target="Glmp" />
+    <edge source="Mrpl24" target="Dap3" />
+    <edge source="Mrpl24" target="1500004A13Rik" />
+    <edge source="Mrpl24" target="Ubqln4" />
+    <edge source="Mrpl24" target="Cct3" />
+    <edge source="Mrpl24" target="Prcc" />
+    <edge source="Efna4" target="Arhgef2" />
+    <edge source="Efna4" target="Pklr" />
+    <edge source="Efna4" target="Clk2" />
+    <edge source="Efna4" target="Efna1" />
+    <edge source="Efna4" target="Sema4a" />
+    <edge source="Efna4" target="Rab25" />
+    <edge source="Efna4" target="Ash1l" />
+    <edge source="Hdgf" target="Cct3" />
+    <edge source="Hdgf" target="Ubqln4" />
+    <edge source="Iqgap3" target="Arhgef2" />
+    <edge source="Iqgap3" target="Ubqln4" />
+    <edge source="Iqgap3" target="Rab25" />
+    <edge source="Fdps" target="Cct3" />
+    <edge source="Fdps" target="Ubqln4" />
+    <edge source="2810403A07Rik" target="Clk2" />
+    <edge source="2810403A07Rik" target="Ash1l" />
+    <edge source="Rab25" target="Efna3" />
+    <edge source="Rab25" target="Efna1" />
+    <edge source="Rab25" target="Ash1l" />
+    <edge source="1500004A13Rik" target="Ubqln4" />
+    <edge source="Tmem79" target="Smg5" />
+    <edge source="Ubqln4" target="Dap3" />
+    <edge source="Ubqln4" target="Rusc1" />
+    <edge source="Ubqln4" target="Cct3" />
+    <edge source="Ubqln4" target="Pklr" />
+    <edge source="Ubqln4" target="Lmna" />
+    <edge source="Ubqln4" target="Efna1" />
+    <edge source="Ubqln4" target="Ash1l" />
+    <edge source="Efna3" target="Pklr" />
+    <edge source="Efna3" target="Sema4a" />
+    <edge source="Efna3" target="Ash1l" />
+    <edge source="Pklr" target="Efna1" />
+    <edge source="Pklr" target="Cct3" />
+    <edge source="Rusc1" target="Cct3" />
+    <edge source="Lmna" target="Arhgef2" />
+    <edge source="Lmna" target="Cct3" />
+    <edge source="Gpatch4" target="Cct3" />
+    <edge source="Rrnad1" target="Clk2" />
+    <edge source="Ash1l" target="Arhgef2" />
+    <edge source="Ash1l" target="Efna1" />
+    <edge source="Dap3" target="Cct3" />
+    <edge source="Pear1" target="Arhgef2" />
+    <edge source="Cct3" target="Efna1" />
+    <edge source="Efna1" target="Clk2" />
+    <edge source="Efna1" target="Sema4a" />
+    <edge source="Arhgef2" target="Clk2" />
+  </graph>
+</graphml>

@@ -1,0 +1,102 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <graph edgedefault="undirected">
+    <node id="Wasl" />
+    <node id="Wnt2" />
+    <node id="Ppp1r3a" />
+    <node id="Tfec" />
+    <node id="Fezf1" />
+    <node id="Rnf148" />
+    <node id="Asz1" />
+    <node id="Ndufa5" />
+    <node id="Asb15" />
+    <node id="Ankrd7" />
+    <node id="Phf14" />
+    <node id="Capza2" />
+    <node id="Ing3" />
+    <node id="Lmod2" />
+    <node id="Kcnd2" />
+    <node id="Tmem168" />
+    <node id="Fam3c" />
+    <node id="Cadps2" />
+    <node id="Tmem106b" />
+    <node id="Aass" />
+    <node id="Lsm8" />
+    <node id="St7" />
+    <node id="Mdfic" />
+    <node id="Ndufa4" />
+    <node id="B630005N14Rik" />
+    <node id="Cftr" />
+    <node id="Cav2" />
+    <node id="Cav1" />
+    <node id="Hyal5" />
+    <node id="Wnt16" />
+    <node id="Gpr85" />
+    <node id="Spam1" />
+    <node id="Rnf133" />
+    <node id="Cped1" />
+    <node id="Ptprz1" />
+    <node id="Slc13a1" />
+    <node id="Foxp2" />
+    <edge source="Wasl" target="Capza2" />
+    <edge source="Wasl" target="Lsm8" />
+    <edge source="Wnt2" target="Cav2" />
+    <edge source="Wnt2" target="Wnt16" />
+    <edge source="Wnt2" target="St7" />
+    <edge source="Wnt2" target="Asz1" />
+    <edge source="Wnt2" target="Tfec" />
+    <edge source="Wnt2" target="Foxp2" />
+    <edge source="Ppp1r3a" target="Lmod2" />
+    <edge source="Tfec" target="Fezf1" />
+    <edge source="Tfec" target="Ankrd7" />
+    <edge source="Tfec" target="Asz1" />
+    <edge source="Tfec" target="Gpr85" />
+    <edge source="Tfec" target="Ing3" />
+    <edge source="Tfec" target="Asb15" />
+    <edge source="Tfec" target="Mdfic" />
+    <edge source="Tfec" target="Foxp2" />
+    <edge source="Tfec" target="St7" />
+    <edge source="Fezf1" target="Cadps2" />
+    <edge source="Fezf1" target="Cftr" />
+    <edge source="Fezf1" target="Rnf133" />
+    <edge source="Fezf1" target="Rnf148" />
+    <edge source="Fezf1" target="Foxp2" />
+    <edge source="Rnf148" target="Cadps2" />
+    <edge source="Asz1" target="Cav2" />
+    <edge source="Asz1" target="Ankrd7" />
+    <edge source="Asz1" target="Slc13a1" />
+    <edge source="Asz1" target="St7" />
+    <edge source="Ndufa5" target="Ndufa4" />
+    <edge source="Ndufa5" target="Lsm8" />
+    <edge source="Asb15" target="Slc13a1" />
+    <edge source="Ankrd7" target="Slc13a1" />
+    <edge source="Phf14" target="Ndufa4" />
+    <edge source="Phf14" target="Ing3" />
+    <edge source="Ing3" target="Ptprz1" />
+    <edge source="Lmod2" target="Cav1" />
+    <edge source="Kcnd2" target="Fam3c" />
+    <edge source="Kcnd2" target="Cadps2" />
+    <edge source="Kcnd2" target="Cav1" />
+    <edge source="Kcnd2" target="Ptprz1" />
+    <edge source="Tmem168" target="B630005N14Rik" />
+    <edge source="Fam3c" target="Cped1" />
+    <edge source="Fam3c" target="Wnt16" />
+    <edge source="Fam3c" target="Cadps2" />
+    <edge source="Cadps2" target="Gpr85" />
+    <edge source="Cadps2" target="Rnf133" />
+    <edge source="Cadps2" target="Ptprz1" />
+    <edge source="Cadps2" target="Foxp2" />
+    <edge source="Tmem106b" target="B630005N14Rik" />
+    <edge source="Tmem106b" target="Gpr85" />
+    <edge source="Aass" target="Ndufa4" />
+    <edge source="St7" target="Cav2" />
+    <edge source="St7" target="Foxp2" />
+    <edge source="St7" target="Slc13a1" />
+    <edge source="Mdfic" target="Foxp2" />
+    <edge source="Cav2" target="Cav1" />
+    <edge source="Cav2" target="Spam1" />
+    <edge source="Hyal5" target="Spam1" />
+    <edge source="Wnt16" target="Cped1" />
+    <edge source="Rnf133" target="Foxp2" />
+  </graph>
+</graphml>

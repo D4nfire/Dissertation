@@ -58,15 +58,6 @@ def readFile():
 			elif (line == '\n'):	
 				geneList.append(goList)
 	return geneList
-
-# add each gene to another list for later use
-def createList(geneList):
-	gene_ex_r = []
-	i = 0
-	while (i < len(geneList)):
-		gene_ex_r.append(geneList[i])
-		i = i + 2
-	return gene_ex_r
 	
 def makeGraph(geneList):
 	G = nx.Graph()
@@ -118,9 +109,10 @@ def connectGraph(G, geneList):
 # to do the rest of the algorithm, the ex values here
 # are randomly generated floats from -4 to +4. This
 # is put into a list in the form of gene, ex, gene, ex etc
-def AddEx(gene_ex_r):
+def RandGenerateEx(geneList):
 	i = 0
-	numGenes = len(gene_ex_r) # The number of genes
+	gene_ex_r = []
+	numGenes = len(geneList) # The number of genes
 	num = numGenes*2
 	while (i < num):
 		temp_ex = random.uniform(-4.0, 4.0)
@@ -168,7 +160,7 @@ def addInitialRanking(gene_ex_r, sumOfEx):
 	return gene_ex_r
 	#print("done") # to show me this part is finished
 
-def addSumOf(gene_ex_r):
+def addSumOfConnection(gene_ex_r):
 	sumOfConnection = 0 # saves time later
 	numGenes = len(gene_ex_r)
 	num2 = numGenes*1.25
@@ -183,7 +175,7 @@ def addSumOf(gene_ex_r):
 
 # Run num3 iterations, updating every genes rank
 # per iteration
-def geneRank(gene_ex_r):
+def geneRank(gene_ex_r, G):
 	rankComparisonList = []
 	tempRankList = []
 	num3 = len(gene_ex_r)
@@ -196,18 +188,7 @@ def geneRank(gene_ex_r):
 	rank = 0
 	count = 0
 	converged = False
-	while ((i < num3) and (converged != True)):
-	#while (converged != True):
-		# if all genes are compared to all others and it still
-		# hasn't converged then start again with the first gene
-		#if (i >= len(gene_ex_r)):
-		#	i = 0
-		#if (count == 0):
-		#	rankComparisonList = []
-		#	count = count + 1
-		#else:
-		#	rankComparisonList.append(tempRankList)
-		#	tempRankList = [] # resets the list
+	while (i < num3)
 		while (j < num4):
 			if (i != j):
 				# If the two genes are connected, hasEdge = 1
@@ -231,17 +212,11 @@ def geneRank(gene_ex_r):
 				gene_ex_r[j+3] = rank	# update the ranking		# i iterations
 				connectionValue = 0  # Resets the value as a precaution
 				tempRankList.append(rank)
-				if (count <= 1): 
-					converged = False
-				else:
-					if(bool(set(rankComparisonList[k]) & set(rankComparisonList[k-1]))):
-						converged = True
 			j = j + 5
 		i = i + 5
 		j = 0
 		k = k + 1
 	#print (gene_ex_r) 	# gene, expression value, normalised ex value, rank, sumOf, etc...
-	print ("The algorithm converged:" , converged , "after" , k , "itterations")
 	return gene_ex_r
 
 def sortAndPrintRanking(gene_ex_r):
@@ -265,14 +240,16 @@ def sortAndPrintRanking(gene_ex_r):
 	while (i < num6):
 		print(rankedList[i][0] , " is ranked: " , i+1, " with a ranking value of: ", rankedList[i][1])
 		i = i + 1
-		
-geneList = readFile();
-gene_ex_r = createList(geneList);
-G = makeGraph(geneList);
-G = connectGraph(G, geneList);
-gene_ex_r = AddEx(gene_ex_r);
-sumOfEx = sumOfEx(gene_ex_r);
-gene_ex_r = addInitialRanking(gene_ex_r, sumOfEx);
-gene_ex_r = addSumOf(gene_ex_r);
-gene_ex_r = geneRank(gene_ex_r);
-sortAndPrintRanking(gene_ex_r);
+	
+def main():	
+	geneList = readFile();
+	G = makeGraph(geneList);
+	G = connectGraph(G, geneList);
+	gene_ex_r = RandGenerateEx(geneList);
+	sumOfEx = sumOfEx(gene_ex_r);
+	gene_ex_r = addInitialRanking(gene_ex_r, sumOfEx);
+	gene_ex_r = addSumOfConnection(gene_ex_r);
+	gene_ex_r = geneRank(gene_ex_r, G);
+	sortAndPrintRanking(gene_ex_r);
+	
+main();

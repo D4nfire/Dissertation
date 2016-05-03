@@ -1,0 +1,159 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <graph edgedefault="undirected">
+    <node id="Fbxo11" />
+    <node id="Ston1" />
+    <node id="Kcnk12" />
+    <node id="Mcfd2" />
+    <node id="Pigf" />
+    <node id="Atp6v1e2" />
+    <node id="Epas1" />
+    <node id="Gtf2a1l" />
+    <node id="Foxn2" />
+    <node id="Calm2" />
+    <node id="Prepl" />
+    <node id="Cript" />
+    <node id="Dync2li1" />
+    <node id="Lhcgr" />
+    <node id="Msh2" />
+    <node id="Pkdcc" />
+    <node id="Fshr" />
+    <node id="Slc3a1" />
+    <node id="Camkmt" />
+    <node id="Six2" />
+    <node id="Plekhh2" />
+    <node id="Haao" />
+    <node id="Srbd1" />
+    <node id="Epcam" />
+    <node id="Slc8a1" />
+    <node id="Ppm1b" />
+    <node id="1700011E24Rik" />
+    <node id="Nrxn1" />
+    <node id="Abcg8" />
+    <node id="Mta3" />
+    <node id="Ttc7" />
+    <node id="Cox7a2l" />
+    <node id="Six3" />
+    <node id="Socs5" />
+    <node id="Msh6" />
+    <node id="Lrpprc" />
+    <node id="Rhoq" />
+    <node id="Abcg5" />
+    <node id="Thada" />
+    <node id="Prkce" />
+    <edge source="Fbxo11" target="Msh6" />
+    <edge source="Fbxo11" target="Socs5" />
+    <edge source="Fbxo11" target="Foxn2" />
+    <edge source="Ston1" target="Gtf2a1l" />
+    <edge source="Ston1" target="Thada" />
+    <edge source="Ston1" target="Lhcgr" />
+    <edge source="Kcnk12" target="Fshr" />
+    <edge source="Kcnk12" target="Nrxn1" />
+    <edge source="Kcnk12" target="Foxn2" />
+    <edge source="Kcnk12" target="Lhcgr" />
+    <edge source="Mcfd2" target="Socs5" />
+    <edge source="Mcfd2" target="Calm2" />
+    <edge source="Mcfd2" target="Dync2li1" />
+    <edge source="Mcfd2" target="Ppm1b" />
+    <edge source="Mcfd2" target="Lrpprc" />
+    <edge source="Mcfd2" target="Thada" />
+    <edge source="Mcfd2" target="Cript" />
+    <edge source="Mcfd2" target="Ttc7" />
+    <edge source="Mcfd2" target="Plekhh2" />
+    <edge source="Pigf" target="Pkdcc" />
+    <edge source="Pigf" target="Calm2" />
+    <edge source="Pigf" target="Ppm1b" />
+    <edge source="Pigf" target="Foxn2" />
+    <edge source="Pigf" target="Prkce" />
+    <edge source="Atp6v1e2" target="Slc8a1" />
+    <edge source="Epas1" target="Msh6" />
+    <edge source="Gtf2a1l" target="1700011E24Rik" />
+    <edge source="Gtf2a1l" target="Thada" />
+    <edge source="Gtf2a1l" target="Lhcgr" />
+    <edge source="Foxn2" target="Calm2" />
+    <edge source="Foxn2" target="Epcam" />
+    <edge source="Foxn2" target="Lhcgr" />
+    <edge source="Foxn2" target="Six2" />
+    <edge source="Foxn2" target="Fshr" />
+    <edge source="Foxn2" target="Prkce" />
+    <edge source="Calm2" target="Ppm1b" />
+    <edge source="Calm2" target="Socs5" />
+    <edge source="Calm2" target="Dync2li1" />
+    <edge source="Calm2" target="Mta3" />
+    <edge source="Calm2" target="Cript" />
+    <edge source="Calm2" target="Ttc7" />
+    <edge source="Calm2" target="Pkdcc" />
+    <edge source="Calm2" target="Lrpprc" />
+    <edge source="Calm2" target="Plekhh2" />
+    <edge source="Calm2" target="Thada" />
+    <edge source="Calm2" target="Prkce" />
+    <edge source="Prepl" target="Ppm1b" />
+    <edge source="Prepl" target="Lhcgr" />
+    <edge source="Prepl" target="Lrpprc" />
+    <edge source="Prepl" target="Fshr" />
+    <edge source="Prepl" target="Slc3a1" />
+    <edge source="Prepl" target="Camkmt" />
+    <edge source="Cript" target="Thada" />
+    <edge source="Cript" target="Ttc7" />
+    <edge source="Cript" target="Plekhh2" />
+    <edge source="Dync2li1" target="Ppm1b" />
+    <edge source="Dync2li1" target="Abcg5" />
+    <edge source="Dync2li1" target="Lrpprc" />
+    <edge source="Dync2li1" target="Thada" />
+    <edge source="Dync2li1" target="Plekhh2" />
+    <edge source="Lhcgr" target="Thada" />
+    <edge source="Lhcgr" target="Fshr" />
+    <edge source="Msh2" target="Epcam" />
+    <edge source="Msh2" target="Msh6" />
+    <edge source="Pkdcc" target="Ppm1b" />
+    <edge source="Pkdcc" target="Rhoq" />
+    <edge source="Pkdcc" target="Abcg5" />
+    <edge source="Pkdcc" target="Slc3a1" />
+    <edge source="Pkdcc" target="Abcg8" />
+    <edge source="Pkdcc" target="Prkce" />
+    <edge source="Slc3a1" target="Haao" />
+    <edge source="Slc3a1" target="Srbd1" />
+    <edge source="Slc3a1" target="Ppm1b" />
+    <edge source="Slc3a1" target="Thada" />
+    <edge source="Slc3a1" target="Abcg8" />
+    <edge source="Slc3a1" target="Mta3" />
+    <edge source="Slc3a1" target="Abcg5" />
+    <edge source="Slc3a1" target="Prkce" />
+    <edge source="Slc3a1" target="Camkmt" />
+    <edge source="Slc3a1" target="Plekhh2" />
+    <edge source="Camkmt" target="Ppm1b" />
+    <edge source="Six2" target="Six3" />
+    <edge source="Plekhh2" target="Ttc7" />
+    <edge source="Plekhh2" target="Ppm1b" />
+    <edge source="Plekhh2" target="Lrpprc" />
+    <edge source="Plekhh2" target="Thada" />
+    <edge source="Plekhh2" target="Socs5" />
+    <edge source="Plekhh2" target="Mta3" />
+    <edge source="Haao" target="Srbd1" />
+    <edge source="Haao" target="Thada" />
+    <edge source="Haao" target="Mta3" />
+    <edge source="Srbd1" target="Nrxn1" />
+    <edge source="Srbd1" target="Msh6" />
+    <edge source="Srbd1" target="Abcg5" />
+    <edge source="Srbd1" target="Thada" />
+    <edge source="Srbd1" target="Mta3" />
+    <edge source="Srbd1" target="Prkce" />
+    <edge source="Epcam" target="Msh6" />
+    <edge source="Ppm1b" target="Thada" />
+    <edge source="Ppm1b" target="Lrpprc" />
+    <edge source="Ppm1b" target="Prkce" />
+    <edge source="Nrxn1" target="Prkce" />
+    <edge source="Abcg8" target="Abcg5" />
+    <edge source="Abcg8" target="Lrpprc" />
+    <edge source="Mta3" target="Six3" />
+    <edge source="Mta3" target="Thada" />
+    <edge source="Ttc7" target="Socs5" />
+    <edge source="Cox7a2l" target="Lrpprc" />
+    <edge source="Socs5" target="Prkce" />
+    <edge source="Msh6" target="Rhoq" />
+    <edge source="Msh6" target="Lrpprc" />
+    <edge source="Lrpprc" target="Abcg5" />
+    <edge source="Rhoq" target="Prkce" />
+    <edge source="Thada" target="Prkce" />
+  </graph>
+</graphml>

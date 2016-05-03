@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <graph edgedefault="undirected">
+    <node id="Oxtr" />
+    <node id="Brpf1" />
+    <node id="Thumpd3" />
+    <node id="Fancd2" />
+    <node id="Ghrl" />
+    <node id="Slc6a1" />
+    <node id="Rpusd3" />
+    <node id="Mkrn2" />
+    <node id="Emc3" />
+    <node id="Il17rc" />
+    <node id="Ttll3" />
+    <node id="Ogg1" />
+    <node id="Lhfpl4" />
+    <node id="Atg7" />
+    <node id="Timp4" />
+    <node id="Syn2" />
+    <node id="Brk1" />
+    <node id="Vhl" />
+    <node id="Arpc4" />
+    <node id="Il17re" />
+    <node id="Cav3" />
+    <node id="Lmcd1" />
+    <node id="Sec13" />
+    <node id="Slc6a11" />
+    <node id="Hrh1" />
+    <node id="Jagn1" />
+    <node id="Grm7" />
+    <node id="Tada3" />
+    <node id="Atp2b2" />
+    <edge source="Oxtr" target="Cav3" />
+    <edge source="Oxtr" target="Hrh1" />
+    <edge source="Oxtr" target="Ghrl" />
+    <edge source="Oxtr" target="Atp2b2" />
+    <edge source="Brpf1" target="Tada3" />
+    <edge source="Thumpd3" target="Rpusd3" />
+    <edge source="Fancd2" target="Sec13" />
+    <edge source="Ghrl" target="Hrh1" />
+    <edge source="Slc6a1" target="Atp2b2" />
+    <edge source="Mkrn2" target="Lhfpl4" />
+    <edge source="Mkrn2" target="Sec13" />
+    <edge source="Mkrn2" target="Grm7" />
+    <edge source="Emc3" target="Sec13" />
+    <edge source="Il17rc" target="Il17re" />
+    <edge source="Ttll3" target="Arpc4" />
+    <edge source="Ttll3" target="Ogg1" />
+    <edge source="Atg7" target="Slc6a11" />
+    <edge source="Timp4" target="Syn2" />
+    <edge source="Syn2" target="Grm7" />
+    <edge source="Syn2" target="Atp2b2" />
+    <edge source="Brk1" target="Arpc4" />
+    <edge source="Vhl" target="Lmcd1" />
+    <edge source="Arpc4" target="Sec13" />
+    <edge source="Arpc4" target="Tada3" />
+    <edge source="Cav3" target="Lmcd1" />
+    <edge source="Sec13" target="Jagn1" />
+    <edge source="Sec13" target="Atp2b2" />
+    <edge source="Jagn1" target="Atp2b2" />
+  </graph>
+</graphml>

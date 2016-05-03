@@ -1,0 +1,334 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <graph edgedefault="undirected">
+    <node id="Wbp5" />
+    <node id="Rpl36a" />
+    <node id="Txlng" />
+    <node id="Alas2" />
+    <node id="Mid2" />
+    <node id="Psmd10" />
+    <node id="Gpr143" />
+    <node id="Sh3bgrl" />
+    <node id="Tspan6" />
+    <node id="Pfkfb1" />
+    <node id="Brwd3" />
+    <node id="Rbbp7" />
+    <node id="Maged2" />
+    <node id="Fgd1" />
+    <node id="Kcne1l" />
+    <node id="Rai2" />
+    <node id="Itm2a" />
+    <node id="Plp1" />
+    <node id="Hnrnph2" />
+    <node id="Ctps2" />
+    <node id="Acsl4" />
+    <node id="Rs1" />
+    <node id="Ace2" />
+    <node id="Phka2" />
+    <node id="Huwe1" />
+    <node id="Gla" />
+    <node id="Pdha1" />
+    <node id="Phex" />
+    <node id="Eif1ax" />
+    <node id="Pbdc1" />
+    <node id="Atrx" />
+    <node id="Cox7b" />
+    <node id="Pou3f4" />
+    <node id="Prps1" />
+    <node id="Col4a5" />
+    <node id="Gprasp1" />
+    <node id="Arxes2" />
+    <node id="Siah1b" />
+    <node id="Pgk1" />
+    <node id="Pak3" />
+    <node id="Grpr" />
+    <node id="Capn6" />
+    <node id="Morf4l2" />
+    <node id="Tro" />
+    <node id="Tsc22d3" />
+    <node id="Armcx2" />
+    <node id="Prdx4" />
+    <node id="Diap2" />
+    <node id="Sms" />
+    <node id="Hmgn5" />
+    <node id="Hsd17b10" />
+    <node id="Sat1" />
+    <node id="Mageh1" />
+    <node id="Timm8a1" />
+    <node id="Acot9" />
+    <node id="Rps6ka3" />
+    <node id="Cstf2" />
+    <node id="Htr2c" />
+    <node id="Esx1" />
+    <node id="Bex4" />
+    <node id="Trpc5" />
+    <node id="Ubqln2" />
+    <node id="Zrsr2" />
+    <node id="Ap1s2" />
+    <node id="Btk" />
+    <node id="Morc4" />
+    <node id="Amot" />
+    <node id="Atp7a" />
+    <edge source="Wbp5" target="Tspan6" />
+    <edge source="Wbp5" target="Rpl36a" />
+    <edge source="Wbp5" target="Sh3bgrl" />
+    <edge source="Wbp5" target="Armcx2" />
+    <edge source="Wbp5" target="Morf4l2" />
+    <edge source="Wbp5" target="Maged2" />
+    <edge source="Wbp5" target="Prdx4" />
+    <edge source="Wbp5" target="Rbbp7" />
+    <edge source="Rpl36a" target="Hnrnph2" />
+    <edge source="Rpl36a" target="Timm8a1" />
+    <edge source="Rpl36a" target="Pgk1" />
+    <edge source="Rpl36a" target="Cstf2" />
+    <edge source="Rpl36a" target="Ubqln2" />
+    <edge source="Rpl36a" target="Prdx4" />
+    <edge source="Rpl36a" target="Rbbp7" />
+    <edge source="Rpl36a" target="Pbdc1" />
+    <edge source="Rpl36a" target="Hsd17b10" />
+    <edge source="Rpl36a" target="Cox7b" />
+    <edge source="Rpl36a" target="Prps1" />
+    <edge source="Rpl36a" target="Eif1ax" />
+    <edge source="Txlng" target="Eif1ax" />
+    <edge source="Alas2" target="Atrx" />
+    <edge source="Alas2" target="Pfkfb1" />
+    <edge source="Alas2" target="Phex" />
+    <edge source="Alas2" target="Acsl4" />
+    <edge source="Alas2" target="Fgd1" />
+    <edge source="Alas2" target="Huwe1" />
+    <edge source="Alas2" target="Ubqln2" />
+    <edge source="Alas2" target="Pak3" />
+    <edge source="Alas2" target="Ctps2" />
+    <edge source="Alas2" target="Hsd17b10" />
+    <edge source="Alas2" target="Prdx4" />
+    <edge source="Mid2" target="Prps1" />
+    <edge source="Psmd10" target="Hnrnph2" />
+    <edge source="Psmd10" target="Acsl4" />
+    <edge source="Psmd10" target="Huwe1" />
+    <edge source="Psmd10" target="Rps6ka3" />
+    <edge source="Psmd10" target="Cstf2" />
+    <edge source="Psmd10" target="Pgk1" />
+    <edge source="Psmd10" target="Esx1" />
+    <edge source="Psmd10" target="Prdx4" />
+    <edge source="Psmd10" target="Rbbp7" />
+    <edge source="Psmd10" target="Acot9" />
+    <edge source="Psmd10" target="Pbdc1" />
+    <edge source="Psmd10" target="Brwd3" />
+    <edge source="Psmd10" target="Sms" />
+    <edge source="Psmd10" target="Morf4l2" />
+    <edge source="Psmd10" target="Prps1" />
+    <edge source="Psmd10" target="Eif1ax" />
+    <edge source="Psmd10" target="Sat1" />
+    <edge source="Gpr143" target="Atp7a" />
+    <edge source="Gpr143" target="Diap2" />
+    <edge source="Sh3bgrl" target="Hnrnph2" />
+    <edge source="Sh3bgrl" target="Pou3f4" />
+    <edge source="Sh3bgrl" target="Rbbp7" />
+    <edge source="Sh3bgrl" target="Prdx4" />
+    <edge source="Sh3bgrl" target="Hmgn5" />
+    <edge source="Sh3bgrl" target="Itm2a" />
+    <edge source="Sh3bgrl" target="Eif1ax" />
+    <edge source="Sh3bgrl" target="Brwd3" />
+    <edge source="Sh3bgrl" target="Morf4l2" />
+    <edge source="Tspan6" target="Itm2a" />
+    <edge source="Tspan6" target="Maged2" />
+    <edge source="Tspan6" target="Armcx2" />
+    <edge source="Pfkfb1" target="Pgk1" />
+    <edge source="Pfkfb1" target="Ubqln2" />
+    <edge source="Pfkfb1" target="Pdha1" />
+    <edge source="Pfkfb1" target="Capn6" />
+    <edge source="Pfkfb1" target="Hsd17b10" />
+    <edge source="Brwd3" target="Atrx" />
+    <edge source="Brwd3" target="Acsl4" />
+    <edge source="Brwd3" target="Phka2" />
+    <edge source="Brwd3" target="Huwe1" />
+    <edge source="Brwd3" target="Itm2a" />
+    <edge source="Brwd3" target="Ubqln2" />
+    <edge source="Brwd3" target="Hmgn5" />
+    <edge source="Brwd3" target="Cstf2" />
+    <edge source="Brwd3" target="Ap1s2" />
+    <edge source="Brwd3" target="Pou3f4" />
+    <edge source="Brwd3" target="Prps1" />
+    <edge source="Rbbp7" target="Atrx" />
+    <edge source="Rbbp7" target="Cstf2" />
+    <edge source="Rbbp7" target="Hnrnph2" />
+    <edge source="Rbbp7" target="Pgk1" />
+    <edge source="Rbbp7" target="Prdx4" />
+    <edge source="Rbbp7" target="Hmgn5" />
+    <edge source="Rbbp7" target="Acot9" />
+    <edge source="Rbbp7" target="Pbdc1" />
+    <edge source="Rbbp7" target="Sms" />
+    <edge source="Rbbp7" target="Morf4l2" />
+    <edge source="Rbbp7" target="Prps1" />
+    <edge source="Rbbp7" target="Eif1ax" />
+    <edge source="Maged2" target="Htr2c" />
+    <edge source="Maged2" target="Armcx2" />
+    <edge source="Maged2" target="Prdx4" />
+    <edge source="Fgd1" target="Atrx" />
+    <edge source="Fgd1" target="Huwe1" />
+    <edge source="Fgd1" target="Bex4" />
+    <edge source="Fgd1" target="Amot" />
+    <edge source="Fgd1" target="Atp7a" />
+    <edge source="Fgd1" target="Hsd17b10" />
+    <edge source="Kcne1l" target="Itm2a" />
+    <edge source="Kcne1l" target="Acsl4" />
+    <edge source="Kcne1l" target="Col4a5" />
+    <edge source="Kcne1l" target="Ace2" />
+    <edge source="Kcne1l" target="Tro" />
+    <edge source="Rai2" target="Mageh1" />
+    <edge source="Itm2a" target="Atrx" />
+    <edge source="Itm2a" target="Armcx2" />
+    <edge source="Itm2a" target="Gprasp1" />
+    <edge source="Itm2a" target="Ace2" />
+    <edge source="Itm2a" target="Tro" />
+    <edge source="Itm2a" target="Pgk1" />
+    <edge source="Plp1" target="Rs1" />
+    <edge source="Hnrnph2" target="Atrx" />
+    <edge source="Hnrnph2" target="Acsl4" />
+    <edge source="Hnrnph2" target="Timm8a1" />
+    <edge source="Hnrnph2" target="Prps1" />
+    <edge source="Hnrnph2" target="Hmgn5" />
+    <edge source="Hnrnph2" target="Morf4l2" />
+    <edge source="Hnrnph2" target="Cstf2" />
+    <edge source="Hnrnph2" target="Zrsr2" />
+    <edge source="Hnrnph2" target="Morc4" />
+    <edge source="Hnrnph2" target="Eif1ax" />
+    <edge source="Hnrnph2" target="Sms" />
+    <edge source="Ctps2" target="Acot9" />
+    <edge source="Ctps2" target="Pbdc1" />
+    <edge source="Ctps2" target="Rps6ka3" />
+    <edge source="Ctps2" target="Grpr" />
+    <edge source="Ctps2" target="Ubqln2" />
+    <edge source="Ctps2" target="Prps1" />
+    <edge source="Acsl4" target="Phka2" />
+    <edge source="Acsl4" target="Rps6ka3" />
+    <edge source="Acsl4" target="Htr2c" />
+    <edge source="Acsl4" target="Pgk1" />
+    <edge source="Acsl4" target="Ubqln2" />
+    <edge source="Acsl4" target="Capn6" />
+    <edge source="Acsl4" target="Morf4l2" />
+    <edge source="Acsl4" target="Ap1s2" />
+    <edge source="Acsl4" target="Acot9" />
+    <edge source="Acsl4" target="Eif1ax" />
+    <edge source="Acsl4" target="Col4a5" />
+    <edge source="Acsl4" target="Sat1" />
+    <edge source="Ace2" target="Tro" />
+    <edge source="Ace2" target="Col4a5" />
+    <edge source="Ace2" target="Phex" />
+    <edge source="Phka2" target="Phex" />
+    <edge source="Phka2" target="Zrsr2" />
+    <edge source="Phka2" target="Huwe1" />
+    <edge source="Phka2" target="Pgk1" />
+    <edge source="Phka2" target="Grpr" />
+    <edge source="Huwe1" target="Atrx" />
+    <edge source="Huwe1" target="Siah1b" />
+    <edge source="Huwe1" target="Rps6ka3" />
+    <edge source="Huwe1" target="Ubqln2" />
+    <edge source="Huwe1" target="Amot" />
+    <edge source="Huwe1" target="Pbdc1" />
+    <edge source="Huwe1" target="Ap1s2" />
+    <edge source="Huwe1" target="Morf4l2" />
+    <edge source="Huwe1" target="Prps1" />
+    <edge source="Huwe1" target="Hsd17b10" />
+    <edge source="Huwe1" target="Atp7a" />
+    <edge source="Gla" target="Sat1" />
+    <edge source="Pdha1" target="Rps6ka3" />
+    <edge source="Pdha1" target="Atp7a" />
+    <edge source="Phex" target="Tro" />
+    <edge source="Phex" target="Pgk1" />
+    <edge source="Phex" target="Rps6ka3" />
+    <edge source="Phex" target="Sms" />
+    <edge source="Phex" target="Prdx4" />
+    <edge source="Phex" target="Hmgn5" />
+    <edge source="Eif1ax" target="Cstf2" />
+    <edge source="Eif1ax" target="Pgk1" />
+    <edge source="Eif1ax" target="Ubqln2" />
+    <edge source="Eif1ax" target="Sms" />
+    <edge source="Eif1ax" target="Prdx4" />
+    <edge source="Eif1ax" target="Morf4l2" />
+    <edge source="Eif1ax" target="Hmgn5" />
+    <edge source="Eif1ax" target="Acot9" />
+    <edge source="Eif1ax" target="Pbdc1" />
+    <edge source="Eif1ax" target="Zrsr2" />
+    <edge source="Eif1ax" target="Prps1" />
+    <edge source="Pbdc1" target="Pgk1" />
+    <edge source="Pbdc1" target="Ubqln2" />
+    <edge source="Pbdc1" target="Prdx4" />
+    <edge source="Pbdc1" target="Hmgn5" />
+    <edge source="Pbdc1" target="Sms" />
+    <edge source="Pbdc1" target="Morf4l2" />
+    <edge source="Pbdc1" target="Prps1" />
+    <edge source="Atrx" target="Pou3f4" />
+    <edge source="Atrx" target="Pgk1" />
+    <edge source="Atrx" target="Ubqln2" />
+    <edge source="Atrx" target="Morf4l2" />
+    <edge source="Atrx" target="Rps6ka3" />
+    <edge source="Atrx" target="Diap2" />
+    <edge source="Atrx" target="Zrsr2" />
+    <edge source="Atrx" target="Col4a5" />
+    <edge source="Atrx" target="Atp7a" />
+    <edge source="Cox7b" target="Hsd17b10" />
+    <edge source="Pou3f4" target="Diap2" />
+    <edge source="Pou3f4" target="Pgk1" />
+    <edge source="Pou3f4" target="Col4a5" />
+    <edge source="Prps1" target="Morf4l2" />
+    <edge source="Prps1" target="Pgk1" />
+    <edge source="Prps1" target="Ubqln2" />
+    <edge source="Prps1" target="Hmgn5" />
+    <edge source="Prps1" target="Cstf2" />
+    <edge source="Prps1" target="Sms" />
+    <edge source="Prps1" target="Bex4" />
+    <edge source="Prps1" target="Atp7a" />
+    <edge source="Col4a5" target="Diap2" />
+    <edge source="Col4a5" target="Timm8a1" />
+    <edge source="Gprasp1" target="Tro" />
+    <edge source="Gprasp1" target="Armcx2" />
+    <edge source="Gprasp1" target="Mageh1" />
+    <edge source="Gprasp1" target="Bex4" />
+    <edge source="Arxes2" target="Ubqln2" />
+    <edge source="Arxes2" target="Tsc22d3" />
+    <edge source="Pgk1" target="Capn6" />
+    <edge source="Pgk1" target="Morf4l2" />
+    <edge source="Pgk1" target="Prdx4" />
+    <edge source="Pgk1" target="Sms" />
+    <edge source="Pgk1" target="Hmgn5" />
+    <edge source="Pgk1" target="Ubqln2" />
+    <edge source="Pgk1" target="Hsd17b10" />
+    <edge source="Pgk1" target="Cstf2" />
+    <edge source="Pgk1" target="Atp7a" />
+    <edge source="Pak3" target="Ubqln2" />
+    <edge source="Pak3" target="Trpc5" />
+    <edge source="Grpr" target="Htr2c" />
+    <edge source="Grpr" target="Zrsr2" />
+    <edge source="Morf4l2" target="Ubqln2" />
+    <edge source="Morf4l2" target="Prdx4" />
+    <edge source="Morf4l2" target="Acot9" />
+    <edge source="Morf4l2" target="Cstf2" />
+    <edge source="Morf4l2" target="Sms" />
+    <edge source="Tro" target="Sat1" />
+    <edge source="Tro" target="Btk" />
+    <edge source="Tro" target="Htr2c" />
+    <edge source="Tro" target="Mageh1" />
+    <edge source="Prdx4" target="Ubqln2" />
+    <edge source="Prdx4" target="Hmgn5" />
+    <edge source="Prdx4" target="Sms" />
+    <edge source="Diap2" target="Mageh1" />
+    <edge source="Diap2" target="Btk" />
+    <edge source="Diap2" target="Amot" />
+    <edge source="Sms" target="Rps6ka3" />
+    <edge source="Sms" target="Ubqln2" />
+    <edge source="Sms" target="Acot9" />
+    <edge source="Sms" target="Sat1" />
+    <edge source="Hmgn5" target="Cstf2" />
+    <edge source="Hsd17b10" target="Ap1s2" />
+    <edge source="Sat1" target="Acot9" />
+    <edge source="Acot9" target="Cstf2" />
+    <edge source="Rps6ka3" target="Ap1s2" />
+    <edge source="Rps6ka3" target="Htr2c" />
+    <edge source="Rps6ka3" target="Atp7a" />
+    <edge source="Cstf2" target="Ubqln2" />
+    <edge source="Esx1" target="Amot" />
+    <edge source="Ubqln2" target="Atp7a" />
+    <edge source="Zrsr2" target="Ap1s2" />
+  </graph>
+</graphml>
