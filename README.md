@@ -1,6 +1,9 @@
 All code is now found in the daf16_mmp.zip
 The final report is called daf16_FinalReport_2016.pdf
 
+Some files are missing the import: import numpy as np
+Any file names that are not found need the file path corrected for the directory the files are in.
+
 The "Python_Code_Files" folder contains all the python scripts developed.
 Descriptions for these can be found below.
 
